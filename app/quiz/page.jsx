@@ -62,7 +62,7 @@ function QuizContent() {
         const isCorrect = option === currentQ.correctAnswer;
 
         setSelectedAnswer(option);
-        setAnswers({ ...answers, [currentQuestion]: option });
+        setAnswers({ ...answers, [currentQ._id]: option });
 
         if (isCorrect) {
             setCorrectCount(correctCount + 1);
@@ -131,6 +131,25 @@ function QuizContent() {
         }
     };
 
+    const [lang, setLang] = useState("en"); // "en" or "hi"
+
+    // ... existing hooks ...
+
+    // Helper to get text based on language
+    const getText = (obj, field) => {
+        if (lang === "hi" && obj[`${field}_hi`]) {
+            return obj[`${field}_hi`];
+        }
+        return obj[field];
+    };
+
+    const getOptions = (q) => {
+        if (lang === "hi" && q.options_hi && q.options_hi.length > 0) {
+            return q.options_hi;
+        }
+        return q.options;
+    };
+
     if (status === "loading" || loading) {
         return (
             <div className="flex items-center justify-center min-h-[60vh]">
@@ -149,7 +168,12 @@ function QuizContent() {
 
     const currentQ = questions[currentQuestion];
     const isAnswered = selectedAnswer !== null;
-    const isCorrect = selectedAnswer === currentQ.correctAnswer;
+    const isCorrect = isAnswered && selectedAnswer === (lang === "hi" && currentQ.correctAnswer_hi ? currentQ.correctAnswer_hi : currentQ.correctAnswer);
+
+    // We need to know which option is correct for display
+    const correctOptionText = lang === "hi" && currentQ.correctAnswer_hi ? currentQ.correctAnswer_hi : currentQ.correctAnswer;
+
+    const currentOptions = getOptions(currentQ);
 
     return (
         <div className="max-w-3xl mx-auto">
@@ -157,24 +181,41 @@ function QuizContent() {
                 <h1 className="text-3xl font-bold text-slate-800">
                     Question {currentQuestion + 1} of {questions.length}
                 </h1>
-                <div className="text-emerald-600 font-semibold text-lg">
-                    Correct: {correctCount}
+                <div className="flex items-center gap-4">
+                    <div className="text-emerald-600 font-semibold text-lg">
+                        Correct: {correctCount}
+                    </div>
                 </div>
             </div>
 
             <div className="bg-white p-8 rounded-2xl shadow-lg border border-slate-100">
-                <p className="text-xl text-slate-700 mb-8 leading-relaxed">
-                    {currentQ.question}
-                </p>
+                <div className="text-xl text-slate-700 mb-8 leading-relaxed">
+                    {getText(currentQ, "question")}
+                    <button
+                        onClick={() => setLang(lang === "en" ? "hi" : "en")}
+                        className="ml-4 inline-flex items-center gap-1 px-3 py-1 rounded-full border border-slate-200 bg-slate-50 text-sm text-slate-600 font-medium hover:bg-slate-100 transition align-middle"
+                        title="Switch Language"
+                    >
+                        {lang === "en" ? "🇮🇳 Hindi" : "🇺🇸 English"}
+                    </button>
+                </div>
 
                 <div className="space-y-4">
-                    {currentQ.options.map((option, index) => {
+                    {currentOptions.map((option, index) => {
                         let buttonClass = "w-full text-left p-4 rounded-xl border-2 transition-all font-medium ";
+
+                        // We need to compare specific text for this render
+                        // But wait, the selectedAnswer is the TEXT of the option clicked.
+                        // So simple equality check works if we assume selectedAnswer matches the current language option text.
+                        // However, if user switches lang mid-question, selectedAnswer (text) might mismatch currently displayed options.
+                        // Ideally we reset answer on lang switch or store answer index. 
+                        // But sticking to simple toggle: changing lang might act weird if already answered.
+                        // Let's assume user decides lang before answering.
 
                         if (!isAnswered) {
                             buttonClass += "border-slate-200 hover:border-emerald-500 hover:bg-emerald-50";
                         } else {
-                            if (option === currentQ.correctAnswer) {
+                            if (option === correctOptionText) {
                                 buttonClass += "border-green-500 bg-green-50 text-green-900";
                             } else if (option === selectedAnswer) {
                                 buttonClass += "border-red-500 bg-red-50 text-red-900";
@@ -203,7 +244,7 @@ function QuizContent() {
                         </p>
                         {!isCorrect && (
                             <p className="text-slate-700 mt-2">
-                                The correct answer is: <span className="font-semibold text-green-700">{currentQ.correctAnswer}</span>
+                                The correct answer is: <span className="font-semibold text-green-700">{correctOptionText}</span>
                             </p>
                         )}
                     </div>

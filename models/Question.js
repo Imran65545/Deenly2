@@ -5,14 +5,24 @@ const QuestionSchema = new mongoose.Schema({
         type: String,
         required: [true, 'Please provide the question text'],
     },
+    question_hi: {
+        type: String,
+    },
     options: {
         type: [String],
         required: [true, 'Please provide options'],
         validate: [arrayLimit, '{PATH} exceeds the limit of 4'],
     },
+    options_hi: {
+        type: [String],
+        validate: [arrayLimit, '{PATH} exceeds the limit of 4'],
+    },
     correctAnswer: {
         type: String,
         required: [true, 'Please provide the correct answer'],
+    },
+    correctAnswer_hi: {
+        type: String,
     },
     category: {
         type: String,

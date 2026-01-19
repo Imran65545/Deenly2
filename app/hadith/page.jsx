@@ -9,10 +9,13 @@ export default function HadithPage() {
     const [error, setError] = useState(null);
     const [isPlaying, setIsPlaying] = useState(false);
     const [speech, setSpeech] = useState(null);
+    const [translatedText, setTranslatedText] = useState(null);
+    const [isTranslating, setIsTranslating] = useState(false);
 
     const fetchHadith = async () => {
         setLoading(true);
         setError(null);
+        setTranslatedText(null); // Reset translation on new hadith
         stopSpeech();
         try {
             const response = await fetch("https://random-hadith-generator.vercel.app/bukhari/");
@@ -24,6 +27,29 @@ export default function HadithPage() {
             console.error(err);
         } finally {
             setLoading(false);
+        }
+    };
+
+    const handleTranslate = async () => {
+        if (!hadith?.hadith_english) return;
+
+        setIsTranslating(true);
+        try {
+            const res = await fetch("/api/translate", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ text: hadith.hadith_english })
+            });
+
+            if (!res.ok) throw new Error("Translation failed");
+
+            const data = await res.json();
+            setTranslatedText(data.translatedText);
+        } catch (error) {
+            console.error(error);
+            alert("Failed to translate. Please try again.");
+        } finally {
+            setIsTranslating(false);
         }
     };
 
@@ -109,32 +135,48 @@ export default function HadithPage() {
                             </div>
                         ) : hadith ? (
                             <div className="space-y-4 sm:space-y-6 md:space-y-8">
-                                {/* Hadith Reference & Voice Button */}
+                                {/* Hadith Reference & Actions */}
                                 <div className="flex flex-col sm:flex-row items-center justify-between gap-3 sm:gap-4">
                                     <span className="inline-block bg-amber-200 text-amber-900 px-3 sm:px-4 py-2 rounded-full text-xs sm:text-sm font-bold text-center">
                                         {hadith.refno || `Hadith #${hadith.id}`}
                                     </span>
 
-                                    {/* Voice Button */}
-                                    <button
-                                        onClick={toggleSpeech}
-                                        className={`flex items-center gap-2 px-4 sm:px-6 py-2.5 sm:py-3 rounded-full font-semibold transition-all shadow-lg text-sm sm:text-base ${isPlaying
-                                            ? 'bg-red-500 hover:bg-red-600 text-white'
-                                            : 'bg-emerald-500 hover:bg-emerald-600 text-white'
-                                            }`}
-                                    >
-                                        {isPlaying ? (
-                                            <>
-                                                <VolumeX size={18} className="sm:w-5 sm:h-5" />
-                                                <span className="hidden sm:inline">Stop</span>
-                                            </>
-                                        ) : (
-                                            <>
-                                                <Volume2 size={18} className="sm:w-5 sm:h-5" />
-                                                <span className="hidden sm:inline">Listen</span>
-                                            </>
-                                        )}
-                                    </button>
+                                    <div className="flex items-center gap-2">
+                                        {/* Translate Button */}
+                                        <button
+                                            onClick={handleTranslate}
+                                            disabled={isTranslating}
+                                            className="px-4 py-2 bg-indigo-50 text-indigo-700 hover:bg-indigo-100 rounded-full text-sm font-semibold transition flex items-center gap-2"
+                                        >
+                                            {isTranslating ? (
+                                                <Loader2 size={16} className="animate-spin" />
+                                            ) : (
+                                                <span className="text-lg">文A</span>
+                                            )}
+                                            {isTranslating ? "Translating..." : "Translate to Hindi"}
+                                        </button>
+
+                                        {/* Voice Button */}
+                                        <button
+                                            onClick={toggleSpeech}
+                                            className={`flex items-center gap-2 px-4 sm:px-6 py-2.5 sm:py-3 rounded-full font-semibold transition-all shadow-lg text-sm sm:text-base ${isPlaying
+                                                ? 'bg-red-500 hover:bg-red-600 text-white'
+                                                : 'bg-emerald-500 hover:bg-emerald-600 text-white'
+                                                }`}
+                                        >
+                                            {isPlaying ? (
+                                                <>
+                                                    <VolumeX size={18} className="sm:w-5 sm:h-5" />
+                                                    <span className="hidden sm:inline">Stop</span>
+                                                </>
+                                            ) : (
+                                                <>
+                                                    <Volume2 size={18} className="sm:w-5 sm:h-5" />
+                                                    <span className="hidden sm:inline">Listen</span>
+                                                </>
+                                            )}
+                                        </button>
+                                    </div>
                                 </div>
 
                                 {/* Narrator/Header */}
@@ -150,6 +192,18 @@ export default function HadithPage() {
                                         {hadith.hadith_english}
                                     </blockquote>
                                 </div>
+
+                                {/* Hindi Translation Display */}
+                                {translatedText && (
+                                    <div className="bg-indigo-50 rounded-xl sm:rounded-2xl p-5 sm:p-6 md:p-8 shadow-sm border border-indigo-100 animate-in fade-in slide-in-from-top-4 duration-500">
+                                        <h3 className="text-indigo-900 font-bold mb-3 flex items-center gap-2">
+                                            <span>🇮🇳</span> Hindi Translation
+                                        </h3>
+                                        <blockquote className="text-base sm:text-lg md:text-xl text-indigo-900 leading-relaxed break-words whitespace-pre-wrap font-medium">
+                                            {translatedText}
+                                        </blockquote>
+                                    </div>
+                                )}
 
                                 {/* Book & Chapter Info */}
                                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 sm:gap-4">

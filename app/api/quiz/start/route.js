@@ -44,6 +44,9 @@ export async function GET(req) {
                     options: 1,
                     correctAnswer: 1,
                     difficulty: 1,
+                    question_hi: 1,
+                    options_hi: 1,
+                    correctAnswer_hi: 1,
                 },
             },
         ]);

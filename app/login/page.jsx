@@ -4,16 +4,19 @@ import { useState } from "react";
 import { signIn } from "next-auth/react";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
+import { Loader2 } from "lucide-react";
 
 export default function Login() {
     const [email, setEmail] = useState("");
     const [password, setPassword] = useState("");
     const [error, setError] = useState("");
+    const [isLoading, setIsLoading] = useState(false);
     const router = useRouter();
 
     const handleSubmit = async (e) => {
         e.preventDefault();
         setError("");
+        setIsLoading(true);
 
         try {
             const res = await signIn("credentials", {
@@ -24,6 +27,7 @@ export default function Login() {
 
             if (res.error) {
                 setError("Invalid email or password");
+                setIsLoading(false);
                 return;
             }
 
@@ -31,8 +35,11 @@ export default function Login() {
             router.refresh();
         } catch (error) {
             setError("An error occurred. Please try again.");
+            setIsLoading(false);
         }
     };
+    // ... (rest of the component until button)
+
 
     return (
         <div className="max-w-md mx-auto mt-20 p-6 bg-white rounded-xl shadow-md border border-gray-100">
@@ -77,9 +84,11 @@ export default function Login() {
 
                 <button
                     type="submit"
-                    className="w-full bg-emerald-600 text-white font-semibold py-3 rounded-lg hover:bg-emerald-700 transition shadow-lg shadow-emerald-200"
+                    disabled={isLoading}
+                    className="w-full bg-emerald-600 text-white font-semibold py-3 rounded-lg hover:bg-emerald-700 transition shadow-lg shadow-emerald-200 flex items-center justify-center gap-2 disabled:opacity-70 disabled:cursor-not-allowed"
                 >
-                    Sign In
+                    {isLoading && <Loader2 className="w-5 h-5 animate-spin" />}
+                    {isLoading ? "Signing In..." : "Sign In"}
                 </button>
             </form>
 

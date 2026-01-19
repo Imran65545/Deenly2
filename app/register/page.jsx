@@ -4,7 +4,7 @@ import { useState } from "react";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
 import { signIn } from "next-auth/react";
-import { Eye, EyeOff } from "lucide-react";
+import { Eye, EyeOff, Loader2 } from "lucide-react";
 
 export default function Register() {
     const [name, setName] = useState("");
@@ -12,15 +12,18 @@ export default function Register() {
     const [password, setPassword] = useState("");
     const [showPassword, setShowPassword] = useState(false);
     const [error, setError] = useState("");
+    const [isLoading, setIsLoading] = useState(false);
     const router = useRouter();
 
     const handleSubmit = async (e) => {
         // ... (existing submit logic)
         e.preventDefault();
         setError("");
+        setIsLoading(true);
 
         if (!name || !email || !password) {
             setError("All fields are necessary.");
+            setIsLoading(false);
             return;
         }
 
@@ -41,6 +44,7 @@ export default function Register() {
 
             if (resUserExists.status !== 201) {
                 setError(message);
+                setIsLoading(false);
                 return;
             }
 
@@ -53,6 +57,7 @@ export default function Register() {
             if (res.error) {
                 setError("Registration successful, but login failed. Please login manually.");
                 router.push("/login");
+                setIsLoading(false);
                 return;
             }
 
@@ -62,6 +67,7 @@ export default function Register() {
         } catch (error) {
             setError("An error occurred during registration.");
             console.log("Error during registration: ", error);
+            setIsLoading(false);
         }
     };
 
@@ -132,9 +138,11 @@ export default function Register() {
 
                 <button
                     type="submit"
-                    className="w-full bg-emerald-600 text-white font-semibold py-3 rounded-lg hover:bg-emerald-700 transition shadow-lg shadow-emerald-200"
+                    disabled={isLoading}
+                    className="w-full bg-emerald-600 text-white font-semibold py-3 rounded-lg hover:bg-emerald-700 transition shadow-lg shadow-emerald-200 flex items-center justify-center gap-2 disabled:opacity-70 disabled:cursor-not-allowed"
                 >
-                    Sign Up
+                    {isLoading && <Loader2 className="w-5 h-5 animate-spin" />}
+                    {isLoading ? "Signing Up..." : "Sign Up"}
                 </button>
             </form>
 
