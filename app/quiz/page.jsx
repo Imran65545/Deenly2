@@ -19,6 +19,8 @@ function QuizContent() {
     const [hintLoading, setHintLoading] = useState(false);
     const [selectedAnswer, setSelectedAnswer] = useState(null);
     const [correctCount, setCorrectCount] = useState(0);
+    const [lang, setLang] = useState("en"); // "en" or "hi"
+    const [showWelcomeModal, setShowWelcomeModal] = useState(true);
 
     useEffect(() => {
         if (status === "unauthenticated") {
@@ -114,6 +116,7 @@ function QuizContent() {
                 body: JSON.stringify({
                     question: currentQ.question,
                     options: currentQ.options,
+                    lang: lang // Pass current language
                 }),
             });
 
@@ -131,9 +134,12 @@ function QuizContent() {
         }
     };
 
-    const [lang, setLang] = useState("en"); // "en" or "hi"
-
-    // ... existing hooks ...
+    // Re-fetch hint if language changes and hint is already shown
+    useEffect(() => {
+        if (hint) {
+            fetchHint();
+        }
+    }, [lang]);
 
     // Helper to get text based on language
     const getText = (obj, field) => {
@@ -176,14 +182,42 @@ function QuizContent() {
     const currentOptions = getOptions(currentQ);
 
     return (
-        <div className="max-w-3xl mx-auto">
+        <div className="max-w-3xl mx-auto relative">
+            {/* Welcome Modal */}
+            {showWelcomeModal && (
+                <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/60 backdrop-blur-sm p-4">
+                    <div className="bg-white rounded-2xl shadow-2xl max-w-md w-full p-6 sm:p-8 animate-in zoom-in-95 duration-300 border-2 border-emerald-100">
+                        <div className="text-center">
+                            <div className="bg-emerald-100 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4 text-3xl">
+                                ⚖️
+                            </div>
+                            <h2 className="text-2xl font-bold text-slate-800 mb-2">Fair Play Reminder</h2>
+                            <p className="text-slate-600 mb-6 leading-relaxed">
+                                Please answer the questions honestly without using external help.
+                                <br />
+                                <span className="font-semibold text-emerald-700 block mt-2">
+                                    "Indeed, Allah is ever, over you, an Observer."
+                                </span>
+                                <span className="text-xs text-slate-400">(Surah An-Nisa: 1)</span>
+                            </p>
+                            <button
+                                onClick={() => setShowWelcomeModal(false)}
+                                className="w-full bg-emerald-600 text-white font-bold py-3 rounded-xl hover:bg-emerald-700 transition shadow-lg shadow-emerald-200 transform active:scale-95"
+                            >
+                                Bismillah (Start Quiz)
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            )}
+
             <div className="mb-8 flex justify-between items-center">
                 <h1 className="text-3xl font-bold text-slate-800">
-                    Question {currentQuestion + 1} of {questions.length}
+                    {lang === "hi" ? "प्रश्न" : "Question"} {currentQuestion + 1} / {questions.length}
                 </h1>
                 <div className="flex items-center gap-4">
                     <div className="text-emerald-600 font-semibold text-lg">
-                        Correct: {correctCount}
+                        {lang === "hi" ? "सही: " : "Correct: "} {correctCount}
                     </div>
                 </div>
             </div>
@@ -203,14 +237,6 @@ function QuizContent() {
                 <div className="space-y-4">
                     {currentOptions.map((option, index) => {
                         let buttonClass = "w-full text-left p-4 rounded-xl border-2 transition-all font-medium ";
-
-                        // We need to compare specific text for this render
-                        // But wait, the selectedAnswer is the TEXT of the option clicked.
-                        // So simple equality check works if we assume selectedAnswer matches the current language option text.
-                        // However, if user switches lang mid-question, selectedAnswer (text) might mismatch currently displayed options.
-                        // Ideally we reset answer on lang switch or store answer index. 
-                        // But sticking to simple toggle: changing lang might act weird if already answered.
-                        // Let's assume user decides lang before answering.
 
                         if (!isAnswered) {
                             buttonClass += "border-slate-200 hover:border-emerald-500 hover:bg-emerald-50";
@@ -240,11 +266,11 @@ function QuizContent() {
                 {isAnswered && (
                     <div className={`mt-6 p-4 rounded-xl ${isCorrect ? 'bg-green-50 border-2 border-green-200' : 'bg-red-50 border-2 border-red-200'}`}>
                         <p className={`font-semibold ${isCorrect ? 'text-green-800' : 'text-red-800'}`}>
-                            {isCorrect ? '✓ Correct!' : '✗ Incorrect'}
+                            {isCorrect ? (lang === "hi" ? "✓ सही!" : "✓ Correct!") : (lang === "hi" ? "✗ गलत" : "✗ Incorrect")}
                         </p>
                         {!isCorrect && (
                             <p className="text-slate-700 mt-2">
-                                The correct answer is: <span className="font-semibold text-green-700">{correctOptionText}</span>
+                                {lang === "hi" ? "सही उत्तर है: " : "The correct answer is: "} <span className="font-semibold text-green-700">{correctOptionText}</span>
                             </p>
                         )}
                     </div>
@@ -258,7 +284,7 @@ function QuizContent() {
                             className="flex items-center gap-2 px-6 py-3 bg-amber-500 text-white rounded-lg font-semibold hover:bg-amber-600 transition disabled:opacity-50"
                         >
                             <Lightbulb size={20} />
-                            {hintLoading ? "Loading..." : "Get Hint"}
+                            {hintLoading ? (lang === "hi" ? "लोड हो रहा है..." : "Loading...") : (lang === "hi" ? "संकेत दें" : "Get Hint")}
                         </button>
                     )}
 
@@ -267,7 +293,7 @@ function QuizContent() {
                             onClick={handleNext}
                             className="px-8 py-3 bg-emerald-600 text-white rounded-lg font-semibold hover:bg-emerald-700 transition"
                         >
-                            {currentQuestion < questions.length - 1 ? "Next Question" : "Submit Quiz"}
+                            {currentQuestion < questions.length - 1 ? (lang === "hi" ? "अगला प्रश्न" : "Next Question") : (lang === "hi" ? "कोशिश जमा करें" : "Submit Quiz")}
                         </button>
                     )}
                 </div>

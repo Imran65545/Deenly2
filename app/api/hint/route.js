@@ -5,7 +5,7 @@ import Groq from "groq-sdk";
 
 export async function POST(req) {
     try {
-        const { question, options } = await req.json();
+        const { question, options, lang = "en" } = await req.json();
         const apiKey = process.env.GROQ_API_KEY;
 
         if (!apiKey) {
@@ -17,22 +17,25 @@ export async function POST(req) {
 
         const groq = new Groq({ apiKey });
 
-        const completion = await groq.chat.completions.create({
-            messages: [
-                {
-                    role: "user",
-                    content: `
+        const prompt = `
             You are an Islamic scholar helper. 
             Question: "${question}"
             Options: ${JSON.stringify(options)}
             
-            Provide a short, subtle hint to help the user answer this question. 
+            Provide a short, subtle hint to help the user answer this question in ${lang === "hi" ? "HINDI" : "ENGLISH"}.
             RULES:
             1. DO NOT reveal the answer.
             2. DO NOT mention the options directly (e.g. "It's not A").
             3. Focus on the concept or history related to the question.
             4. Keep it under 2 sentences.
-          `,
+            ${lang === "hi" ? "5. Return ONLY the Hindi text." : ""}
+        `;
+
+        const completion = await groq.chat.completions.create({
+            messages: [
+                {
+                    role: "user",
+                    content: prompt,
                 },
             ],
             model: "llama-3.3-70b-versatile",
