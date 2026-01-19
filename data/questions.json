@@ -3571,7 +3571,15 @@
             "Munkar",
             "Nakir"
         ],
-        "answer": "Ridwan"
+        "answer": "Ridwan",
+        "question_hi": "स्वर्ग का द्वारपाल कौन सा फरिश्ता है?",
+        "options_hi": [
+            "मालिक",
+            "रिदवान",
+            "मुनकर",
+            "नकीर"
+        ],
+        "answer_hi": "रिदवान"
     },
     {
         "question": "What was the name of the foster-sister of the Prophet (PBUH) who treated him with great love?",
@@ -3581,7 +3589,15 @@
             "Umm Ayman",
             "Barakah"
         ],
-        "answer": "Shayma"
+        "answer": "Shayma",
+        "question_hi": "नबी (पीबीयूएच) की जिस पालक बहन ने उन्हें बहुत प्यार से इलाज किया, उसका नाम क्या था?",
+        "options_hi": [
+            "हालिमा",
+            "शायमा",
+            "उम्म आयमान",
+            "बाराकाह"
+        ],
+        "answer_hi": "शायमा"
     },
     {
         "question": "Which battle is known as the 'Day of Criterion' (Yawm al-Furqan)?",
@@ -3591,7 +3607,15 @@
             "Battle of Khandaq",
             "Battle of Hunayn"
         ],
-        "answer": "Battle of Badr"
+        "answer": "Battle of Badr",
+        "question_hi": "कौन सी लड़ाई 'मानदंड के दिन' (यौम अल-फुरकान) के रूप में जानी जाती है?",
+        "options_hi": [
+            "उहुद की लड़ाई",
+            "बद्र की लड़ाई",
+            "खंदक की लड़ाई",
+            "हुनैन की लड़ाई"
+        ],
+        "answer_hi": "बद्र की लड़ाई"
     },
     {
         "question": "What is the name of the prayer offered for rain?",
@@ -3601,7 +3625,15 @@
             "Salah al-Kusoof",
             "Salah al-Hajat"
         ],
-        "answer": "Salah al-Istisqa"
+        "answer": "Salah al-Istisqa",
+        "question_hi": "वर्षा के लिए की जाने वाली प्रार्थना का नाम क्या है?",
+        "options_hi": [
+            "सलाह अल-इस्तिखारा",
+            "सलाह अल-इस्तिस्का",
+            "सलाह अल-कुसूफ",
+            "सलाह अल-हजात"
+        ],
+        "answer_hi": "सलाह अल-इस्तिस्का"
     },
     {
         "question": "Which Prophet built the Kaaba first with his son Ismail (AS)?",
@@ -3611,7 +3643,15 @@
             "Prophet Nuh (AS)",
             "Prophet Hud (AS)"
         ],
-        "answer": "Prophet Ibrahim (AS)"
+        "answer": "Prophet Ibrahim (AS)",
+        "question_hi": "कौन से नबी ने अपने पुत्र इस्माइल (एएस) के साथ पहले काबा का निर्माण किया था?",
+        "options_hi": [
+            "नबी आदम (एएस)",
+            "नबी इब्राहिम (एएस)",
+            "नबी नूह (एएस)",
+            "नबी हूद (एएस)"
+        ],
+        "answer_hi": "नबी इब्राहिम (एएस)"
     },
     {
         "question": "What was the name of the Christian monk who recognized the signs of prophethood in young Muhammad?",
@@ -3621,7 +3661,15 @@
             "Nestor",
             "Salman"
         ],
-        "answer": "Bahira"
+        "answer": "Bahira",
+        "question_hi": "नबी मुहम्मद के युवा में नबुव्वत के संकेतों को पहचानने वाले ईसाई साधु का नाम क्या था?",
+        "options_hi": [
+            "वरका इब्न नौफल",
+            "बहीरा",
+            "नेस्टर",
+            "सालमान"
+        ],
+        "answer_hi": "बहीरा"
     },
     {
         "question": "How many days did the fast of Ashura originally consist of as a recommendation?",
@@ -3631,7 +3679,15 @@
             "Three days",
             "Ten days"
         ],
-        "answer": "Two days"
+        "answer": "Two days",
+        "question_hi": "आशूरा के उपवास में मूल रूप से कितने दिनों की सिफारिश की गई थी?",
+        "options_hi": [
+            "एक दिन",
+            "दो दिन",
+            "तीन दिन",
+            "दस दिन"
+        ],
+        "answer_hi": "दो दिन"
     },
     {
         "question": "Which companion was the first to lead the pilgrims for Hajj during the Prophet's (PBUH) life?",
@@ -3641,7 +3697,15 @@
             "Ali (RA)",
             "Abbas (RA)"
         ],
-        "answer": "Abu Bakr (RA)"
+        "answer": "Abu Bakr (RA)",
+        "question_hi": "नबी (पीबीयूएच) के जीवनकाल में हाजी के लिए तीर्थयात्रियों का नेतृत्व करने वाला पहला साथी कौन था?",
+        "options_hi": [
+            "अबू बक्र (रजि)",
+            "उमर (रजि)",
+            "अली (रजि)",
+            "अब्बास (रजि)"
+        ],
+        "answer_hi": "अबू बक्र (रजि)"
     },
     {
         "question": "What is the name of the place between Paradise and Hell?",
@@ -3651,7 +3715,15 @@
             "Sidra",
             "Mizan"
         ],
-        "answer": "Al-A'raf"
+        "answer": "Al-A'raf",
+        "question_hi": "स्वर्ग और नरक के बीच स्थान का नाम क्या है?",
+        "options_hi": [
+            "बरजख",
+            "अल-आराफ",
+            "सिद्रा",
+            "मीजान"
+        ],
+        "answer_hi": "अल-आराफ"
     },
     {
         "question": "Which Surah is equivalent to one-third of the Quran in reward?",
@@ -3661,7 +3733,15 @@
             "Surah Al-Kafirun",
             "Surah Al-Falaq"
         ],
-        "answer": "Surah Al-Ikhlas"
+        "answer": "Surah Al-Ikhlas",
+        "question_hi": "कौन सी सूरह पुरस्कार में कुरान के एक-तिहाई के बराबर है?",
+        "options_hi": [
+            "सूरह अल-फातिहा",
+            "सूरह अल-इखलास",
+            "सूरह अल-काफिरून",
+            "सूरह अल-फलक"
+        ],
+        "answer_hi": "सूरह अल-इखलास"
     },
     {
         "question": "What was the Prophet's (PBUH) age when he went on his first trading journey to Syria?",
@@ -3671,6 +3751,14 @@
             "15 years",
             "25 years"
         ],
-        "answer": "12 years"
+        "answer": "12 years",
+        "question_hi": "पैगंबर (पीबीयूएच) की आयु क्या थी जब उन्होंने सीरिया की अपनी पहली व्यापारिक यात्रा पर जाने के लिए?",
+        "options_hi": [
+            "9 साल",
+            "12 साल",
+            "15 साल",
+            "25 साल"
+        ],
+        "answer_hi": "12 साल"
     }
 ]
