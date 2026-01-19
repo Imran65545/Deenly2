@@ -63,8 +63,11 @@ async function seed() {
         // Transform to Schema format
         const formattedQuestions = questions.map(q => ({
             question: q.question,
+            question_hi: q.question_hi || q.question, // Fallback to English if Hindi not available
             options: q.options,
+            options_hi: q.options_hi || q.options, // Fallback to English if Hindi not available
             correctAnswer: q.answer,
+            correctAnswer_hi: q.answer_hi || q.answer, // Fallback to English if Hindi not available
             category: "General",
             difficulty: "Medium",
             reference: ""
