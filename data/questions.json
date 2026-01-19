@@ -1,0 +1,2092 @@
+[
+    {
+        "question": "What is the longest Surah in the Holy Quran?",
+        "options": [
+            "Surah Al-Baqarah",
+            "Surah Al-Imran",
+            "Surah An-Nisa",
+            "Surah Al-Ma'idah"
+        ],
+        "answer": "Surah Al-Baqarah"
+    },
+    {
+        "question": "What is the third month in the Hijri calendar?",
+        "options": [
+            "Shaban",
+            "Rabi' al-Awwal",
+            "Jumada al-Akhirah",
+            "Dhu al-Qi'dah"
+        ],
+        "answer": "Rabi' al-Awwal"
+    },
+    {
+        "question": "How old was Prophet Muhammad (PBUH) when his mother passed away?",
+        "options": [
+            "3 years old",
+            "4 years old",
+            "5 years old",
+            "6 years old"
+        ],
+        "answer": "6 years old"
+    },
+    {
+        "question": "How many Takbirs are in the first Rak'ah of the Eid prayer?",
+        "options": [
+            "Six",
+            "Seven",
+            "Nine",
+            "Five"
+        ],
+        "answer": "Seven"
+    },
+    {
+        "question": "Which Surah ends with the name of one of the prayer times?",
+        "options": [
+            "Surah Al-Qadr",
+            "Surah Al-Balad",
+            "Surah Al-A'la",
+            "Surah Al-Fajr"
+        ],
+        "answer": "Surah Al-Qadr"
+    },
+    {
+        "question": "How many categories of people are eligible to receive Zakat?",
+        "options": [
+            "Eight",
+            "Five",
+            "Seven",
+            "Nine"
+        ],
+        "answer": "Eight"
+    },
+    {
+        "question": "On which side is the door of the Holy Kaaba located?",
+        "options": [
+            "The Western side",
+            "The Southern side",
+            "The Northern side",
+            "The Eastern side"
+        ],
+        "answer": "The Eastern side"
+    },
+    {
+        "question": "Allah says in Surah Al-Adiyat: 'By the chargers (Al-Mughirat) at dawn'—what is meant by Al-Mughirat?",
+        "options": [
+            "Strong winds",
+            "Camels",
+            "Swimming Angels",
+            "Horses"
+        ],
+        "answer": "Horses"
+    },
+    {
+        "question": "How many times is Lady Maryam (Mary) mentioned in the Holy Quran?",
+        "options": [
+            "43 times",
+            "55 times",
+            "42 times",
+            "34 times"
+        ],
+        "answer": "34 times"
+    },
+    {
+        "question": "What is the greatest verse in the Holy Quran?",
+        "options": [
+            "Ayat al-Kursi",
+            "The last verse of Surah Al-Kahf",
+            "The last verse of Surah Al-Baqarah",
+            "The first verse of Surah Al-Baqarah"
+        ],
+        "answer": "Ayat al-Kursi"
+    },
+    {
+        "question": "In which Surah does the verse appear: 'Whatever the Messenger gives you, take it; and whatever he forbids you, abstain from it'?",
+        "options": [
+            "Surah Al-Hashr",
+            "Surah As-Saff",
+            "Surah Al-Jumu'ah",
+            "Surah Al-Waqi'ah"
+        ],
+        "answer": "Surah Al-Hashr"
+    },
+    {
+        "question": "How many bearers of the Throne on the Day of Resurrection are mentioned in the Quran?",
+        "options": [
+            "Seven",
+            "Six",
+            "Eight",
+            "Nine"
+        ],
+        "answer": "Eight"
+    },
+    {
+        "question": "Which Surah is known as the Surah of Farewell (at-Tawdee')?",
+        "options": [
+            "Surah Az-Zalzalah",
+            "Surah Al-Hajj",
+            "Surah An-Nasr",
+            "Surah Al-Fil"
+        ],
+        "answer": "Surah An-Nasr"
+    },
+    {
+        "question": "How many verses are in Surah Al-Baqarah?",
+        "options": [
+            "286 verses",
+            "280 verses",
+            "277 verses",
+            "298 verses"
+        ],
+        "answer": "286 verses"
+    },
+    {
+        "question": "How many Surahs open with three disconnected letters (Huroof al-Muqatta'at)?",
+        "options": [
+            "16 Surahs",
+            "15 Surahs",
+            "14 Surahs",
+            "13 Surahs"
+        ],
+        "answer": "13 Surahs"
+    },
+    {
+        "question": "How many parts (Juz) are in the Holy Quran?",
+        "options": [
+            "30 parts",
+            "29 parts",
+            "28 parts",
+            "27 parts"
+        ],
+        "answer": "30 parts"
+    },
+    {
+        "question": "How many times is the name 'Allah' mentioned in Surah Al-Fatiha?",
+        "options": [
+            "5 times",
+            "6 times",
+            "7 times",
+            "4 times"
+        ],
+        "answer": "5 times"
+    },
+    {
+        "question": "How many Prophets and Messengers did Allah mention by name in the Quran?",
+        "options": [
+            "25 Prophets and Messengers",
+            "24 Prophets and Messengers",
+            "23 Prophets and Messengers",
+            "26 Prophets and Messengers"
+        ],
+        "answer": "25 Prophets and Messengers"
+    },
+    {
+        "question": "Who is the Prophet who lived in the belly of the whale?",
+        "options": [
+            "Prophet Noah (AS)",
+            "Prophet Jonah (AS)",
+            "Prophet Abraham (AS)",
+            "Prophet Shuaib (AS)"
+        ],
+        "answer": "Prophet Jonah (AS)"
+    },
+    {
+        "question": "What is the fast that is completed/broken upon 'getting rid of the reason' for it?",
+        "options": [
+            "The fast of Expiation (Kaffarah)",
+            "Voluntary fast",
+            "The fast of a Vow (Nazr)",
+            "Obligatory fast"
+        ],
+        "answer": "The fast of Expiation (Kaffarah)"
+    },
+    {
+        "question": "Who is the 'Khalil' (Friend) that Prophet Ibrahim (AS) was called by?",
+        "options": [
+            "Ishmael (AS)",
+            "Isaac (AS)",
+            "Jacob (AS)",
+            "Lot (AS)"
+        ],
+        "answer": "Isaac (AS)"
+    },
+    {
+        "question": "How many gates are there in Medina?",
+        "options": [
+            "8 gates",
+            "9 gates",
+            "10 gates",
+            "7 gates"
+        ],
+        "answer": "8 gates"
+    },
+    {
+        "question": "Who is the companion to whom the Prophet said: 'You are to me as Aaron was to Moses'?",
+        "options": [
+            "Abu Bakr as-Siddiq (RA)",
+            "Ali bin Abi Talib (RA)",
+            "Uthman bin Affan (RA)",
+            "Sa'd bin Abi Waqqas (RA)"
+        ],
+        "answer": "Ali bin Abi Talib (RA)"
+    },
+    {
+        "question": "Which companion was nicknamed 'The Drawn Sword of Allah'?",
+        "options": [
+            "Khalid bin al-Walid (RA)",
+            "Sa'd bin Abi Waqqas (RA)",
+            "Zaid bin Harithah (RA)",
+            "Abu Bakr as-Siddiq (RA)"
+        ],
+        "answer": "Khalid bin al-Walid (RA)"
+    },
+    {
+        "question": "Who is the Caliph who founded the Umayyad Dynasty?",
+        "options": [
+            "Mu'awiya bin Abi Sufyan",
+            "Abd al-Malik bin Marwan",
+            "Marwan bin al-Hakam",
+            "Abd al-Aziz bin Marwan"
+        ],
+        "answer": "Mu'awiya bin Abi Sufyan"
+    },
+    {
+        "question": "Which Rightly Guided Caliph was known as 'Dhu al-Nurayn' (Possessor of the Two Lights)?",
+        "options": [
+            "Ali bin Abi Talib (RA)",
+            "Uthman bin Affan (RA)",
+            "Abu Bakr as-Siddiq (RA)",
+            "Abdullah bin Abbas (RA)"
+        ],
+        "answer": "Uthman bin Affan (RA)"
+    },
+    {
+        "question": "Which Rightly Guided Caliph established the first Islamic army?",
+        "options": [
+            "Ali bin Abi Talib (RA)",
+            "Umar bin al-Khattab (RA)",
+            "Abu Bakr as-Siddiq (RA)",
+            "Khalid bin al-Walid (RA)"
+        ],
+        "answer": "Khalid bin al-Walid (RA)"
+    },
+    {
+        "question": "Which Prophet worked as a shipbuilder?",
+        "options": [
+            "Prophet Noah (AS)",
+            "Prophet Jonah (AS)",
+            "Prophet Ishmael (AS)",
+            "Prophet Salih (AS)"
+        ],
+        "answer": "Prophet Noah (AS)"
+    },
+    {
+        "question": "Which Prophet is mentioned in the Quran as being the Friend of Allah?",
+        "options": [
+            "Prophet Abraham (AS)",
+            "Prophet Moses (AS)",
+            "Prophet David (AS)",
+            "Prophet Jonah (AS)"
+        ],
+        "answer": "Prophet Abraham (AS)"
+    },
+    {
+        "question": "How many Surahs of the Holy Quran begin with disconnected letters?",
+        "options": [
+            "14 Surahs",
+            "15 Surahs",
+            "16 Surahs",
+            "17 Surahs"
+        ],
+        "answer": "14 Surahs"
+    },
+    {
+        "question": "Which Rightly Guided Caliph was known by the title 'Al-Faruq'?",
+        "options": [
+            "Abu Bakr as-Siddiq (RA)",
+            "Umar bin al-Khattab (RA)",
+            "Uthman bin Affan (RA)",
+            "Ali bin Abi Talib (RA)"
+        ],
+        "answer": "Umar bin al-Khattab (RA)"
+    },
+    {
+        "question": "In which Surah is the story of the People of the Ditch (Ashab al-Ukhdud) mentioned?",
+        "options": [
+            "Surah Al-Muddathir",
+            "Surah Al-Hashr",
+            "Surah Al-Buruj",
+            "Surah At-Tur"
+        ],
+        "answer": "Surah Al-Buruj"
+    },
+    {
+        "question": "Who is the Prophet ordered to build the Kaaba with his son Ishmael (AS)?",
+        "options": [
+            "Prophet Abraham (AS)",
+            "Prophet Ishmael (AS)",
+            "Prophet Moses (AS)",
+            "Prophet Jesus (AS)"
+        ],
+        "answer": "Prophet Abraham (AS)"
+    },
+    {
+        "question": "Who is the final prophet in Islam?",
+        "options": [
+            "Muhammad (PBUH)",
+            "Jesus",
+            "Moses",
+            "Abraham"
+        ],
+        "answer": "Muhammad (PBUH)"
+    },
+    {
+        "question": "What is the holy book of Islam?",
+        "options": [
+            "Quran",
+            "Bible",
+            "Torah",
+            "Vedas"
+        ],
+        "answer": "Quran"
+    },
+    {
+        "question": "What is the name of the pilgrimage to Mecca that every Muslim must undertake at least once in their lifetime?",
+        "options": [
+            "Umrah",
+            "Hajj",
+            "Salah",
+            "Zakat"
+        ],
+        "answer": "Hajj"
+    },
+    {
+        "question": "Who was the first caliph of Islam after the death of Prophet Muhammad (PBUH)?",
+        "options": [
+            "Abu Bakr",
+            "Ali ibn Abi Talib",
+            "Umar ibn al-Khattab",
+            "Uthman ibn Affan"
+        ],
+        "answer": "Abu Bakr"
+    },
+    {
+        "question": "What is the name of the night journey that Prophet Muhammad (PBUH) took from Mecca to Jerusalem and ascended to heaven?",
+        "options": [
+            "Miraj",
+            "Isra",
+            "Tawaf",
+            "Salat"
+        ],
+        "answer": "Miraj"
+    },
+    {
+        "question": "What is the first month of the Islamic calendar?",
+        "options": [
+            "Rajab",
+            "Ramadan",
+            "Muharram",
+            "Shawwal"
+        ],
+        "answer": "Muharram"
+    },
+    {
+        "question": "What is the name of the angel who delivered messages from Allah to Prophet Muhammad (PBUH)?",
+        "options": [
+            "Jibreel (Gabriel)",
+            "Israfil",
+            "Mikail (Michael)",
+            "Azrael"
+        ],
+        "answer": "Jibreel (Gabriel)"
+    },
+    {
+        "question": "What is the name of the Islamic declaration of faith?",
+        "options": [
+            "Adhan",
+            "Shahada",
+            "Tawhid",
+            "Iqama"
+        ],
+        "answer": "Shahada"
+    },
+    {
+        "question": "In Islam, what is the term for giving a portion of one's wealth to charity?",
+        "options": [
+            "Zakat",
+            "Hajj",
+            "Sadaqah",
+            "Fitrah"
+        ],
+        "answer": "Zakat"
+    },
+    {
+        "question": "What is the name of the Islamic ritual prayer performed five times a day?",
+        "options": [
+            "Zakat",
+            "Salat",
+            "Hajj",
+            "Sawm"
+        ],
+        "answer": "Salat"
+    },
+    {
+        "question": "Which Islamic month involves fasting from dawn until sunset?",
+        "options": [
+            "Rajab",
+            "Shawwal",
+            "Ramadan",
+            "Dhu al-Hijjah"
+        ],
+        "answer": "Ramadan"
+    },
+    {
+        "question": "What is the name of the battle in which Muslims achieved a decisive victory over the Quraysh tribe of Mecca, leading to the conquest of Mecca?",
+        "options": [
+            "Battle of Uhud",
+            "Battle of Badr",
+            "Battle of Khandaq",
+            "Conquest of Mecca"
+        ],
+        "answer": "Conquest of Mecca"
+    },
+    {
+        "question": "What is the name of the Islamic scholar and theologian who is famous for his work in the field of Islamic philosophy, theology, and mysticism?",
+        "options": [
+            "Ibn Taymiyyah",
+            "Ibn Rushd",
+            "Ibn Sina",
+            "Al-Ghazali"
+        ],
+        "answer": "Al-Ghazali"
+    },
+    {
+        "question": "In Islamic history, which year is known as the Year of Sorrow for Prophet Muhammad (PBUH)?",
+        "options": [
+            "619 CE",
+            "610 CE",
+            "632 CE",
+            "622 CE"
+        ],
+        "answer": "619 CE"
+    },
+    {
+        "question": "What is the name of the mountain cave where the first revelation of the Quran occurred to Prophet Muhammad (PBUH)?",
+        "options": [
+            "Mount Uhud",
+            "Mount Safa",
+            "Mount Hira",
+            "Mount Arafat"
+        ],
+        "answer": "Mount Hira"
+    },
+    {
+        "question": "What is the name of the black cube-shaped structure located at the center of the Great Mosque in Mecca?",
+        "options": [
+            "Kaaba",
+            "Masjid al-Haram",
+            "Al-Masjid an-Nabawi",
+            "Al-Aqsa Mosque"
+        ],
+        "answer": "Kaaba"
+    },
+    {
+        "question": "Which wife of Prophet Muhammad (PBUH) was the daughter of his close companion, Abu Bakr?",
+        "options": [
+            "Aisha",
+            "Khadijah",
+            "Hafsa",
+            "Sawda"
+        ],
+        "answer": "Aisha"
+    },
+    {
+        "question": "What is the name of the prayer performed on the last Friday of Ramadan?",
+        "options": [
+            "Tarawih",
+            "Tahajjud",
+            "Jumu'ah",
+            "Istisqa"
+        ],
+        "answer": "Jumu'ah"
+    },
+    {
+        "question": "What is the name of the angel who will blow the trumpet to signal the Day of Judgment?",
+        "options": [
+            "Israfil",
+            "Jibreel (Gabriel)",
+            "Mikail (Michael)",
+            "Azrael"
+        ],
+        "answer": "Israfil"
+    },
+    {
+        "question": "What is the term for the practice of spiritual retreat and seclusion in Islam, often undertaken for the purpose of seeking closeness to Allah?",
+        "options": [
+            "Hijrah",
+            "I'tikaf",
+            "Muraqabah",
+            "Zuhd"
+        ],
+        "answer": "I'tikaf"
+    },
+    {
+        "question": "What is the name of the treaty signed between the Muslims of Medina and the Quraysh of Mecca, marking the end of hostilities between the two groups?",
+        "options": [
+            "Treaty of Hudaybiyyah",
+            "Treaty of Najran",
+            "Treaty of Al-Hudaybiyyah",
+            "Treaty of Ta'if"
+        ],
+        "answer": "Treaty of Al-Hudaybiyyah"
+    },
+    {
+        "question": "Which Surah in the Quran is known as the 'Heart of the Quran' due to its central theme of monotheism and spiritual reflection?",
+        "options": [
+            "Surah Al-Fatiha",
+            "Surah Al-Ikhlas",
+            "Surah Al-Baqarah",
+            "Surah Yasin"
+        ],
+        "answer": "Surah Al-Ikhlas"
+    },
+    {
+        "question": "Who was the first person to accept Islam after Prophet Muhammad (PBUH) received revelations from Allah?",
+        "options": [
+            "Abu Bakr",
+            "Ali ibn Abi Talib",
+            "Khadijah bint Khuwaylid",
+            "Zayd ibn Harithah"
+        ],
+        "answer": "Khadijah bint Khuwaylid"
+    },
+    {
+        "question": "What is the name of the ritual performed by pilgrims during the Hajj, involving the symbolic stoning of three pillars representing Satan?",
+        "options": [
+            "Tawaf",
+            "Sa'i",
+            "Jamarat",
+            "Rami"
+        ],
+        "answer": "Rami"
+    },
+    {
+        "question": "What is the name of the Islamic pilgrimage that is performed outside of the designated Hajj months?",
+        "options": [
+            "Umrah",
+            "Hajj Tamattu'",
+            "Hajj Ifrad",
+            "Hajj Qiran"
+        ],
+        "answer": "Umrah"
+    },
+    {
+        "question": "What are the companions of the Prophet called?",
+        "options": [
+            "Sahaba",
+            "Friends",
+            "Ansar",
+            "Hawari'"
+        ],
+        "answer": "Sahaba"
+    },
+    {
+        "question": "The real purpose of the Holy Quran is",
+        "options": [
+            "Guidance",
+            "Reward",
+            "Knowledge",
+            "Punishment"
+        ],
+        "answer": "Guidance"
+    },
+    {
+        "question": "It is said that Sayyida Khadijat al-Kubra was older than Prophet Muhammad (pbuh) and was a widow at the time of marriage with Prophet Muhammad (pbuh), how many times was she married before?",
+        "options": [
+            "Once",
+            "She wasn't married before",
+            "Twice",
+            "Thrice"
+        ],
+        "answer": "Twice"
+    },
+    {
+        "question": "Which name of Allah means The Honorer?",
+        "options": [
+            "Ash-Shakoor",
+            "Al-Mu^iz",
+            "Al-Haleem",
+            "Ar-Rahman"
+        ],
+        "answer": "Al-Mu^iz"
+    },
+    {
+        "question": "Which language was the Qur'an revealed in?",
+        "options": [
+            "Arabic",
+            "English",
+            "Greek",
+            "Pashto"
+        ],
+        "answer": "Arabic"
+    },
+    {
+        "question": "Who controlled the Jinns?",
+        "options": [
+            "No one",
+            "Sulaiman (AS)",
+            "Yaqoob (AS)",
+            "Musa (AS)"
+        ],
+        "answer": "Sulaiman (AS)"
+    },
+    {
+        "question": "How many surahs are there in the Qur'an?",
+        "options": [
+            "114",
+            "121",
+            "111",
+            "115"
+        ],
+        "answer": "114"
+    },
+    {
+        "question": "Who was the first prophet?",
+        "options": [
+            "Isa (AS)",
+            "Yusha (AS)",
+            "Musa (AS)",
+            "Adam (AS)"
+        ],
+        "answer": "Adam (AS)"
+    },
+    {
+        "question": "How many pages does the Qur'an have?",
+        "options": [
+            "604",
+            "620",
+            "607",
+            "606"
+        ],
+        "answer": "604"
+    },
+    {
+        "question": "How old was Khadija (RA) when she married Muhammad (SAW)?",
+        "options": [
+            "51",
+            "45",
+            "47",
+            "40"
+        ],
+        "answer": "40"
+    },
+    {
+        "question": "How long did prophet Nuh (AS) live for?",
+        "options": [
+            "950 years",
+            "1001 years",
+            "1000 years",
+            "600 years"
+        ],
+        "answer": "950 years"
+    },
+    {
+        "question": "How many children did Prophet Muhammad (SAW) have?",
+        "options": [
+            "4 children",
+            "3 children",
+            "7 children",
+            "3 children"
+        ],
+        "answer": "7 children"
+    },
+    {
+        "question": "Which is the best drink mentioned in the Qur'an?",
+        "options": [
+            "Milk",
+            "Water",
+            "Wine",
+            "Beer"
+        ],
+        "answer": "Milk"
+    },
+    {
+        "question": "What are jinns made out of?",
+        "options": [
+            "Air",
+            "Fire",
+            "Clay",
+            "Light"
+        ],
+        "answer": "Fire"
+    },
+    {
+        "question": "How tall is the Ka'bah?",
+        "options": [
+            "50 feet tall",
+            "60 feet tall",
+            "40 feet tall",
+            "55 feet tall"
+        ],
+        "answer": "50 feet tall"
+    },
+    {
+        "question": "What was the name of the Prophet's (PBUH) father?",
+        "options": [
+            "Abu Talib",
+            "Abdullah",
+            "Abdul Muttalib",
+            "Hamza"
+        ],
+        "answer": "Abdullah"
+    },
+    {
+        "question": "What was the name of the Prophet's (PBUH) grandfather who took care of him?",
+        "options": [
+            "Abu Lahab",
+            "Abbas",
+            "Abdul Muttalib",
+            "Abu Bakr"
+        ],
+        "answer": "Abdul Muttalib"
+    },
+    {
+        "question": "To which city did the Prophet (PBUH) migrate from Mecca?",
+        "options": [
+            "Taif",
+            "Jerusalem",
+            "Abyssinia",
+            "Medina"
+        ],
+        "answer": "Medina"
+    },
+    {
+        "question": "What was the name of the foster mother who nursed the Prophet (PBUH)?",
+        "options": [
+            "Halima Sadia",
+            "Fatima",
+            "Aminah",
+            "Sawda"
+        ],
+        "answer": "Halima Sadia"
+    },
+    {
+        "question": "Which companion accompanied the Prophet (PBUH) during the Hijrah (migration) to Medina?",
+        "options": [
+            "Ali (RA)",
+            "Umar (RA)",
+            "Abu Bakr (RA)",
+            "Uthman (RA)"
+        ],
+        "answer": "Abu Bakr (RA)"
+    },
+    {
+        "question": "What was the title given to the Prophet (PBUH) because of his honesty and truthfulness?",
+        "options": [
+            "As-Siddiq",
+            "Al-Amin",
+            "Al-Faruq",
+            "Dhul-Nurayn"
+        ],
+        "answer": "Al-Amin"
+    },
+    {
+        "question": "How many years did the Prophet (PBUH) preach Islam in Mecca before migrating?",
+        "options": [
+            "10 years",
+            "13 years",
+            "15 years",
+            "23 years"
+        ],
+        "answer": "13 years"
+    },
+    {
+        "question": "What was the name of the camel the Prophet (PBUH) rode during the migration to Medina?",
+        "options": [
+            "Qaswa",
+            "Al-Adha",
+            "Duldul",
+            "Burak"
+        ],
+        "answer": "Qaswa"
+    },
+    {
+        "question": "In which battle did the Prophet (PBUH) lose his tooth?",
+        "options": [
+            "Battle of Badr",
+            "Battle of Khandaq",
+            "Battle of Uhud",
+            "Battle of Khaybar"
+        ],
+        "answer": "Battle of Uhud"
+    },
+    {
+        "question": "What was the name of the Prophet's (PBUH) youngest daughter?",
+        "options": [
+            "Zainab",
+            "Ruqayyah",
+            "Umm Kulthum",
+            "Fatima"
+        ],
+        "answer": "Fatima"
+    },
+    {
+        "question": "How many times did the Prophet (PBUH) perform Hajj?",
+        "options": [
+            "Zero",
+            "One",
+            "Two",
+            "Four"
+        ],
+        "answer": "One"
+    },
+    {
+        "question": "Which Prophet is known as 'Kalimullah' (The one who spoke to Allah)?",
+        "options": [
+            "Prophet Isa (AS)",
+            "Prophet Musa (AS)",
+            "Prophet Dawood (AS)",
+            "Prophet Muhammad (PBUH)"
+        ],
+        "answer": "Prophet Musa (AS)"
+    },
+    {
+        "question": "Which Surah is recited every Friday to protect from Dajjal?",
+        "options": [
+            "Surah Al-Mulk",
+            "Surah Yasin",
+            "Surah Al-Kahf",
+            "Surah Ar-Rahman"
+        ],
+        "answer": "Surah Al-Kahf"
+    },
+    {
+        "question": "What is the name of the well that appeared for Lady Hajar and baby Ishmael?",
+        "options": [
+            "Zamzam",
+            "Badr",
+            "Kawthar",
+            "Tasnim"
+        ],
+        "answer": "Zamzam"
+    },
+    {
+        "question": "How many daily prayers were originally commanded during the Night Journey (Miraj)?",
+        "options": [
+            "Five",
+            "Ten",
+            "Twenty-five",
+            "Fifty"
+        ],
+        "answer": "Fifty"
+    },
+    {
+        "question": "Which companion is known as the 'Translator of the Quran'?",
+        "options": [
+            "Abdullah ibn Abbas",
+            "Abdullah ibn Masud",
+            "Zaid ibn Thabit",
+            "Ubayy ibn Ka'b"
+        ],
+        "answer": "Abdullah ibn Abbas"
+    },
+    {
+        "question": "What is the name of the bridge that everyone must cross on the Day of Judgment?",
+        "options": [
+            "Mizan",
+            "Sirat",
+            "Sidratul Muntaha",
+            "Al-A'raf"
+        ],
+        "answer": "Sirat"
+    },
+    {
+        "question": "Which Surah does not start with Bismillah?",
+        "options": [
+            "Surah Al-Alaq",
+            "Surah At-Tawbah",
+            "Surah Al-Fil",
+            "Surah Al-Ikhlas"
+        ],
+        "answer": "Surah At-Tawbah"
+    },
+    {
+        "question": "Who was the first person to call the Adhan (Call to Prayer)?",
+        "options": [
+            "Abu Bakr (RA)",
+            "Bilal ibn Rabah (RA)",
+            "Zaid ibn Harithah (RA)",
+            "Ali (RA)"
+        ],
+        "answer": "Bilal ibn Rabah (RA)"
+    },
+    {
+        "question": "How many months in the Islamic calendar are considered 'Sacred'?",
+        "options": [
+            "Three",
+            "Four",
+            "One",
+            "Twelve"
+        ],
+        "answer": "Four"
+    },
+    {
+        "question": "What is the first thing a person will be questioned about on the Day of Judgment?",
+        "options": [
+            "Zakat",
+            "Hajj",
+            "Fast",
+            "Salah (Prayer)"
+        ],
+        "answer": "Salah (Prayer)"
+    },
+    {
+        "question": "What is the name of the fountain in Paradise given to the Prophet (PBUH)?",
+        "options": [
+            "Zamzam",
+            "Al-Kawthar",
+            "Salsabil",
+            "Tasnim"
+        ],
+        "answer": "Al-Kawthar"
+    },
+    {
+        "question": "Which Prophet was thrown into the fire by Nimrod but was saved by Allah?",
+        "options": [
+            "Prophet Musa (AS)",
+            "Prophet Ibrahim (AS)",
+            "Prophet Lut (AS)",
+            "Prophet Salih (AS)"
+        ],
+        "answer": "Prophet Ibrahim (AS)"
+    },
+    {
+        "question": "What is the term for the sayings and actions of the Prophet (PBUH)?",
+        "options": [
+            "Fard",
+            "Sunnah/Hadith",
+            "Ijma",
+            "Qiyas"
+        ],
+        "answer": "Sunnah/Hadith"
+    },
+    {
+        "question": "Which angel is responsible for bringing the rain and nourishment?",
+        "options": [
+            "Jibreel",
+            "Mikail",
+            "Israfil",
+            "Izrail"
+        ],
+        "answer": "Mikail"
+    },
+    {
+        "question": "What is the name of the place where pilgrims stay on the 9th of Dhu al-Hijjah during Hajj?",
+        "options": [
+            "Mina",
+            "Muzdalifah",
+            "Arafat",
+            "Safa"
+        ],
+        "answer": "Arafat"
+    },
+    {
+        "question": "Which companion was known as 'The Lion of Allah'?",
+        "options": [
+            "Umar (RA)",
+            "Khalid bin Walid (RA)",
+            "Hamza ibn Abdul Muttalib (RA)",
+            "Ali (RA)"
+        ],
+        "answer": "Hamza ibn Abdul Muttalib (RA)"
+    },
+    {
+        "question": "How many Sajdahs (Prostrations) are there in the Quran?",
+        "options": [
+            "10",
+            "12",
+            "14",
+            "15"
+        ],
+        "answer": "14"
+    },
+    {
+        "question": "What is the name of the gate in Paradise reserved for those who fast?",
+        "options": [
+            "Al-Baqi",
+            "Ar-Rayyan",
+            "Bab al-Iman",
+            "Bab al-Hajj"
+        ],
+        "answer": "Ar-Rayyan"
+    },
+    {
+        "question": "Who was the first woman martyr in Islam?",
+        "options": [
+            "Khadija (RA)",
+            "Fatima (RA)",
+            "Sumayyah bint Khayyat (RA)",
+            "Asma bint Abi Bakr (RA)"
+        ],
+        "answer": "Sumayyah bint Khayyat (RA)"
+    },
+    {
+        "question": "What is the name of the Islamic month in which the Quran was first revealed?",
+        "options": [
+            "Muharram",
+            "Rajab",
+            "Ramadan",
+            "Dhu al-Hijjah"
+        ],
+        "answer": "Ramadan"
+    },
+    {
+        "question": "Which Prophet was given the miracle of bringing the dead back to life by Allah's permission?",
+        "options": [
+            "Prophet Musa (AS)",
+            "Prophet Isa (AS)",
+            "Prophet Muhammad (PBUH)",
+            "Prophet Yusuf (AS)"
+        ],
+        "answer": "Prophet Isa (AS)"
+    },
+    {
+        "question": "How many verses are in Surah Al-Fatiha?",
+        "options": [
+            "Five",
+            "Six",
+            "Seven",
+            "Eight"
+        ],
+        "answer": "Seven"
+    },
+    {
+        "question": "What is the name of the clothing worn by men during Hajj?",
+        "options": [
+            "Thobe",
+            "Abaya",
+            "Ihram",
+            "Kufi"
+        ],
+        "answer": "Ihram"
+    },
+    {
+        "question": "Which city is the direction (Qibla) for all Muslims' prayers?",
+        "options": [
+            "Jerusalem",
+            "Medina",
+            "Mecca",
+            "Istanbul"
+        ],
+        "answer": "Mecca"
+    },
+    {
+        "question": "What is the maximum number of wives a man is allowed at once in Islam under specific conditions?",
+        "options": [
+            "One",
+            "Two",
+            "Three",
+            "Four"
+        ],
+        "answer": "Four"
+    },
+    {
+        "question": "What was the name of the Prophet's (PBUH) mother?",
+        "options": [
+            "Fatima",
+            "Aminah",
+            "Halima",
+            "Safiyyah"
+        ],
+        "answer": "Aminah"
+    },
+    {
+        "question": "Who was the first male child to embrace Islam?",
+        "options": [
+            "Zaid ibn Harithah",
+            "Ali ibn Abi Talib",
+            "Abdullah ibn Abbas",
+            "Usama ibn Zaid"
+        ],
+        "answer": "Ali ibn Abi Talib"
+    },
+    {
+        "question": "What was the name of the Prophet's (PBUH) first wife?",
+        "options": [
+            "Aisha",
+            "Hafsa",
+            "Khadija",
+            "Zaynab"
+        ],
+        "answer": "Khadija"
+    },
+    {
+        "question": "Which uncle of the Prophet (PBUH) was known as 'Asadullah' (The Lion of Allah)?",
+        "options": [
+            "Abu Talib",
+            "Hamza",
+            "Al-Abbas",
+            "Abu Lahab"
+        ],
+        "answer": "Hamza"
+    },
+    {
+        "question": "What was the name of the Prophet's (PBUH) grandfather?",
+        "options": [
+            "Abdul Muttalib",
+            "Abu Talib",
+            "Hashim",
+            "Abd Manaf"
+        ],
+        "answer": "Abdul Muttalib"
+    },
+    {
+        "question": "In which city was the Prophet Muhammad (PBUH) born?",
+        "options": [
+            "Medina",
+            "Mecca",
+            "Taif",
+            "Jerusalem"
+        ],
+        "answer": "Mecca"
+    },
+    {
+        "question": "What was the name of the mountain where the Cave of Hira is located?",
+        "options": [
+            "Jabal al-Nour",
+            "Jabal Thawr",
+            "Jabal Uhud",
+            "Jabal al-Rahmah"
+        ],
+        "answer": "Jabal al-Nour"
+    },
+    {
+        "question": "Who was the first person to call the Adhan (call to prayer) in Islam?",
+        "options": [
+            "Abu Bakr",
+            "Bilal ibn Rabah",
+            "Umar ibn al-Khattab",
+            "Zaid ibn Thabit"
+        ],
+        "answer": "Bilal ibn Rabah"
+    },
+    {
+        "question": "How many children did the Prophet Muhammad (PBUH) have with Khadija (RA)?",
+        "options": [
+            "Four",
+            "Five",
+            "Six",
+            "Seven"
+        ],
+        "answer": "Six"
+    },
+    {
+        "question": "What was the name of the foster mother who nursed the Prophet (PBUH) for the longest time?",
+        "options": [
+            "Halima Sadia",
+            "Thuwaybah",
+            "Fatimah bint Asad",
+            "Umm Ayman"
+        ],
+        "answer": "Halima Sadia"
+    },
+    {
+        "question": "Which Prophet is known for building an Ark to save his people from a flood?",
+        "options": [
+            "Prophet Idris (AS)",
+            "Prophet Nuh (AS)",
+            "Prophet Hud (AS)",
+            "Prophet Salih (AS)"
+        ],
+        "answer": "Prophet Nuh (AS)"
+    },
+    {
+        "question": "What is the meaning of the word 'Islam'?",
+        "options": [
+            "Peace",
+            "Submission to Allah",
+            "Faith",
+            "Success"
+        ],
+        "answer": "Submission to Allah"
+    },
+    {
+        "question": "How many times a day do Muslims perform the obligatory Salah?",
+        "options": [
+            "Three",
+            "Four",
+            "Five",
+            "Six"
+        ],
+        "answer": "Five"
+    },
+    {
+        "question": "What is the name of the direction Muslims face during prayer?",
+        "options": [
+            "Haram",
+            "Qibla",
+            "Kaaba",
+            "Mihrab"
+        ],
+        "answer": "Qibla"
+    },
+    {
+        "question": "In which Islamic month is the fast of Ramadan observed?",
+        "options": [
+            "Eighth",
+            "Ninth",
+            "Tenth",
+            "Twelfth"
+        ],
+        "answer": "Ninth"
+    },
+    {
+        "question": "What is the name of the charity given at the end of Ramadan before Eid prayer?",
+        "options": [
+            "Zakat al-Maal",
+            "Sadaqah Jariyah",
+            "Zakat al-Fitr",
+            "Fidya"
+        ],
+        "answer": "Zakat al-Fitr"
+    },
+    {
+        "question": "How many Pillars of Islam are there?",
+        "options": [
+            "Four",
+            "Five",
+            "Six",
+            "Seven"
+        ],
+        "answer": "Five"
+    },
+    {
+        "question": "What is the first Pillar of Islam?",
+        "options": [
+            "Salah",
+            "Zakat",
+            "Shahada",
+            "Sawm"
+        ],
+        "answer": "Shahada"
+    },
+    {
+        "question": "What is the name of the holy book revealed to Prophet Musa (AS)?",
+        "options": [
+            "Zabur",
+            "Injeel",
+            "Taurat",
+            "Quran"
+        ],
+        "answer": "Taurat"
+    },
+    {
+        "question": "Which angel is responsible for bringing revelations from Allah to the Prophets?",
+        "options": [
+            "Angel Mikail",
+            "Angel Israfil",
+            "Angel Jibreel",
+            "Angel Izrail"
+        ],
+        "answer": "Angel Jibreel"
+    },
+    {
+        "question": "What was the Prophet’s (PBUH) age when he received the first revelation?",
+        "options": [
+            "25",
+            "30",
+            "35",
+            "40"
+        ],
+        "answer": "40"
+    },
+    {
+        "question": "Which Surah is known as the 'Mother of the Book' (Umm al-Kitab)?",
+        "options": [
+            "Surah Al-Ikhlas",
+            "Surah Al-Fatiha",
+            "Surah Al-Baqarah",
+            "Surah Yasin"
+        ],
+        "answer": "Surah Al-Fatiha"
+    },
+    {
+        "question": "Who was the second Caliph of Islam?",
+        "options": [
+            "Abu Bakr",
+            "Umar ibn al-Khattab",
+            "Uthman ibn Affan",
+            "Ali ibn Abi Talib"
+        ],
+        "answer": "Umar ibn al-Khattab"
+    },
+    {
+        "question": "What is the name of the well that provides holy water in Mecca?",
+        "options": [
+            "Badr",
+            "Zamzam",
+            "Kawthar",
+            "Tasnim"
+        ],
+        "answer": "Zamzam"
+    },
+    {
+        "question": "Which companion was known as 'Dhul-Nurayn' (Possessor of Two Lights)?",
+        "options": [
+            "Uthman ibn Affan",
+            "Ali ibn Abi Talib",
+            "Umar ibn al-Khattab",
+            "Abu Bakr"
+        ],
+        "answer": "Uthman ibn Affan"
+    },
+    {
+        "question": "What was the name of the Prophet's (PBUH) favorite daughter?",
+        "options": [
+            "Zaynab",
+            "Ruqayyah",
+            "Umm Kulthum",
+            "Fatimah"
+        ],
+        "answer": "Fatimah"
+    },
+    {
+        "question": "Which Prophet was swallowed by a large fish/whale?",
+        "options": [
+            "Prophet Yunus (AS)",
+            "Prophet Yahya (AS)",
+            "Prophet Zakariya (AS)",
+            "Prophet Ayub (AS)"
+        ],
+        "answer": "Prophet Yunus (AS)"
+    },
+    {
+        "question": "What is the name of the gate in Paradise for those who fast?",
+        "options": [
+            "Baab al-Salah",
+            "Baab al-Jihad",
+            "Baab al-Rayyan",
+            "Baab al-Sadaqah"
+        ],
+        "answer": "Baab al-Rayyan"
+    },
+    {
+        "question": "How many Sajdahs (prostrations) are there in the Quran?",
+        "options": [
+            "12",
+            "13",
+            "14",
+            "15"
+        ],
+        "answer": "14"
+    },
+    {
+        "question": "Which Prophet had the miracle of talking to animals and controlling the wind?",
+        "options": [
+            "Prophet Dawood (AS)",
+            "Prophet Sulaiman (AS)",
+            "Prophet Musa (AS)",
+            "Prophet Isa (AS)"
+        ],
+        "answer": "Prophet Sulaiman (AS)"
+    },
+    {
+        "question": "What is the name of the bridge that everyone must cross on the Day of Judgment?",
+        "options": [
+            "Al-Mizan",
+            "Al-Sirat",
+            "Al-Hawdh",
+            "Al-Barzakh"
+        ],
+        "answer": "Al-Sirat"
+    },
+    {
+        "question": "Which Surah is recommended to be recited every Friday?",
+        "options": [
+            "Surah Al-Mulk",
+            "Surah Al-Waqi'ah",
+            "Surah Al-Kahf",
+            "Surah Ar-Rahman"
+        ],
+        "answer": "Surah Al-Kahf"
+    },
+    {
+        "question": "Who was the Prophet’s (PBUH) companion in the cave during the Hijra?",
+        "options": [
+            "Umar (RA)",
+            "Abu Bakr (RA)",
+            "Ali (RA)",
+            "Uthman (RA)"
+        ],
+        "answer": "Abu Bakr (RA)"
+    },
+    {
+        "question": "What was the name of the Prophet's (PBUH) father?",
+        "options": [
+            "Abdullah",
+            "Abdul Muttalib",
+            "Abu Talib",
+            "Hamza"
+        ],
+        "answer": "Abdullah"
+    },
+    {
+        "question": "How many years did the Prophet (PBUH) live in Medina after the Hijra?",
+        "options": [
+            "8",
+            "10",
+            "12",
+            "13"
+        ],
+        "answer": "10"
+    },
+    {
+        "question": "What is the total number of Surahs in the Holy Quran?",
+        "options": [
+            "110",
+            "112",
+            "114",
+            "116"
+        ],
+        "answer": "114"
+    },
+    {
+        "question": "Which battle was the first major conflict between Muslims and the Quraysh?",
+        "options": [
+            "Battle of Uhud",
+            "Battle of Badr",
+            "Battle of Khandaq",
+            "Battle of Khaybar"
+        ],
+        "answer": "Battle of Badr"
+    },
+    {
+        "question": "What is the name of the nighttime journey of the Prophet (PBUH) to Jerusalem and then to Heaven?",
+        "options": [
+            "Hijra",
+            "Isra and Mi'raj",
+            "Fath Makkah",
+            "Hajjat al-Wida"
+        ],
+        "answer": "Isra and Mi'raj"
+    },
+    {
+        "question": "Which Surah does not start with 'Bismillah'?",
+        "options": [
+            "Surah Al-Alaq",
+            "Surah At-Tawbah",
+            "Surah Al-Fil",
+            "Surah An-Namal"
+        ],
+        "answer": "Surah At-Tawbah"
+    },
+    {
+        "question": "Who is known as the 'Sword of Allah' (Saifullah)?",
+        "options": [
+            "Khalid ibn al-Walid",
+            "Ali ibn Abi Talib",
+            "Sa'd ibn Abi Waqqas",
+            "Hamza ibn Abdul Muttalib"
+        ],
+        "answer": "Khalid ibn al-Walid"
+    },
+    {
+        "question": "What is the name of the Islamic funeral prayer?",
+        "options": [
+            "Salah al-Kusoof",
+            "Salah al-Janazah",
+            "Salah al-Istisqa",
+            "Salah al-Eid"
+        ],
+        "answer": "Salah al-Janazah"
+    },
+    {
+        "question": "Which angel will blow the trumpet to signal the Day of Judgment?",
+        "options": [
+            "Angel Mikail",
+            "Angel Israfil",
+            "Angel Izrail",
+            "Angel Jibreel"
+        ],
+        "answer": "Angel Israfil"
+    },
+    {
+        "question": "What is the reward for an accepted Hajj (Hajj Mabrur)?",
+        "options": [
+            "Wealth",
+            "Long life",
+            "Paradise",
+            "Knowledge"
+        ],
+        "answer": "Paradise"
+    },
+    {
+        "question": "What was the name of the Prophet's (PBUH) camel?",
+        "options": [
+            "Al-Qaswa",
+            "Al-Adha",
+            "Duldul",
+            "Burak"
+        ],
+        "answer": "Al-Qaswa"
+    },
+    {
+        "question": "Who was the first person to accept Islam among women?",
+        "options": [
+            "Aisha (RA)",
+            "Khadija (RA)",
+            "Fatimah (RA)",
+            "Sumayyah (RA)"
+        ],
+        "answer": "Khadija (RA)"
+    },
+    {
+        "question": "What is the meaning of the word 'Quran'?",
+        "options": [
+            "The Book",
+            "The Recitation",
+            "The Guidance",
+            "The Truth"
+        ],
+        "answer": "The Recitation"
+    },
+    {
+        "question": "Which Prophet is known as 'Khalilullah' (Friend of Allah)?",
+        "options": [
+            "Prophet Musa (AS)",
+            "Prophet Ibrahim (AS)",
+            "Prophet Isa (AS)",
+            "Prophet Muhammad (PBUH)"
+        ],
+        "answer": "Prophet Ibrahim (AS)"
+    },
+    {
+        "question": "What is the longest verse in the Holy Quran?",
+        "options": [
+            "Ayat al-Kursi",
+            "Ayat al-Dayn (The Debt Verse)",
+            "The last verse of Surah Al-Baqarah",
+            "The first verse of Surah Al-Ikhlas"
+        ],
+        "answer": "Ayat al-Dayn (The Debt Verse)"
+    },
+    {
+        "question": "How many Juz (parts) are there in the Holy Quran?",
+        "options": [
+            "20",
+            "25",
+            "30",
+            "40"
+        ],
+        "answer": "30"
+    },
+    {
+        "question": "Which city is known as 'The City of the Prophet'?",
+        "options": [
+            "Mecca",
+            "Medina",
+            "Jerusalem",
+            "Cairo"
+        ],
+        "answer": "Medina"
+    },
+    {
+        "question": "What was the name of the foster-brother of the Prophet (PBUH) who was the son of Halima Sadia?",
+        "options": [
+            "Abdullah",
+            "Hamza",
+            "Shayma",
+            "Abu Sufyan"
+        ],
+        "answer": "Abdullah"
+    },
+    {
+        "question": "Which companion was the first to be born in Medina among the Muhajirun (migrants)?",
+        "options": [
+            "Abdullah ibn al-Zubayr",
+            "Usama ibn Zaid",
+            "Hassan ibn Thabit",
+            "Anas ibn Malik"
+        ],
+        "answer": "Abdullah ibn al-Zubayr"
+    },
+    {
+        "question": "What was the name of the Prophet's (PBUH) sword used in many battles?",
+        "options": [
+            "Zulfiqar",
+            "Al-Ma'thur",
+            "Al-Battar",
+            "Dhul-Faqar"
+        ],
+        "answer": "Dhul-Faqar"
+    },
+    {
+        "question": "How many years did the construction of the Prophet's Mosque (Masjid an-Nabawi) take initially?",
+        "options": [
+            "Less than 1 year",
+            "2 years",
+            "3 years",
+            "5 years"
+        ],
+        "answer": "Less than 1 year"
+    },
+    {
+        "question": "Which wife of the Prophet (PBUH) was known for her extensive knowledge of Hadith and Islamic law?",
+        "options": [
+            "Khadija (RA)",
+            "Aisha (RA)",
+            "Umm Salama (RA)",
+            "Zaynab bint Jahsh (RA)"
+        ],
+        "answer": "Aisha (RA)"
+    },
+    {
+        "question": "What was the name of the Christian king in Abyssinia (Ethiopia) who gave refuge to Muslims?",
+        "options": [
+            "Heraclius",
+            "Negus (Al-Najashi)",
+            "Chosroes",
+            "Muqawqis"
+        ],
+        "answer": "Negus (Al-Najashi)"
+    },
+    {
+        "question": "Who was the leader of the archers in the Battle of Uhud?",
+        "options": [
+            "Abdullah ibn Jubayr",
+            "Khalid bin Walid",
+            "Mus'ab ibn Umayr",
+            "Talha ibn Ubaydullah"
+        ],
+        "answer": "Abdullah ibn Jubayr"
+    },
+    {
+        "question": "What was the name of the treaty that allowed the Prophet (PBUH) to perform Umrah the following year?",
+        "options": [
+            "Treaty of Hudaybiyyah",
+            "Pledge of Ridwan",
+            "Treaty of Taif",
+            "Charter of Medina"
+        ],
+        "answer": "Treaty of Hudaybiyyah"
+    },
+    {
+        "question": "Which companion was known as 'The Keeper of the Secret' of the Prophet (PBUH)?",
+        "options": [
+            "Hudhayfah ibn al-Yaman",
+            "Abdullah ibn Masud",
+            "Abu Hurairah",
+            "Salman al-Farsi"
+        ],
+        "answer": "Hudhayfah ibn al-Yaman"
+    },
+    {
+        "question": "What was the name of the Prophet's (PBUH) grandfather who belonged to the tribe of Banu Hashim?",
+        "options": [
+            "Hashim",
+            "Abdul Muttalib",
+            "Abd Manaf",
+            "Qusay"
+        ],
+        "answer": "Abdul Muttalib"
+    },
+    {
+        "question": "In which direction did Muslims face for prayer before the Qibla was changed to the Kaaba?",
+        "options": [
+            "Jerusalem (Al-Aqsa)",
+            "Madina",
+            "Mount Sinai",
+            "Yemen"
+        ],
+        "answer": "Jerusalem (Al-Aqsa)"
+    },
+    {
+        "question": "How many years after the first revelation did the public preaching of Islam begin?",
+        "options": [
+            "1 year",
+            "2 years",
+            "3 years",
+            "5 years"
+        ],
+        "answer": "3 years"
+    },
+    {
+        "question": "Which companion suggested digging a trench during the Battle of the Trench (Ahzab)?",
+        "options": [
+            "Abu Bakr (RA)",
+            "Umar (RA)",
+            "Salman al-Farsi (RA)",
+            "Ali (RA)"
+        ],
+        "answer": "Salman al-Farsi (RA)"
+    },
+    {
+        "question": "What was the name of the Prophet's (PBUH) horse that he rode in the Battle of Badr?",
+        "options": [
+            "As-Sakb",
+            "Al-Murtajiz",
+            "Al-Ward",
+            "Al-Lizaz"
+        ],
+        "answer": "As-Sakb"
+    },
+    {
+        "question": "Which Surah is often called 'The Beauty of the Quran' (Arus al-Quran)?",
+        "options": [
+            "Surah Ar-Rahman",
+            "Surah Yasin",
+            "Surah Al-Waqi'ah",
+            "Surah Al-Mulk"
+        ],
+        "answer": "Surah Ar-Rahman"
+    },
+    {
+        "question": "Who was the first person to compile the Quran into a single book format (Mushaf)?",
+        "options": [
+            "Abu Bakr (RA)",
+            "Umar (RA)",
+            "Uthman (RA)",
+            "Zaid ibn Thabit (RA)"
+        ],
+        "answer": "Abu Bakr (RA)"
+    },
+    {
+        "question": "What is the meaning of the name 'Muhammad'?",
+        "options": [
+            "The Chosen One",
+            "The Praised One",
+            "The Messenger",
+            "The Truthful"
+        ],
+        "answer": "The Praised One"
+    },
+    {
+        "question": "Which Prophet was given a special garment (shirt) that restored his father's eyesight?",
+        "options": [
+            "Prophet Yusuf (AS)",
+            "Prophet Yaqub (AS)",
+            "Prophet Ishaq (AS)",
+            "Prophet Ismail (AS)"
+        ],
+        "answer": "Prophet Yusuf (AS)"
+    },
+    {
+        "question": "What was the name of the Prophet's (PBUH) wet nurse who belonged to the tribe of Banu Sa'd?",
+        "options": [
+            "Halima Sadia",
+            "Thuwaybah",
+            "Umm Ayman",
+            "Fatima bint Asad"
+        ],
+        "answer": "Halima Sadia"
+    },
+    {
+        "question": "Which city was the capital of the Islamic Caliphate during the rule of Ali ibn Abi Talib (RA)?",
+        "options": [
+            "Medina",
+            "Kufa",
+            "Damascus",
+            "Baghdad"
+        ],
+        "answer": "Kufa"
+    },
+    {
+        "question": "How many days did the Prophet (PBUH) stay in the Cave of Thawr during the Hijrah?",
+        "options": [
+            "2 days",
+            "3 days",
+            "7 days",
+            "10 days"
+        ],
+        "answer": "3 days"
+    },
+    {
+        "question": "Which companion was known as 'The Trustee of this Nation' (Amin al-Ummah)?",
+        "options": [
+            "Abu Ubaidah ibn al-Jarrah",
+            "Khalid bin Walid",
+            "Sa'd ibn Abi Waqqas",
+            "Abdur Rahman ibn Awf"
+        ],
+        "answer": "Abu Ubaidah ibn al-Jarrah"
+    },
+    {
+        "question": "What was the name of the valley where the Battle of Hunayn took place?",
+        "options": [
+            "Valley of Badr",
+            "Valley of Uhud",
+            "Valley of Hunayn",
+            "Valley of Taif"
+        ],
+        "answer": "Valley of Hunayn"
+    },
+    {
+        "question": "Who was the Prophet's (PBUH) messenger sent to the Emperor of Rome (Heraclius)?",
+        "options": [
+            "Dihyah al-Kalbi",
+            "Abdullah ibn Hudhafah",
+            "Amr ibn al-Aas",
+            "Hatib ibn Abi Balta'ah"
+        ],
+        "answer": "Dihyah al-Kalbi"
+    },
+    {
+        "question": "Which Prophet is mentioned the most by name in the Holy Quran?",
+        "options": [
+            "Prophet Muhammad (PBUH)",
+            "Prophet Ibrahim (AS)",
+            "Prophet Musa (AS)",
+            "Prophet Isa (AS)"
+        ],
+        "answer": "Prophet Musa (AS)"
+    },
+    {
+        "question": "What is the name of the special prayer performed during an eclipse?",
+        "options": [
+            "Salah al-Kusoof",
+            "Salah al-Istisqa",
+            "Salah al-Khawf",
+            "Salah al-Awwabin"
+        ],
+        "answer": "Salah al-Kusoof"
+    },
+    {
+        "question": "How many Takbirs are said in the Janazah (funeral) prayer?",
+        "options": [
+            "Two",
+            "Three",
+            "Four",
+            "Five"
+        ],
+        "answer": "Four"
+    },
+    {
+        "question": "What was the original name of the city of Medina before Islam?",
+        "options": [
+            "Bakkah",
+            "Yathrib",
+            "Taiba",
+            "Quba"
+        ],
+        "answer": "Yathrib"
+    },
+    {
+        "question": "Which companion was the first to strike a blow in the cause of Islam (shoot an arrow)?",
+        "options": [
+            "Sa'd ibn Abi Waqqas",
+            "Khalid bin Walid",
+            "Zubayr ibn al-Awwam",
+            "Ali (RA)"
+        ],
+        "answer": "Sa'd ibn Abi Waqqas"
+    },
+    {
+        "question": "What was the name of the Prophet's (PBUH) mule?",
+        "options": [
+            "Duldul",
+            "Qaswa",
+            "Ya'fur",
+            "Al-Adha"
+        ],
+        "answer": "Duldul"
+    },
+    {
+        "question": "Which Surah is called 'The Heart of the Quran' (Qalb al-Quran)?",
+        "options": [
+            "Surah Al-Fatiha",
+            "Surah Al-Ikhlas",
+            "Surah Yasin",
+            "Surah Al-Mulk"
+        ],
+        "answer": "Surah Yasin"
+    },
+    {
+        "question": "Who was the first child to be born among the Ansar (helpers) in Medina?",
+        "options": [
+            "Nu'man ibn Bashir",
+            "Abdullah ibn al-Zubayr",
+            "Zaid ibn Thabit",
+            "Anas ibn Malik"
+        ],
+        "answer": "Nu'man ibn Bashir"
+    },
+    {
+        "question": "How many years did the Prophet (PBUH) live in Mecca in total?",
+        "options": [
+            "40 years",
+            "50 years",
+            "53 years",
+            "63 years"
+        ],
+        "answer": "53 years"
+    },
+    {
+        "question": "Which Prophet was given the miracle of the 'White Hand' and a 'Staff'?",
+        "options": [
+            "Prophet Isa (AS)",
+            "Prophet Musa (AS)",
+            "Prophet Salih (AS)",
+            "Prophet Ibrahim (AS)"
+        ],
+        "answer": "Prophet Musa (AS)"
+    },
+    {
+        "question": "What was the name of the Prophet's (PBUH) uncle who protected him but did not accept Islam?",
+        "options": [
+            "Abu Talib",
+            "Hamza",
+            "Al-Abbas",
+            "Abu Lahab"
+        ],
+        "answer": "Abu Talib"
+    },
+    {
+        "question": "Which companion is known as 'The Master of the Martyrs' (Sayyid al-Shuhada)?",
+        "options": [
+            "Hamza ibn Abdul Muttalib",
+            "Ali ibn Abi Talib",
+            "Hussain ibn Ali",
+            "Mus'ab ibn Umayr"
+        ],
+        "answer": "Hamza ibn Abdul Muttalib"
+    },
+    {
+        "question": "What is the meaning of the word 'Hadith'?",
+        "options": [
+            "Law",
+            "News/Statement",
+            "Guidance",
+            "Action"
+        ],
+        "answer": "News/Statement"
+    },
+    {
+        "question": "Which Prophet remained patient through severe illness and loss for many years?",
+        "options": [
+            "Prophet Ayub (AS)",
+            "Prophet Yaqub (AS)",
+            "Prophet Zakariya (AS)",
+            "Prophet Yahya (AS)"
+        ],
+        "answer": "Prophet Ayub (AS)"
+    },
+    {
+        "question": "How many stages (Manzil) is the Quran divided into for weekly recitation?",
+        "options": [
+            "Five",
+            "Seven",
+            "Ten",
+            "Thirty"
+        ],
+        "answer": "Seven"
+    },
+    {
+        "question": "Which angel is the gatekeeper of Paradise?",
+        "options": [
+            "Malik",
+            "Ridwan",
+            "Munkar",
+            "Nakir"
+        ],
+        "answer": "Ridwan"
+    },
+    {
+        "question": "What was the name of the foster-sister of the Prophet (PBUH) who treated him with great love?",
+        "options": [
+            "Halima",
+            "Shayma",
+            "Umm Ayman",
+            "Barakah"
+        ],
+        "answer": "Shayma"
+    },
+    {
+        "question": "Which battle is known as the 'Day of Criterion' (Yawm al-Furqan)?",
+        "options": [
+            "Battle of Uhud",
+            "Battle of Badr",
+            "Battle of Khandaq",
+            "Battle of Hunayn"
+        ],
+        "answer": "Battle of Badr"
+    },
+    {
+        "question": "What is the name of the prayer offered for rain?",
+        "options": [
+            "Salah al-Istikhara",
+            "Salah al-Istisqa",
+            "Salah al-Kusoof",
+            "Salah al-Hajat"
+        ],
+        "answer": "Salah al-Istisqa"
+    },
+    {
+        "question": "Which Prophet built the Kaaba first with his son Ismail (AS)?",
+        "options": [
+            "Prophet Adam (AS)",
+            "Prophet Ibrahim (AS)",
+            "Prophet Nuh (AS)",
+            "Prophet Hud (AS)"
+        ],
+        "answer": "Prophet Ibrahim (AS)"
+    },
+    {
+        "question": "What was the name of the Christian monk who recognized the signs of prophethood in young Muhammad?",
+        "options": [
+            "Waraqa ibn Nawfal",
+            "Bahira",
+            "Nestor",
+            "Salman"
+        ],
+        "answer": "Bahira"
+    },
+    {
+        "question": "How many days did the fast of Ashura originally consist of as a recommendation?",
+        "options": [
+            "One day",
+            "Two days",
+            "Three days",
+            "Ten days"
+        ],
+        "answer": "Two days"
+    },
+    {
+        "question": "Which companion was the first to lead the pilgrims for Hajj during the Prophet's (PBUH) life?",
+        "options": [
+            "Abu Bakr (RA)",
+            "Umar (RA)",
+            "Ali (RA)",
+            "Abbas (RA)"
+        ],
+        "answer": "Abu Bakr (RA)"
+    },
+    {
+        "question": "What is the name of the place between Paradise and Hell?",
+        "options": [
+            "Barzakh",
+            "Al-A'raf",
+            "Sidra",
+            "Mizan"
+        ],
+        "answer": "Al-A'raf"
+    },
+    {
+        "question": "Which Surah is equivalent to one-third of the Quran in reward?",
+        "options": [
+            "Surah Al-Fatiha",
+            "Surah Al-Ikhlas",
+            "Surah Al-Kafirun",
+            "Surah Al-Falaq"
+        ],
+        "answer": "Surah Al-Ikhlas"
+    },
+    {
+        "question": "What was the Prophet's (PBUH) age when he went on his first trading journey to Syria?",
+        "options": [
+            "9 years",
+            "12 years",
+            "15 years",
+            "25 years"
+        ],
+        "answer": "12 years"
+    }
+]
