@@ -75,7 +75,20 @@ function QuizContent() {
         if (selectedAnswer !== null) return;
 
         const currentQ = questions[currentQuestion];
-        const isCorrect = option === currentQ.correctAnswer;
+
+        // Get the current options being displayed (English or Hindi)
+        const currentOptions = lang === "hi" && currentQ.options_hi && currentQ.options_hi.length > 0
+            ? currentQ.options_hi
+            : currentQ.options;
+
+        // Find the index of the selected option
+        const selectedIndex = currentOptions.indexOf(option);
+
+        // Find the index of the correct answer in the English options
+        const correctIndex = currentQ.options.indexOf(currentQ.correctAnswer);
+
+        // Check if the selected index matches the correct index
+        const isCorrect = selectedIndex === correctIndex;
 
         setSelectedAnswer(option);
         setAnswers({ ...answers, [currentQ._id]: option });
