@@ -171,6 +171,8 @@ function QuizContent() {
         if (hint) {
             fetchHint();
         }
+        // Reset selected answer when language changes to prevent display issues
+        setSelectedAnswer(null);
     }, [lang]);
 
     // Helper to get text based on language
