@@ -4,7 +4,7 @@ import { useState, useRef, useEffect } from "react";
 import { Play, Pause, Loader2 } from "lucide-react";
 import { getAyahAudio } from "@/lib/quran-api";
 
-export default function AyahDisplay({ ayah, showTranslation = true, currentlyPlaying, onPlayStateChange, isHighlighted }) {
+export default function AyahDisplay({ ayah, showTranslation = true, showTransliteration = true, currentlyPlaying, onPlayStateChange, isHighlighted }) {
     const [isLoading, setIsLoading] = useState(false);
     const audioRef = useRef(null);
     const containerRef = useRef(null);
@@ -119,10 +119,19 @@ export default function AyahDisplay({ ayah, showTranslation = true, currentlyPla
                 </p>
             </div>
 
+            {/* Transliteration */}
+            {showTransliteration && ayah.transliteration && (
+                <div className="mt-3 pt-3">
+                    <p className="text-gray-600 text-base italic leading-relaxed">
+                        {ayah.transliteration}
+                    </p>
+                </div>
+            )}
+
             {/* Translation */}
             {showTranslation && hasTranslation && (
                 <div className="border-t border-gray-200 pt-4 mt-4">
-                    <p className="text-gray-700 text-base leading-relaxed">
+                    <p className="text-gray-700 text-xl leading-relaxed font-medium">
                         {ayah.translations[0].text.replace(/<[^>]*>/g, '')}
                     </p>
                     {ayah.translations[0].resource_name && (

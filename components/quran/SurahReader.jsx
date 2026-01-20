@@ -5,10 +5,13 @@ import { ArrowLeft, Play, Pause, Loader2 } from "lucide-react";
 import Link from "next/link";
 import AyahDisplay from "@/components/quran/AyahDisplay";
 import TranslationToggle from "@/components/quran/TranslationToggle";
-import { getSurahAudio } from "@/lib/quran-api";
+import { getSurahAudio, getSurahById } from "@/lib/quran-api";
 
-export default function SurahReader({ surahData }) {
+export default function SurahReader({ surahData: initialSurahData }) {
+    const [surahData, setSurahData] = useState(initialSurahData);
     const [showTranslation, setShowTranslation] = useState(true);
+    const [showTransliteration, setShowTransliteration] = useState(true);
+    const [selectedLanguage, setSelectedLanguage] = useState("en");
     const [currentlyPlaying, setCurrentlyPlaying] = useState(null);
     const [isSurahPlaying, setIsSurahPlaying] = useState(false);
     const [isSurahLoading, setIsSurahLoading] = useState(false);
@@ -114,6 +117,25 @@ export default function SurahReader({ surahData }) {
         setCurrentlyPlaying(verseKey);
     };
 
+    const handleLanguageChange = async (language) => {
+        setSelectedLanguage(language);
+
+        // Translation ID mapping
+        const translationIds = {
+            en: 20,  // English - Saheeh International
+            hi: 122, // Hindi
+            ur: 97   // Urdu - Maududi
+        };
+
+        const translationId = translationIds[language];
+
+        // Refetch Surah data with new translation
+        const newSurahData = await getSurahById(surahData.surah.id, translationId);
+        if (newSurahData) {
+            setSurahData(newSurahData);
+        }
+    };
+
     if (!surahData) {
         return (
             <div className="min-h-screen flex items-center justify-center">
@@ -174,7 +196,12 @@ export default function SurahReader({ surahData }) {
                 </div>
 
                 {/* Translation Toggle */}
-                <TranslationToggle onToggle={setShowTranslation} />
+                <TranslationToggle
+                    onToggle={setShowTranslation}
+                    selectedLanguage={selectedLanguage}
+                    onLanguageChange={handleLanguageChange}
+                    onTransliterationToggle={setShowTransliteration}
+                />
 
                 {/* Bismillah (except Surah 9) */}
                 {surah.id !== 9 && surah.id !== 1 && (
@@ -195,6 +222,7 @@ export default function SurahReader({ surahData }) {
                             key={ayah.id}
                             ayah={ayah}
                             showTranslation={showTranslation}
+                            showTransliteration={showTransliteration}
                             currentlyPlaying={currentlyPlaying}
                             onPlayStateChange={handleAyahPlayStateChange}
                             isHighlighted={activeVerseKey === ayah.verse_key}

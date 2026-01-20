@@ -12976,5 +12976,5477 @@
         ],
         "answer": "Hassan ibn Thabit (RA)",
         "answer_hi": "हस्सान इब्न साबित (RA)"
+    },
+    {
+        "question": "What was the real name of the Prophet's grandfather, Abdul Muttalib?",
+        "question_hi": "पैगंबर के दादा, अब्दुल मुत्तलिब का असली नाम क्या था?",
+        "options": [
+            "Shaybah",
+            "Hashim",
+            "Abd Manaf",
+            "Qusayy"
+        ],
+        "options_hi": [
+            "शैबा",
+            "हाशिम",
+            "अब्द मनाफ",
+            "कुसै"
+        ],
+        "answer": "Shaybah",
+        "answer_hi": "शैबा"
+    },
+    {
+        "question": "Which Prophet is known as 'Az-Zabih' (The Sacrificed One)?",
+        "question_hi": "'अज़-ज़बीह' के नाम से किस पैगंबर को जाना जाता है?",
+        "options": [
+            "Prophet Ismail (AS)",
+            "Prophet Ishaq (AS)",
+            "Prophet Yusuf (AS)",
+            "Prophet Musa (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर इस्माइल (AS)",
+            "पैगंबर इसहाक (AS)",
+            "पैगंबर यूसुफ (AS)",
+            "पैगंबर मूसा (AS)"
+        ],
+        "answer": "Prophet Ismail (AS)",
+        "answer_hi": "पैगंबर इस्माइल (AS)"
+    },
+    {
+        "question": "What was the name of Prophet Ibrahim's (AS) mother?",
+        "question_hi": "पैगंबर इब्राहिम (AS) की माता का नाम क्या था?",
+        "options": [
+            "Ameela",
+            "Sarah",
+            "Hajar",
+            "Hannah"
+        ],
+        "options_hi": [
+            "अमीला",
+            "सारा",
+            "हाजरा",
+            "हन्ना"
+        ],
+        "answer": "Ameela",
+        "answer_hi": "अमीला"
+    },
+    {
+        "question": "Which companion was known as 'The Secret Keeper of the Prophet' (PBUH)?",
+        "question_hi": "पैगंबर (PBUH) के 'राज़दार' (Secret Keeper) के रूप में कौन से सहाबी प्रसिद्ध थे?",
+        "options": [
+            "Hudhayfah ibn al-Yaman (RA)",
+            "Abu Bakr (RA)",
+            "Umar (RA)",
+            "Ali (RA)"
+        ],
+        "options_hi": [
+            "हुदैफा इब्न अल-यमन (RA)",
+            "अबू बक्र (RA)",
+            "उमर (RA)",
+            "अली (RA)"
+        ],
+        "answer": "Hudhayfah ibn al-Yaman (RA)",
+        "answer_hi": "हुदैफा इब्न अल-यमन (RA)"
+    },
+    {
+        "question": "In which battle was the Prophet's (PBUH) uncle Hamza (RA) martyred?",
+        "question_hi": "पैगंबर (PBUH) के चाचा हामज़ा (RA) किस युद्ध में शहीद हुए थे?",
+        "options": [
+            "Battle of Badr",
+            "Battle of Uhud",
+            "Battle of Khandaq",
+            "Battle of Khaybar"
+        ],
+        "options_hi": [
+            "बद्र की लड़ाई",
+            "उहुद की लड़ाई",
+            "खंदक की लड़ाई",
+            "खैबर की लड़ाई"
+        ],
+        "answer": "Battle of Uhud",
+        "answer_hi": "उहुद की लड़ाई"
+    },
+    {
+        "question": "What is the meaning of the name of Surah 'An-Nur'?",
+        "question_hi": "सूरह 'अन-नूर' के नाम का क्या अर्थ है?",
+        "options": [
+            "The Light",
+            "The Fire",
+            "The Sun",
+            "The Moon"
+        ],
+        "options_hi": [
+            "प्रकाश / नूर",
+            "आग",
+            "सूरज",
+            "चांद"
+        ],
+        "answer": "The Light",
+        "answer_hi": "प्रकाश / नूर"
+    },
+    {
+        "question": "Which companion was known as 'The Scholar of the Ummah' (Al-Habr)?",
+        "question_hi": "'अल-हब्र' (उम्मत का विद्वान) के रूप में किस सहाबी को जाना जाता था?",
+        "options": [
+            "Abdullah ibn Abbas (RA)",
+            "Abu Hurairah (RA)",
+            "Abdullah ibn Umar (RA)",
+            "Ali (RA)"
+        ],
+        "options_hi": [
+            "अब्दुल्लाह इब्न अब्बास (RA)",
+            "अबू हुरैरा (RA)",
+            "अब्दुल्लाह इब्न उमर (RA)",
+            "अली (RA)"
+        ],
+        "answer": "Abdullah ibn Abbas (RA)",
+        "answer_hi": "अब्दुल्लाह इब्न अब्बास (RA)"
+    },
+    {
+        "question": "What is the name of the 8th day of Dhu al-Hijjah in Hajj?",
+        "question_hi": "हज के दौरान ८वें ज़ुल-हिज्जा के दिन को क्या कहा जाता है?",
+        "options": [
+            "Yawm al-Arafah",
+            "Yawm at-Tarwiyah",
+            "Yawm an-Nahr",
+            "Yawm al-Qadr"
+        ],
+        "options_hi": [
+            "यौम अल-अराफ़ा",
+            "यौम अत-तरविया",
+            "यौम अन-नह्र",
+            "यौम अल-क़द्र"
+        ],
+        "answer": "Yawm at-Tarwiyah",
+        "answer_hi": "यौम अत-तरविया"
+    },
+    {
+        "question": "Which Prophet had a miracle of the sun staying up longer to finish a battle?",
+        "question_hi": "किस पैगंबर के लिए युद्ध पूरा करने हेतु सूरज के रुके रहने का चमत्कार हुआ था?",
+        "options": [
+            "Prophet Musa (AS)",
+            "Prophet Yusha bin Nun (AS)",
+            "Prophet Dawud (AS)",
+            "Prophet Muhammad (PBUH)"
+        ],
+        "options_hi": [
+            "पैगंबर मूसा (AS)",
+            "पैगंबर योशा बिन नून (AS)",
+            "पैगंबर दावूद (AS)",
+            "पैगंबर मुहम्मद (PBUH)"
+        ],
+        "answer": "Prophet Yusha bin Nun (AS)",
+        "answer_hi": "पैगंबर योशा बिन नून (AS)"
+    },
+    {
+        "question": "What was the name of the Prophet's maternal grandmother?",
+        "question_hi": "पैगंबर (PBUH) की नानी का नाम क्या था?",
+        "options": [
+            "Barrah bint Abdul Uzza",
+            "Aminah",
+            "Halima",
+            "Fatima"
+        ],
+        "options_hi": [
+            "बर्राह बिन्त अब्दुल उज़्ज़ा",
+            "आमिना",
+            "हलीमा",
+            "फातिमा"
+        ],
+        "answer": "Barrah bint Abdul Uzza",
+        "answer_hi": "बर्राह बिन्त अब्दुल उज़्ज़ा"
+    },
+    {
+        "question": "What is the name of the Fortress that Ali (RA) conquered in Khaybar?",
+        "question_hi": "खैबर में अली (RA) द्वारा जीते गए किले का नाम क्या था?",
+        "options": [
+            "Al-Qamus",
+            "Na'im",
+            "Sa'b",
+            "Watih"
+        ],
+        "options_hi": [
+            "अल-क़ामूस",
+            "नईम",
+            "साब",
+            "वतीह"
+        ],
+        "answer": "Al-Qamus",
+        "answer_hi": "अल-क़ामूस"
+    },
+    {
+        "question": "What is the meaning of Surah 'Ar-Ra'd'?",
+        "question_hi": "सूरह 'अर-रअद' का क्या अर्थ है?",
+        "options": [
+            "The Thunder",
+            "The Lightning",
+            "The Rain",
+            "The Wind"
+        ],
+        "options_hi": [
+            "गर्जन (The Thunder)",
+            "बिजली",
+            "वर्षा",
+            "हवा"
+        ],
+        "answer": "The Thunder",
+        "answer_hi": "गर्जन (The Thunder)"
+    },
+    {
+        "question": "Which Prophet was the maternal cousin of Prophet Isa (AS)?",
+        "question_hi": "कौन से पैगंबर, पैगंबर ईसा (AS) के खालाज़ाद भाई (Maternal cousin) थे?",
+        "options": [
+            "Prophet Yahya (AS)",
+            "Prophet Musa (AS)",
+            "Prophet Zakariya (AS)",
+            "Prophet Yusuf (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर याह्या (AS)",
+            "पैगंबर मूसा (AS)",
+            "पैगंबर ज़कारिया (AS)",
+            "पैगंबर यूसुफ (AS)"
+        ],
+        "answer": "Prophet Yahya (AS)",
+        "answer_hi": "पैगंबर याह्या (AS)"
+    },
+    {
+        "question": "Who was the first martyr of the Battle of Badr from the Muslim side?",
+        "question_hi": "बद्र की लड़ाई में मुसलमानों की ओर से पहले शहीद कौन थे?",
+        "options": [
+            "Hamza (RA)",
+            "Mahja bin Salih (RA)",
+            "Umar (RA)",
+            "Ali (RA)"
+        ],
+        "options_hi": [
+            "हामज़ा (RA)",
+            "महजा बिन सालेह (RA)",
+            "उमर (RA)",
+            "अली (RA)"
+        ],
+        "answer": "Mahja bin Salih (RA)",
+        "answer_hi": "महजा बिन सालेह (RA)"
+    },
+    {
+        "question": "What is the name of the constitution established by the Prophet in Medina?",
+        "question_hi": "मदीना में पैगंबर द्वारा स्थापित संविधान का नाम क्या है?",
+        "options": [
+            "Charter of Medina (Mithaq-e-Madina)",
+            "Treaty of Hudaybiyyah",
+            "Pledge of Aqabah",
+            "Medina Agreement"
+        ],
+        "options_hi": [
+            "मदीना का चार्टर (मीसाक़-ए-मदीना)",
+            "हुदैबिया की संधि",
+            "अक़बा का वचन",
+            "मदीना समझौता"
+        ],
+        "answer": "Charter of Medina (Mithaq-e-Madina)",
+        "answer_hi": "मदीना का चार्टर (मीसाक़-ए-मदीना)"
+    },
+    {
+        "question": "What is the Zakat due on 5 camels?",
+        "question_hi": "५ ऊंटों पर कितनी ज़कात देय होती है?",
+        "options": [
+            "1 camel",
+            "1 sheep/goat",
+            "2 sheep",
+            "No Zakat"
+        ],
+        "options_hi": [
+            "1 ऊंट",
+            "1 भेड़ / बकरी",
+            "2 भेड़",
+            "कोई ज़कात नहीं"
+        ],
+        "answer": "1 sheep/goat",
+        "answer_hi": "1 भेड़ / बकरी"
+    },
+    {
+        "question": "Which Prophet's son drowned in the great flood?",
+        "question_hi": "किस पैगंबर का बेटा महान बाढ़ में डूब गया था?",
+        "options": [
+            "Prophet Nuh (AS)",
+            "Prophet Ibrahim (AS)",
+            "Prophet Musa (AS)",
+            "Prophet Yusuf (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर नूह (AS)",
+            "पैगंबर इब्राहिम (AS)",
+            "पैगंबर मूसा (AS)",
+            "पैगंबर यूसुफ (AS)"
+        ],
+        "answer": "Prophet Nuh (AS)",
+        "answer_hi": "पैगंबर नूह (AS)"
+    },
+    {
+        "question": "Who was the companion known as 'The Orator of the Prophet' (Khateeb-ur-Rasul)?",
+        "question_hi": "'खतीब-उर-रसूल' (पैगंबर के वक्ता) के रूप में किस सहाबी को जाना जाता था?",
+        "options": [
+            "Abu Bakr (RA)",
+            "Thabit ibn Qays (RA)",
+            "Umar (RA)",
+            "Ali (RA)"
+        ],
+        "options_hi": [
+            "अबू बक्र (RA)",
+            "साबित इब्न क़ैस (RA)",
+            "उमर (RA)",
+            "अली (RA)"
+        ],
+        "answer": "Thabit ibn Qays (RA)",
+        "answer_hi": "साबित इब्न क़ैस (RA)"
+    },
+    {
+        "question": "What is the meaning of the word 'Al-Asr'?",
+        "question_hi": "'अल-अस्र' शब्द का क्या अर्थ है?",
+        "options": [
+            "The Morning",
+            "The Time",
+            "The Sun",
+            "The Moon"
+        ],
+        "options_hi": [
+            "सुबह",
+            "समय / युग",
+            "सूरज",
+            "चांद"
+        ],
+        "answer": "The Time",
+        "answer_hi": "समय / युग"
+    },
+    {
+        "question": "Which Prophet was given the miracle of the 'White Hand' (Yad-e-Bayda)?",
+        "question_hi": "'यद-ए-बैज़ा' (सफेद हाथ) का चमत्कार किस पैगंबर को दिया गया था?",
+        "options": [
+            "Prophet Isa (AS)",
+            "Prophet Musa (AS)",
+            "Prophet Yusuf (AS)",
+            "Prophet Ibrahim (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर ईसा (AS)",
+            "पैगंबर मूसा (AS)",
+            "पैगंबर यूसुफ (AS)",
+            "पैगंबर इब्राहिम (AS)"
+        ],
+        "answer": "Prophet Musa (AS)",
+        "answer_hi": "पैगंबर मूसा (AS)"
+    },
+    {
+        "question": "In Hajj, pebbles for stoning are usually collected from which place?",
+        "question_hi": "हज में शैतान को मारने के लिए कंकड़ आमतौर पर किस स्थान से इकट्ठे किए जाते हैं?",
+        "options": [
+            "Arafat",
+            "Muzdalifah",
+            "Mina",
+            "Mecca"
+        ],
+        "options_hi": [
+            "अराफ़ात",
+            "मुज़दलिफ़ा",
+            "मीना",
+            "मक्का"
+        ],
+        "answer": "Muzdalifah",
+        "answer_hi": "मुज़दलिफ़ा"
+    },
+    {
+        "question": "Who was the companion that carried the flag of the Muslims in the Battle of Mu'tah?",
+        "question_hi": "मुताह की लड़ाई में मुसलमानों का झंडा सबसे पहले किसने थामा था?",
+        "options": [
+            "Zaid bin Harithah (RA)",
+            "Ja'far bin Abi Talib (RA)",
+            "Abdullah bin Rawaha (RA)",
+            "Khalid bin Walid (RA)"
+        ],
+        "options_hi": [
+            "ज़ैद इब्न हारिसा (RA)",
+            "जाफ़र इब्न अबी तालिब (RA)",
+            "अब्दुल्लाह इब्न रवाहा (RA)",
+            "खालिद बिन वालिद (RA)"
+        ],
+        "answer": "Zaid bin Harithah (RA)",
+        "answer_hi": "ज़ैद इब्न हारिसा (RA)"
+    },
+    {
+        "question": "What is the meaning of the word 'Al-Falaq'?",
+        "question_hi": "'अल-फलक' शब्द का क्या अर्थ है?",
+        "options": [
+            "The Night",
+            "The Daybreak / Dawn",
+            "The Mankind",
+            "The Sun"
+        ],
+        "options_hi": [
+            "रात",
+            "भोर / सुबह का प्रकाश",
+            "मानव जाति",
+            "सूरज"
+        ],
+        "answer": "The Daybreak / Dawn",
+        "answer_hi": "भोर / सुबह का प्रकाश"
+    },
+    {
+        "question": "Which Prophet was sent to the people of 'Madyan'?",
+        "question_hi": "'मदयन' के लोगों के पास किस पैगंबर को भेजा गया था?",
+        "options": [
+            "Prophet Hud (AS)",
+            "Prophet Shu'ayb (AS)",
+            "Prophet Salih (AS)",
+            "Prophet Nuh (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर हूद (AS)",
+            "पैगंबर शुऐब (AS)",
+            "पैगंबर सालेह (AS)",
+            "पैगंबर नूह (AS)"
+        ],
+        "answer": "Prophet Shu'ayb (AS)",
+        "answer_hi": "पैगंबर शुऐब (AS)"
+    },
+    {
+        "question": "Who was the companion known as 'Hibbu Rasulillah' (The Beloved of the Prophet)?",
+        "question_hi": "किस सहाबी को 'हिब्बु रसूलुल्लाह' (पैगंबर का प्यारा) कहा जाता था?",
+        "options": [
+            "Abu Bakr (RA)",
+            "Usama bin Zaid (RA)",
+            "Ali (RA)",
+            "Hamza (RA)"
+        ],
+        "options_hi": [
+            "अबू बक्र (RA)",
+            "उसामा बिन ज़ैद (RA)",
+            "अली (RA)",
+            "हामज़ा (RA)"
+        ],
+        "answer": "Usama bin Zaid (RA)",
+        "answer_hi": "उसामा बिन ज़ैद (RA)"
+    },
+    {
+        "question": "What is the name of the Prophet's (PBUH) cousin who married Fatima (RA)?",
+        "question_hi": "पैगंबर (PBUH) के उस चचेरे भाई का नाम क्या था जिनका विवाह फातिमा (RA) से हुआ था?",
+        "options": [
+            "Ali ibn Abi Talib (RA)",
+            "Abbas",
+            "Ja'far",
+            "Aqil"
+        ],
+        "options_hi": [
+            "अली इब्न अबी तालिब (RA)",
+            "अब्बास",
+            "जाफर",
+            "अकील"
+        ],
+        "answer": "Ali ibn Abi Talib (RA)",
+        "answer_hi": "अली इब्न अबी तालिब (RA)"
+    },
+    {
+        "question": "How many mandatory prayers are there in a day for a Muslim?",
+        "question_hi": "एक मुसलमान के लिए दिन में कितनी नमाजें फर्ज (अनिवार्य) हैं?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "options_hi": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": "5",
+        "answer_hi": "5"
+    },
+    {
+        "question": "Which Prophet built the Ark to save believers from the great flood?",
+        "question_hi": "विश्वासियों को महान बाढ़ से बचाने के लिए किस पैगंबर ने कश्ती (Ark) बनाई थी?",
+        "options": [
+            "Prophet Musa (AS)",
+            "Prophet Ibrahim (AS)",
+            "Prophet Nuh (AS)",
+            "Prophet Hud (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर मूसा (AS)",
+            "पैगंबर इब्राहिम (AS)",
+            "पैगंबर नूह (AS)",
+            "पैगंबर हूद (AS)"
+        ],
+        "answer": "Prophet Nuh (AS)",
+        "answer_hi": "पैगंबर नूह (AS)"
+    },
+    {
+        "question": "What is the name of the gate in Paradise reserved for those who fast?",
+        "question_hi": "जन्नत के उस द्वार का नाम क्या है जो रोजा रखने वालों के लिए आरक्षित है?",
+        "options": [
+            "Ar-Rayyan",
+            "Bab-us-Salam",
+            "Bab-ul-Iman",
+            "Al-Baqi"
+        ],
+        "options_hi": [
+            "अर-रय्यान",
+            "बाब-उस-सलाम",
+            "बाब-उल-ईमान",
+            "अल-बाकी"
+        ],
+        "answer": "Ar-Rayyan",
+        "answer_hi": "अर-रय्यान"
+    },
+    {
+        "question": "Which companion was known as 'Dhun-Nurayn' (Possessor of two lights)?",
+        "question_hi": "किस सहाबी को 'धुल-नूरैन' (दो नूरों वाला) कहा जाता था?",
+        "options": [
+            "Abu Bakr (RA)",
+            "Uthman ibn Affan (RA)",
+            "Umar (RA)",
+            "Ali (RA)"
+        ],
+        "options_hi": [
+            "अबू बक्र (RA)",
+            "उस्मान इब्न अफ्फान (RA)",
+            "उमर (RA)",
+            "अली (RA)"
+        ],
+        "answer": "Uthman ibn Affan (RA)",
+        "answer_hi": "उस्मान इब्न अफ्फान (RA)"
+    },
+    {
+        "question": "What is the symbolic act of stoning the pillars during Hajj called?",
+        "question_hi": "हज के दौरान शैतान को पत्थर मारने की प्रतीकात्मक क्रिया क्या कहलाती है?",
+        "options": [
+            "Sa'i",
+            "Rami",
+            "Tawaf",
+            "Wuquf"
+        ],
+        "options_hi": [
+            "सई",
+            "रमी",
+            "तवाफ",
+            "वक़ूफ़"
+        ],
+        "answer": "Rami",
+        "answer_hi": "रमी"
+    },
+    {
+        "question": "What material were Jinns created from?",
+        "question_hi": "जिन्न किस चीज़ से बनाए गए थे?",
+        "options": [
+            "Light",
+            "Clay",
+            "Fire",
+            "Air"
+        ],
+        "options_hi": [
+            "नूर (प्रकाश)",
+            "मिट्टी",
+            "आग",
+            "हवा"
+        ],
+        "answer": "Fire",
+        "answer_hi": "आग"
+    },
+    {
+        "question": "Who was the first female martyr in Islam?",
+        "question_hi": "इस्लाम की पहली महिला शहीद कौन थीं?",
+        "options": [
+            "Sumayyah bint Khayyat (RA)",
+            "Khadija (RA)",
+            "Fatima (RA)",
+            "Aisha (RA)"
+        ],
+        "options_hi": [
+            "सुमैय्या बिन्त खय्यात (RA)",
+            "खदीजा (RA)",
+            "फातिमा (RA)",
+            "आइशा (RA)"
+        ],
+        "answer": "Sumayyah bint Khayyat (RA)",
+        "answer_hi": "सुमैय्या बिन्त खय्यात (RA)"
+    },
+    {
+        "question": "How many Juz/Paras are there in the Holy Quran?",
+        "question_hi": "पवित्र कुरान में कुल कितने जुज़/पारे हैं?",
+        "options": [
+            "10",
+            "20",
+            "30",
+            "40"
+        ],
+        "options_hi": [
+            "10",
+            "20",
+            "30",
+            "40"
+        ],
+        "answer": "30",
+        "answer_hi": "30"
+    },
+    {
+        "question": "Which Prophet spoke to a burning bush as a direct sign from Allah?",
+        "question_hi": "किस पैगंबर ने अल्लाह के सीधे संकेत के रूप में जलती हुई झाड़ी (Burning Bush) से बात की थी?",
+        "options": [
+            "Prophet Isa (AS)",
+            "Prophet Musa (AS)",
+            "Prophet Ibrahim (AS)",
+            "Prophet Yusuf (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर ईसा (AS)",
+            "पैगंबर मूसा (AS)",
+            "पैगंबर इब्राहिम (AS)",
+            "पैगंबर यूसुफ (AS)"
+        ],
+        "answer": "Prophet Musa (AS)",
+        "answer_hi": "पैगंबर मूसा (AS)"
+    },
+    {
+        "question": "What is the meaning of Surah 'Az-Zariyat'?",
+        "question_hi": "सूरह 'अज़-ज़ारियात' का क्या अर्थ है?",
+        "options": [
+            "The Scattering Winds",
+            "The Clouds",
+            "The Stars",
+            "The Rain"
+        ],
+        "options_hi": [
+            "बिखेरने वाली हवाएं",
+            "बादल",
+            "सितारे",
+            "वर्षा"
+        ],
+        "answer": "The Scattering Winds",
+        "answer_hi": "बिखेरने वाली हवाएं"
+    },
+    {
+        "question": "Which daughter of the Prophet (PBUH) was married to Ali (RA)?",
+        "question_hi": "पैगंबर (PBUH) की किस बेटी का विवाह अली (RA) से हुआ था?",
+        "options": [
+            "Zainab (RA)",
+            "Ruqayyah (RA)",
+            "Umm Kulthum (RA)",
+            "Fatima (RA)"
+        ],
+        "options_hi": [
+            "जैनब (RA)",
+            "रुकैय्या (RA)",
+            "उम्मे कुलसुम (RA)",
+            "फातिमा (RA)"
+        ],
+        "answer": "Fatima (RA)",
+        "answer_hi": "फातिमा (RA)"
+    },
+    {
+        "question": "Who were the two young Sahaba who killed Abu Jahl in the Battle of Badr?",
+        "question_hi": "बद्र की लड़ाई में अबू जहल को मारने वाले दो युवा सहाबी कौन थे?",
+        "options": [
+            "Mu'adh and Mu'awwidh (RA)",
+            "Hassan and Hussain (RA)",
+            "Zaid and Usama (RA)",
+            "Anas and Jaber (RA)"
+        ],
+        "options_hi": [
+            "मुआज़ और मुअव्विज़ (RA)",
+            "हसन और हुसैन (RA)",
+            "ज़ैद और उसामा (RA)",
+            "अनस और जाबेर (RA)"
+        ],
+        "answer": "Mu'adh and Mu'awwidh (RA)",
+        "answer_hi": "मुआज़ और मुअव्विज़ (RA)"
+    },
+    {
+        "question": "What is the meaning of Surah 'An-Nahl'?",
+        "question_hi": "सूरह 'अन-नहल' का क्या अर्थ है?",
+        "options": [
+            "The Ant",
+            "The Bee",
+            "The Spider",
+            "The Elephant"
+        ],
+        "options_hi": [
+            "चींटी",
+            "मधुमक्खी",
+            "मकड़ी",
+            "हाथी"
+        ],
+        "answer": "The Bee",
+        "answer_hi": "मधुमक्खी"
+    },
+    {
+        "question": "Which Prophet's people, the Thamud, were gifted a miraculous she-camel?",
+        "question_hi": "किस पैगंबर की कौम, समूद (Thamud) को एक चमत्कारी ऊंटनी उपहार में दी गई थी?",
+        "options": [
+            "Prophet Hud (AS)",
+            "Prophet Salih (AS)",
+            "Prophet Nuh (AS)",
+            "Prophet Yusuf (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर हूद (AS)",
+            "पैगंबर सालेह (AS)",
+            "पैगंबर नूह (AS)",
+            "पैगंबर यूसुफ (AS)"
+        ],
+        "answer": "Prophet Salih (AS)",
+        "answer_hi": "पैगंबर सालेह (AS)"
+    },
+    {
+        "question": "Which companion was known by the title 'As-Siddiq' (The Truthful)?",
+        "question_hi": "'अल-सिद्दीक' (सत्यवादी) के नाम से किस साथी को जाना जाता था?",
+        "options": [
+            "Umar (RA)",
+            "Abu Bakr (RA)",
+            "Uthman (RA)",
+            "Ali (RA)"
+        ],
+        "options_hi": [
+            "उमर (RA)",
+            "अबू बक्र (RA)",
+            "उस्मान (RA)",
+            "अली (RA)"
+        ],
+        "answer": "Abu Bakr (RA)",
+        "answer_hi": "अबू बक्र (RA)"
+    },
+    {
+        "question": "What was the name of the Fortress that Ali (RA) conquered at Khaybar?",
+        "question_hi": "खैबर में अली (RA) द्वारा जीते गए किले का नाम क्या था?",
+        "options": [
+            "Al-Qamus",
+            "Na'im",
+            "Sa'b",
+            "Watih"
+        ],
+        "options_hi": [
+            "अल-क़ामूस",
+            "नईम",
+            "साब",
+            "वतीह"
+        ],
+        "answer": "Al-Qamus",
+        "answer_hi": "अल-क़ामूस"
+    },
+    {
+        "question": "Who was the Prophet's (PBUH) maternal grandfather?",
+        "question_hi": "पैगंबर (PBUH) के नाना (माता के पिता) का नाम क्या था?",
+        "options": [
+            "Abd Manaf",
+            "Wahb ibn Abd Manaf",
+            "Hashim",
+            "Kilab"
+        ],
+        "options_hi": [
+            "अब्द मनाफ",
+            "वहब इब्न अब्द मनाफ",
+            "हाशिम",
+            "किलाब"
+        ],
+        "answer": "Wahb ibn Abd Manaf",
+        "answer_hi": "वहब इब्न अब्द मनाफ"
+    },
+    {
+        "question": "Which Prophet was born to a mother named Raheel?",
+        "question_hi": "किस पैगंबर की माता का नाम राहील था?",
+        "options": [
+            "Prophet Yusuf (AS)",
+            "Prophet Musa (AS)",
+            "Prophet Idris (AS)",
+            "Prophet Isa (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर यूसुफ (AS)",
+            "पैगंबर मूसा (AS)",
+            "पैगंबर इदरीस (AS)",
+            "पैगंबर ईसा (AS)"
+        ],
+        "answer": "Prophet Yusuf (AS)",
+        "answer_hi": "पैगंबर यूसुफ (AS)"
+    },
+    {
+        "question": "Which Sahabi was the first flag bearer for Muslims in the Battle of Mu'tah?",
+        "question_hi": "मुताह की लड़ाई में मुसलमानों का झंडा सबसे पहले किस सहाबी ने थामा था?",
+        "options": [
+            "Zaid bin Harithah (RA)",
+            "Ja'far bin Abi Talib (RA)",
+            "Abdullah bin Rawaha (RA)",
+            "Khalid bin Walid (RA)"
+        ],
+        "options_hi": [
+            "ज़ैद इब्न हारिसा (RA)",
+            "जाफ़र इब्न अबी तालिब (RA)",
+            "अब्दुल्लाह इब्न रवाहा (RA)",
+            "खालिद बिन वालिद (RA)"
+        ],
+        "answer": "Zaid bin Harithah (RA)",
+        "answer_hi": "ज़ैद इब्न हारिसा (RA)"
+    },
+    {
+        "question": "Which Prophet was given the name 'Yahya' directly by Allah?",
+        "question_hi": "किस पैगंबर को अल्लाह द्वारा सीधे 'याह्या' नाम दिया गया था?",
+        "options": [
+            "Prophet Isa (AS)",
+            "Prophet Yahya (AS)",
+            "Prophet Zakariya (AS)",
+            "Prophet Yusuf (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर ईसा (AS)",
+            "पैगंबर याह्या (AS)",
+            "पैगंबर ज़कारिया (AS)",
+            "पैगंबर यूसुफ (AS)"
+        ],
+        "answer": "Prophet Yahya (AS)",
+        "answer_hi": "पैगंबर याह्या (AS)"
+    },
+    {
+        "question": "What is the meaning of Surah 'Al-Buruj'?",
+        "question_hi": "सूरह 'अल-बुरूज' का क्या अर्थ है?",
+        "options": [
+            "The Stars",
+            "The Constellations",
+            "The Light",
+            "The Sky"
+        ],
+        "options_hi": [
+            "सितारे",
+            "नक्षत्र / बुर्ज (The Constellations)",
+            "प्रकाश",
+            "आकाश"
+        ],
+        "answer": "The Constellations",
+        "answer_hi": "नक्षत्र / बुर्ज (The Constellations)"
+    },
+    {
+        "question": "Which Sahabi was the first ambassador of Islam sent to Medina?",
+        "question_hi": "मदीना भेजे गए इस्लाम के पहले राजदूत (Ambassador) कौन से सहाबी थे?",
+        "options": [
+            "Mus'ab ibn Umayr (RA)",
+            "Abu Bakr (RA)",
+            "Umar (RA)",
+            "Zaid bin Harithah (RA)"
+        ],
+        "options_hi": [
+            "मुसाब इब्न उमैर (RA)",
+            "अबू बक्र (RA)",
+            "उमर (RA)",
+            "ज़ैद इब्न हारिसा (RA)"
+        ],
+        "answer": "Mus'ab ibn Umayr (RA)",
+        "answer_hi": "मुसाब इब्न उमैर (RA)"
+    },
+    {
+        "question": "What was the name of the Prophet's (PBUH) maternal uncle who opposed him initially?",
+        "question_hi": "पैगंबर (PBUH) के उस मामू (माता के भाई) का नाम क्या था जो शुरू में उनके विरोधी थे?",
+        "options": [
+            "Aswad ibn Abd Yaghuth",
+            "Abu Talib",
+            "Hashim",
+            "Kilab"
+        ],
+        "options_hi": [
+            "अस्वद इब्न अब्द यागुस",
+            "अबू तालिब",
+            "हाशिम",
+            "किलाब"
+        ],
+        "answer": "Aswad ibn Abd Yaghuth",
+        "answer_hi": "अस्वद इब्न अब्द यागुस"
+    },
+    {
+        "question": "Which Sahabi was the head of the archers in the Battle of Uhud?",
+        "question_hi": "उहुद की लड़ाई में तीरंदाजों के प्रमुख कौन से सहाबी थे?",
+        "options": [
+            "Abdullah bin Jubayr (RA)",
+            "Khalid bin Walid",
+            "Ali (RA)",
+            "Hamza (RA)"
+        ],
+        "options_hi": [
+            "अब्दुल्लाह इब्न जुबैर (RA)",
+            "खालिद बिन वालिद",
+            "अली (RA)",
+            "हामज़ा (RA)"
+        ],
+        "answer": "Abdullah bin Jubayr (RA)",
+        "answer_hi": "अब्दुल्लाह इब्न जुबैर (RA)"
+    },
+    {
+        "question": "Which Sahabi had the title 'Hibbu Rasulillah' (The Beloved of the Messenger)?",
+        "question_hi": "किस सहाबी को 'हिब्बु रसूलुल्लाह' (अल्लाह के रसूल का प्यारा) कहा जाता था?",
+        "options": [
+            "Abu Bakr (RA)",
+            "Usama bin Zaid (RA)",
+            "Ali (RA)",
+            "Hamza (RA)"
+        ],
+        "options_hi": [
+            "अबू बक्र (RA)",
+            "उसामा बिन ज़ैद (RA)",
+            "अली (RA)",
+            "हामज़ा (RA)"
+        ],
+        "answer": "Usama bin Zaid (RA)",
+        "answer_hi": "उसामा बिन ज़ैद (RA)"
+    },
+    {
+        "question": "Which Prophet was given the miracle of the sun staying up longer to finish a battle?",
+        "question_hi": "किस पैगंबर के लिए युद्ध पूरा करने हेतु सूरज के रुके रहने का चमत्कार हुआ था?",
+        "options": [
+            "Prophet Musa (AS)",
+            "Prophet Yusha bin Nun (AS)",
+            "Prophet Isa (AS)",
+            "Prophet Muhammad (PBUH)"
+        ],
+        "options_hi": [
+            "पैगंबर मूसा (AS)",
+            "पैगंबर योशा बिन नून (AS)",
+            "पैगंबर ईसा (AS)",
+            "पैगंबर मुहम्मद (PBUH)"
+        ],
+        "answer": "Prophet Yusha bin Nun (AS)",
+        "answer_hi": "पैगंबर योशा बिन नून (AS)"
+    },
+    {
+        "question": "Which Sahabi was known as 'Al-Habr' (The Great Scholar of the Ummah)?",
+        "question_hi": "किस सहाबी को 'अल-हब्र' (उम्मत का महान विद्वान) कहा जाता था?",
+        "options": [
+            "Abu Hurairah",
+            "Abdullah ibn Abbas (RA)",
+            "Abdullah ibn Umar",
+            "Zaid bin Thabit"
+        ],
+        "options_hi": [
+            "अबू हुरैरा",
+            "अब्दुल्लाह इब्न अब्बास (RA)",
+            "अब्दुल्लाह इब्न उमर",
+            "ज़ैद इब्न साबित"
+        ],
+        "answer": "Abdullah ibn Abbas (RA)",
+        "answer_hi": "अब्दुल्लाह इब्न अब्बास (RA)"
+    },
+    {
+        "question": "What was the name of the Prophet's (PBUH) mule used in travels?",
+        "question_hi": "यात्राओं में उपयोग किए जाने वाले पैगंबर (PBUH) के खच्चर (Mule) का नाम क्या था?",
+        "options": [
+            "Al-Qaswa",
+            "Duldul",
+            "Ya'fur",
+            "Al-Adha"
+        ],
+        "options_hi": [
+            "अल-कस्वा",
+            "दुलदुल",
+            "याफूर",
+            "अल-अदहा"
+        ],
+        "answer": "Duldul",
+        "answer_hi": "दुलदुल"
+    },
+    {
+        "question": "Which Sahabi was known as 'At-Tayyar' (The Winged) in Paradise?",
+        "question_hi": "जन्नत में 'अत-तय्यर' (पंखों वाला) के रूप में किस सहाबी को जाना जाता है?",
+        "options": [
+            "Ali (RA)",
+            "Ja'far ibn Abi Talib (RA)",
+            "Khalid bin Walid",
+            "Hamza (RA)"
+        ],
+        "options_hi": [
+            "अली (RA)",
+            "जाफ़र इब्न अबी तालिब (RA)",
+            "खालिद बिन वालिद",
+            "हामज़ा (RA)"
+        ],
+        "answer": "Ja'far ibn Abi Talib (RA)",
+        "answer_hi": "जाफ़र इब्न अबी तालिब (RA)"
+    },
+    {
+        "question": "Which Sahabi was the official Secretary of the Prophet (PBUH) for revelation?",
+        "question_hi": "वही (Revelation) लिखने के लिए पैगंबर (PBUH) के आधिकारिक सचिव कौन थे?",
+        "options": [
+            "Abu Bakr (RA)",
+            "Zaid bin Thabit (RA)",
+            "Umar (RA)",
+            "Uthman (RA)"
+        ],
+        "options_hi": [
+            "अबू बक्र (RA)",
+            "ज़ैद इब्न साबित (RA)",
+            "उमर (RA)",
+            "उस्मान (RA)"
+        ],
+        "answer": "Zaid bin Thabit (RA)",
+        "answer_hi": "ज़ैद इब्न साबित (RA)"
+    },
+    {
+        "question": "Which Sahabi carried the flag in the Battle of Mu'tah after Ja'far (RA) was martyred?",
+        "question_hi": "जाफ़र (RA) के शहीद होने के बाद मुताह की लड़ाई में झंडा किसने संभाला था?",
+        "options": [
+            "Zaid bin Harithah (RA)",
+            "Abdullah bin Rawaha (RA)",
+            "Khalid bin Walid",
+            "Usama bin Zaid"
+        ],
+        "options_hi": [
+            "ज़ैद इब्न हारिसा (RA)",
+            "अब्दुल्लाह इब्न रवाहा (RA)",
+            "खालिद बिन वालिद",
+            "उसामा इब्न ज़ैद"
+        ],
+        "answer": "Abdullah bin Rawaha (RA)",
+        "answer_hi": "अब्दुल्लाह इब्न रवाहा (RA)"
+    },
+    {
+        "question": "Who was the companion known as 'The Secretary of the Ummah'?",
+        "question_hi": "'उम्मत के सचिव' के रूप में किसे जाना जाता था?",
+        "options": [
+            "Zaid bin Thabit (RA)",
+            "Abdullah ibn Abbas",
+            "Abu Hurairah",
+            "Anas ibn Malik"
+        ],
+        "options_hi": [
+            "ज़ैद इब्न साबित (RA)",
+            "अब्दुल्लाह इब्न अब्बास",
+            "अबू हुरैरा",
+            "अनस इब्न मालिक"
+        ],
+        "answer": "Zaid bin Thabit (RA)",
+        "answer_hi": "ज़ैद इब्न साबित (RA)"
+    },
+    {
+        "question": "What was the name of the Prophet's (PBUH) son who was born to Maria al-Qibtiyya?",
+        "question_hi": "पैगंबर (PBUH) के उस पुत्र का नाम क्या था जो मारिया अल-क़िब्तिया से पैदा हुए थे?",
+        "options": [
+            "Qasim",
+            "Abdullah",
+            "Ibrahim",
+            "Zaid"
+        ],
+        "options_hi": [
+            "कासिम",
+            "अब्दुल्लाह",
+            "इब्राहिम",
+            "ज़ैद"
+        ],
+        "answer": "Ibrahim",
+        "answer_hi": "इब्राहिम"
+    },
+    {
+        "question": "Who was the companion nicknamed 'The Keeper of the Secret' of the Prophet (PBUH)?",
+        "question_hi": "पैगंबर (PBUH) के 'राज़दार' के रूप में कौन से सहाबी प्रसिद्ध थे?",
+        "options": [
+            "Hudhayfah ibn al-Yaman (RA)",
+            "Abu Bakr (RA)",
+            "Umar (RA)",
+            "Ali (RA)"
+        ],
+        "options_hi": [
+            "हुदैफा इब्न अल-यमन (RA)",
+            "अबू बक्र (RA)",
+            "उमर (RA)",
+            "अली (RA)"
+        ],
+        "answer": "Hudhayfah ibn al-Yaman (RA)",
+        "answer_hi": "हुदैफा इब्न अल-यमन (RA)"
+    },
+    {
+        "question": "Which Prophet was given the miracle of the 'Table Spread' with food from heaven?",
+        "question_hi": "किस पैगंबर को स्वर्ग से भोजन से सजे दस्तरखान का चमत्कार दिया गया था?",
+        "options": [
+            "Prophet Musa (AS)",
+            "Prophet Isa (AS)",
+            "Prophet Ibrahim (AS)",
+            "Prophet Muhammad (PBUH)"
+        ],
+        "options_hi": [
+            "पैगंबर मूसा (AS)",
+            "पैगंबर ईसा (AS)",
+            "पैगंबर इब्राहिम (AS)",
+            "पैगंबर मुहम्मद (PBUH)"
+        ],
+        "answer": "Prophet Isa (AS)",
+        "answer_hi": "पैगंबर ईसा (AS)"
+    },
+    {
+        "question": "Which companion suggested digging the trench in the Battle of Ahzab?",
+        "question_hi": "अहज़ाब की लड़ाई में खाई खोदने का सुझाव किस सहाबी ने दिया था?",
+        "options": [
+            "Abu Hurairah",
+            "Salman al-Farsi (RA)",
+            "Bilal (RA)",
+            "Zaid (RA)"
+        ],
+        "options_hi": [
+            "अबू हुरैरा",
+            "सल्मान अल-फारसी (RA)",
+            "बिलाल (RA)",
+            "ज़ैद (RA)"
+        ],
+        "answer": "Salman al-Farsi (RA)",
+        "answer_hi": "सल्मान अल-फारसी (RA)"
+    },
+    {
+        "question": "Which companion was the first male child to embrace Islam?",
+        "question_hi": "बच्चों में सबसे पहले इस्लाम किसने स्वीकार किया था?",
+        "options": [
+            "Zaid bin Harithah",
+            "Ali ibn Abi Talib (RA)",
+            "Usama bin Zaid",
+            "Abdullah bin Umar"
+        ],
+        "options_hi": [
+            "ज़ैद इब्न हारिसा",
+            "अली इब्न अबी तालिब (RA)",
+            "उसामा इब्न ज़ैद",
+            "अब्दुल्लाह इब्न उमर"
+        ],
+        "answer": "Ali ibn Abi Talib (RA)",
+        "answer_hi": "अली इब्न अबी तालिब (RA)"
+    },
+    {
+        "question": "Which companion was the head of the archers at the Battle of Uhud?",
+        "question_hi": "उहुद की लड़ाई में तीरंदाजों के प्रमुख कौन से सहाबी थे?",
+        "options": [
+            "Abdullah bin Jubayr (RA)",
+            "Khalid bin Walid",
+            "Ali (RA)",
+            "Hamza (RA)"
+        ],
+        "options_hi": [
+            "अब्दुल्लाह इब्न जुबैर (RA)",
+            "खालिद बिन वालिद",
+            "अली (RA)",
+            "हामज़ा (RA)"
+        ],
+        "answer": "Abdullah bin Jubayr (RA)",
+        "answer_hi": "अब्दुल्लाह इब्न जुबैर (RA)"
+    },
+    {
+        "question": "Which Sahabi narate the footprints of the Prophet in Paradise?",
+        "question_hi": "मिराज के दौरान पैगंबर ने जन्नत में किसके चलने की आवाज़ सुनी थी?",
+        "options": [
+            "Abu Bakr (RA)",
+            "Umar (RA)",
+            "Bilal bin Rabah (RA)",
+            "Ali (RA)"
+        ],
+        "options_hi": [
+            "अबू बक्र (RA)",
+            "उमर (RA)",
+            "बिलाल इब्न रबाह (RA)",
+            "अली (RA)"
+        ],
+        "answer": "Bilal bin Rabah (RA)",
+        "answer_hi": "बिलाल इब्न रबाह (RA)"
+    },
+    {
+        "question": "Which Prophet remained patient through severe illness for many years?",
+        "question_hi": "कौन सा नबी कई वर्षों तक गंभीर बीमारी के दौरान धैर्यवान रहा?",
+        "options": [
+            "Prophet Ayub (AS)",
+            "Prophet Yaqub (AS)",
+            "Prophet Zakariya (AS)",
+            "Prophet Yahya (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर अय्यूब (AS)",
+            "पैगंबर याकूब (AS)",
+            "पैगंबर ज़कारिया (AS)",
+            "पैगंबर याह्या (AS)"
+        ],
+        "answer": "Prophet Ayub (AS)",
+        "answer_hi": "पैगंबर अय्यूब (AS)"
+    },
+    {
+        "question": "What is the meaning of 'Ayatul Dayn' (The longest verse)?",
+        "question_hi": "'आयत अल-दैन' (सबसे लंबी आयत) का क्या अर्थ है?",
+        "options": [
+            "Verse of Prayer",
+            "Verse of Debt/Loan",
+            "Verse of Victory",
+            "Verse of Light"
+        ],
+        "options_hi": [
+            "प्रार्थना की आयत",
+            "कर्ज / ऋण की आयत",
+            "जीत की आयत",
+            "नूर की आयत"
+        ],
+        "answer": "Verse of Debt/Loan",
+        "answer_hi": "कर्ज / ऋण की आयत"
+    },
+    {
+        "question": "Which Surah of the Holy Quran does not begin with 'Bismillah'?",
+        "question_hi": "पवित्र कुरान की कौन सी सूरह 'बिस्मिल्लाह' से शुरू नहीं होती है?",
+        "options": [
+            "Surah At-Tawbah",
+            "Surah Al-Alaq",
+            "Surah An-Naml",
+            "Surah Al-Fatiha"
+        ],
+        "options_hi": [
+            "सूरह अत-तौबा",
+            "सूरह अल-अलक",
+            "सूरह अन-नमल",
+            "सूरह अल-फातिहा"
+        ],
+        "answer": "Surah At-Tawbah",
+        "answer_hi": "सूरह अत-तौबा"
+    },
+    {
+        "question": "Which Prophet is known for his encounter with Al-Khidr (AS)?",
+        "question_hi": "कौन से पैगंबर अल-खिज्र (AS) के साथ अपनी मुलाकात के लिए जाने जाते हैं?",
+        "options": [
+            "Prophet Musa (AS)",
+            "Prophet Isa (AS)",
+            "Prophet Ibrahim (AS)",
+            "Prophet Yusuf (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर मूसा (AS)",
+            "पैगंबर ईसा (AS)",
+            "पैगंबर इब्राहिम (AS)",
+            "पैगंबर यूसुफ (AS)"
+        ],
+        "answer": "Prophet Musa (AS)",
+        "answer_hi": "पैगंबर मूसा (AS)"
+    },
+    {
+        "question": "Which companion was known as the most knowledgeable about Halal and Haram?",
+        "question_hi": "हलाल और हराम के बारे में सबसे अधिक ज्ञान रखने वाले सहाबी कौन थे?",
+        "options": [
+            "Mu'adh ibn Jabal (RA)",
+            "Abu Bakr (RA)",
+            "Umar (RA)",
+            "Ali (RA)"
+        ],
+        "options_hi": [
+            "मुआज़ इब्न जबल (RA)",
+            "अबू बक्र (RA)",
+            "उमर (RA)",
+            "अली (RA)"
+        ],
+        "answer": "Mu'adh ibn Jabal (RA)",
+        "answer_hi": "मुआज़ इब्न जबल (RA)"
+    },
+    {
+        "question": "What is the name of the place where Prophet Muhammad (PBUH) delivered his last sermon?",
+        "question_hi": "उस स्थान का नाम क्या है जहाँ पैगंबर मुहम्मद (PBUH) ने अपना अंतिम उपदेश दिया था?",
+        "options": [
+            "Uranah Valley (Mount Arafat)",
+            "Mina",
+            "Muzdalifah",
+            "Safa"
+        ],
+        "options_hi": [
+            "उराना घाटी (अराफ़ात पर्वत)",
+            "मीना",
+            "मुज़दलिफ़ा",
+            "सफ़ा"
+        ],
+        "answer": "Uranah Valley (Mount Arafat)",
+        "answer_hi": "उराना घाटी (अराफ़ात पर्वत)"
+    },
+    {
+        "question": "Which Prophet was sent to the people of 'Aykah'?",
+        "question_hi": "'ऐका' (Aykah) के लोगों के पास किस पैगंबर को भेजा गया था?",
+        "options": [
+            "Prophet Shu'ayb (AS)",
+            "Prophet Hud (AS)",
+            "Prophet Salih (AS)",
+            "Prophet Lut (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर शुऐब (AS)",
+            "पैगंबर हूद (AS)",
+            "पैगंबर सालेह (AS)",
+            "पैगंबर लूत (AS)"
+        ],
+        "answer": "Prophet Shu'ayb (AS)",
+        "answer_hi": "पैगंबर शुऐब (AS)"
+    },
+    {
+        "question": "What was the name of the Prophet's (PBUH) sword 'Al-Ma'thur'?",
+        "question_hi": "पैगंबर (PBUH) की उस तलवार का नाम क्या था जो उन्हें उनके पिता से विरासत में मिली थी?",
+        "options": [
+            "Al-Ma'thur",
+            "Zulfiqar",
+            "Al-Battar",
+            "Al-Qadib"
+        ],
+        "options_hi": [
+            "अल-माथुर",
+            "ज़ुल्फिकार",
+            "अल-बत्तार",
+            "अल-कादिब"
+        ],
+        "answer": "Al-Ma'thur",
+        "answer_hi": "अल-माथुर"
+    },
+    {
+        "question": "Which animal is mentioned in the Quran as being created for the benefit of humans?",
+        "question_hi": "कुरान में किस जानवर के बारे में बताया गया है कि उसे इंसानों के फायदे के लिए बनाया गया है?",
+        "options": [
+            "Cattle (Al-An'am)",
+            "Elephant",
+            "Spider",
+            "Ant"
+        ],
+        "options_hi": [
+            "मवेशी (चौपाया)",
+            "हाथी",
+            "मकड़ी",
+            "चींटी"
+        ],
+        "answer": "Cattle (Al-An'am)",
+        "answer_hi": "मवेशी (चौपाया)"
+    },
+    {
+        "question": "How many years did Prophet Muhammad (PBUH) live in Medina after the Hijrah?",
+        "question_hi": "हिजरत के बाद पैगंबर मुहम्मद (PBUH) मदीना में कितने वर्षों तक रहे?",
+        "options": [
+            "10 years",
+            "13 years",
+            "5 years",
+            "23 years"
+        ],
+        "options_hi": [
+            "10 साल",
+            "13 साल",
+            "5 साल",
+            "23 साल"
+        ],
+        "answer": "10 years",
+        "answer_hi": "10 साल"
+    },
+    {
+        "question": "What is the meaning of the word 'Al-Furqan' in the Quran?",
+        "question_hi": "कुरान में 'अल-फुरकान' शब्द का अर्थ क्या है?",
+        "options": [
+            "The Criterion (between right and wrong)",
+            "The Light",
+            "The Help",
+            "The Miracle"
+        ],
+        "options_hi": [
+            "मानदंड (सत्य और असत्य के बीच)",
+            "प्रकाश",
+            "मदद",
+            "चमत्कार"
+        ],
+        "answer": "The Criterion (between right and wrong)",
+        "answer_hi": "मानदंड (सत्य और असत्य के बीच)"
+    },
+    {
+        "question": "Which Sahabi was the first to build a mosque in Islam?",
+        "question_hi": "इस्लाम में पहली मस्जिद बनाने वाले सहाबी कौन थे?",
+        "options": [
+            "Ammar ibn Yasir (RA)",
+            "Abu Bakr (RA)",
+            "Umar (RA)",
+            "Ali (RA)"
+        ],
+        "options_hi": [
+            "अम्मार इब्न यासिर (RA)",
+            "अबू बक्र (RA)",
+            "उमर (RA)",
+            "अली (RA)"
+        ],
+        "answer": "Ammar ibn Yasir (RA)",
+        "answer_hi": "अम्मार इब्न यासिर (RA)"
+    },
+    {
+        "question": "What is the name of the angel who brings the punishment of Allah to disobedient nations?",
+        "question_hi": "अल्लाह की आज्ञा न मानने वाली कौमों पर अज़ाब लाने वाले फरिश्ते का नाम क्या है?",
+        "options": [
+            "Jibreel (AS)",
+            "Mikail (AS)",
+            "Israfil (AS)",
+            "Azrael (AS)"
+        ],
+        "options_hi": [
+            "जिब्रील (AS)",
+            "मीकाइल (AS)",
+            "इसराफिल (AS)",
+            "अज़राइल (AS)"
+        ],
+        "answer": "Jibreel (AS)",
+        "answer_hi": "जिब्रील (AS)"
+    },
+    {
+        "question": "In which month of the Hijri calendar is the Battle of Badr fought?",
+        "question_hi": "हिजरी कैलेंडर के किस महीने में बद्र की लड़ाई लड़ी गई थी?",
+        "options": [
+            "Ramadan",
+            "Muharram",
+            "Shawwal",
+            "Rajab"
+        ],
+        "options_hi": [
+            "रमजान",
+            "मुहर्रम",
+            "शव्वाल",
+            "रजब"
+        ],
+        "answer": "Ramadan",
+        "answer_hi": "रमजान"
+    },
+    {
+        "question": "Which Prophet's story is described as 'The Best of Stories' (Ahsan al-Qasas)?",
+        "question_hi": "किस पैगंबर की कहानी को 'सबसे अच्छी कहानी' (अहसन अल-क़सस) कहा गया है?",
+        "options": [
+            "Prophet Yusuf (AS)",
+            "Prophet Musa (AS)",
+            "Prophet Isa (AS)",
+            "Prophet Ibrahim (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर यूसुफ (AS)",
+            "पैगंबर मूसा (AS)",
+            "पैगंबर ईसा (AS)",
+            "पैगंबर इब्राहिम (AS)"
+        ],
+        "answer": "Prophet Yusuf (AS)",
+        "answer_hi": "पैगंबर यूसुफ (AS)"
+    },
+    {
+        "question": "Who was the companion who killed the false prophet Musaylimah?",
+        "question_hi": "झूठे नबी मुसैलमा को किस सहाबी ने मारा था?",
+        "options": [
+            "Wahshi ibn Harb (RA)",
+            "Khalid bin Walid (RA)",
+            "Ali (RA)",
+            "Hamza (RA)"
+        ],
+        "options_hi": [
+            "वहशी इब्न हर्ब (RA)",
+            "खालिद बिन वालिद (RA)",
+            "अली (RA)",
+            "हामज़ा (RA)"
+        ],
+        "answer": "Wahshi ibn Harb (RA)",
+        "answer_hi": "वहशी इब्न हर्ब (RA)"
+    },
+    {
+        "question": "Which Prophet could control the Jinn and animals by Allah's leave?",
+        "question_hi": "कौन से पैगंबर अल्लाह की अनुमति से जिन्नों और जानवरों को नियंत्रित कर सकते थे?",
+        "options": [
+            "Prophet Sulaiman (AS)",
+            "Prophet Dawud (AS)",
+            "Prophet Musa (AS)",
+            "Prophet Isa (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर सुलेमान (AS)",
+            "पैगंबर दावूद (AS)",
+            "पैगंबर मूसा (AS)",
+            "पैगंबर ईसा (AS)"
+        ],
+        "answer": "Prophet Sulaiman (AS)",
+        "answer_hi": "पैगंबर सुलेमान (AS)"
+    },
+    {
+        "question": "Which companion was nicknamed 'The Lion of Allah' (Asadullah)?",
+        "question_hi": "किस सहाबी का उपनाम 'अल्लाह का शेर' (असदुल्लाह) था?",
+        "options": [
+            "Hamza bin Abdul Muttalib (RA)",
+            "Ali (RA)",
+            "Khalid bin Walid (RA)",
+            "Umar (RA)"
+        ],
+        "options_hi": [
+            "हामज़ा बिन अब्दुल मुत्तलिब (RA)",
+            "अली (RA)",
+            "खालिद बिन वालिद (RA)",
+            "उमर (RA)"
+        ],
+        "answer": "Hamza bin Abdul Muttalib (RA)",
+        "answer_hi": "हामज़ा बिन अब्दुल मुत्तलिब (RA)"
+    },
+    {
+        "question": "What is the name of the bird mentioned in the story of Prophet Sulaiman (AS)?",
+        "question_hi": "पैगंबर सुलेमान (AS) की कहानी में किस पक्षी का उल्लेख है?",
+        "options": [
+            "Hoopoe (Hud-Hud)",
+            "Eagle",
+            "Crow",
+            "Dove"
+        ],
+        "options_hi": [
+            "हुद-हुद (Hoopoe)",
+            "बाज",
+            "कौआ",
+            "कबूतर"
+        ],
+        "answer": "Hoopoe (Hud-Hud)",
+        "answer_hi": "हुद-हुद (Hoopoe)"
+    },
+    {
+        "question": "Who was the mother of Prophet Ismail (AS)?",
+        "question_hi": "पैगंबर इस्माइल (AS) की माता का नाम क्या था?",
+        "options": [
+            "Hajar (AS)",
+            "Sarah (AS)",
+            "Asiya",
+            "Maryam"
+        ],
+        "options_hi": [
+            "हाजरा (AS)",
+            "सारा (AS)",
+            "आसिया",
+            "मरियम"
+        ],
+        "answer": "Hajar (AS)",
+        "answer_hi": "हाजरा (AS)"
+    },
+    {
+        "question": "Who was the mother of Prophet Ishaq (AS)?",
+        "question_hi": "पैगंबर इसहाक (AS) की माता का नाम क्या था?",
+        "options": [
+            "Sarah (AS)",
+            "Hajar (AS)",
+            "Zulaikha",
+            "Hannah"
+        ],
+        "options_hi": [
+            "सारा (AS)",
+            "हाजरा (AS)",
+            "ज़ुलैखा",
+            "हन्ना"
+        ],
+        "answer": "Sarah (AS)",
+        "answer_hi": "सारा (AS)"
+    },
+    {
+        "question": "Which companion was known as the 'Muazzin of the Prophet' (PBUH)?",
+        "question_hi": "पैगंबर (PBUH) के 'मुअज्जिन' के रूप में किस सहाबी को जाना जाता था?",
+        "options": [
+            "Bilal ibn Rabah (RA)",
+            "Zaid bin Harithah (RA)",
+            "Abu Bakr (RA)",
+            "Umar (RA)"
+        ],
+        "options_hi": [
+            "बिलाल इब्न रबाह (RA)",
+            "ज़ैद इब्न हारिसा (RA)",
+            "अबू बक्र (RA)",
+            "उमर (RA)"
+        ],
+        "answer": "Bilal ibn Rabah (RA)",
+        "answer_hi": "बिलाल इब्न रबाह (RA)"
+    },
+    {
+        "question": "What is the name of the place where the sacrifice (Qurbani) is performed during Hajj?",
+        "question_hi": "हज के दौरान उस स्थान का नाम क्या है जहाँ कुर्बानी दी जाती है?",
+        "options": [
+            "Mina",
+            "Arafat",
+            "Muzdalifah",
+            "Safa"
+        ],
+        "options_hi": [
+            "मीना",
+            "अराफ़ात",
+            "मुज़दलिफ़ा",
+            "सफ़ा"
+        ],
+        "answer": "Mina",
+        "answer_hi": "मीना"
+    },
+    {
+        "question": "Which Prophet was thrown into the fire but it became cold for him?",
+        "question_hi": "किस पैगंबर को आग में फेंका गया था, लेकिन वह उनके लिए ठंडी हो गई थी?",
+        "options": [
+            "Prophet Ibrahim (AS)",
+            "Prophet Musa (AS)",
+            "Prophet Isa (AS)",
+            "Prophet Nuh (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर इब्राहिम (AS)",
+            "पैगंबर मूसा (AS)",
+            "पैगंबर ईसा (AS)",
+            "पैगंबर नूह (AS)"
+        ],
+        "answer": "Prophet Ibrahim (AS)",
+        "answer_hi": "पैगंबर इब्राहिम (AS)"
+    },
+    {
+        "question": "Which Sahabi was known as 'Dhul-Nurayn'?",
+        "question_hi": "किस सहाबी को 'धुल-नूरैन' (दो नूरों वाला) कहा जाता है?",
+        "options": [
+            "Uthman ibn Affan (RA)",
+            "Abu Bakr (RA)",
+            "Umar (RA)",
+            "Ali (RA)"
+        ],
+        "options_hi": [
+            "उस्मान इब्न अफ्फान (RA)",
+            "अबू बक्र (RA)",
+            "उमर (RA)",
+            "अली (RA)"
+        ],
+        "answer": "Uthman ibn Affan (RA)",
+        "answer_hi": "उस्मान इब्न अफ्फान (RA)"
+    },
+    {
+        "question": "What is the name of the bridge over Hell that leads to Paradise?",
+        "question_hi": "जहन्नुम के ऊपर बने उस पुल का नाम क्या है जो जन्नत की ओर जाता है?",
+        "options": [
+            "As-Sirat",
+            "Mizan",
+            "Salsabil",
+            "Kawthar"
+        ],
+        "options_hi": [
+            "अस-सिरात",
+            "मीज़ान",
+            "सल्साबील",
+            "कौसर"
+        ],
+        "answer": "As-Sirat",
+        "answer_hi": "अस-सिरात"
+    },
+    {
+        "question": "Which Prophet lived for 950 years preaching to his people?",
+        "question_hi": "कौन से पैगंबर 950 वर्षों तक अपनी कौम को उपदेश देते रहे?",
+        "options": [
+            "Prophet Nuh (AS)",
+            "Prophet Ibrahim (AS)",
+            "Prophet Musa (AS)",
+            "Prophet Adam (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर नूह (AS)",
+            "पैगंबर इब्राहिम (AS)",
+            "पैगंबर मूसा (AS)",
+            "पैगंबर आदम (AS)"
+        ],
+        "answer": "Prophet Nuh (AS)",
+        "answer_hi": "पैगंबर नूह (AS)"
+    },
+    {
+        "question": "Which companion was chosen to stay with the Prophet in the Cave of Thawr?",
+        "question_hi": "पैगंबर के साथ सौर की गुफा में रहने के लिए किस सहाबी को चुना गया था?",
+        "options": [
+            "Abu Bakr (RA)",
+            "Umar (RA)",
+            "Ali (RA)",
+            "Zaid bin Harithah (RA)"
+        ],
+        "options_hi": [
+            "अबू बक्र (RA)",
+            "उमर (RA)",
+            "अली (RA)",
+            "ज़ैद इब्न हारिसा (RA)"
+        ],
+        "answer": "Abu Bakr (RA)",
+        "answer_hi": "अबू बक्र (RA)"
+    },
+    {
+        "question": "How many gates are there in Paradise?",
+        "question_hi": "जन्नत में कुल कितने दरवाजे हैं?",
+        "options": [
+            "8 gates",
+            "7 gates",
+            "12 gates",
+            "10 gates"
+        ],
+        "options_hi": [
+            "8 दरवाजे",
+            "7 दरवाजे",
+            "12 दरवाजे",
+            "10 दरवाजे"
+        ],
+        "answer": "8 gates",
+        "answer_hi": "8 दरवाजे"
+    },
+    {
+        "question": "What is the meaning of Surah 'An-Nas'?",
+        "question_hi": "सूरह 'अन-नास' का क्या अर्थ है?",
+        "options": [
+            "Mankind",
+            "Angels",
+            "The Jinn",
+            "The Stars"
+        ],
+        "options_hi": [
+            "मानव जाति / लोग",
+            "फरिश्ते",
+            "जिन्न",
+            "सितारे"
+        ],
+        "answer": "Mankind",
+        "answer_hi": "मानव जाति / लोग"
+    },
+    {
+        "question": "Which Prophet was swallowed by a large fish/whale?",
+        "question_hi": "किस पैगंबर को एक बड़ी मछली (व्हेल) ने निगल लिया था?",
+        "options": [
+            "Prophet Yunus (AS)",
+            "Prophet Musa (AS)",
+            "Prophet Nuh (AS)",
+            "Prophet Yusuf (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर यूनुस (AS)",
+            "पैगंबर मूसा (AS)",
+            "पैगंबर नूह (AS)",
+            "पैगंबर यूसुफ (AS)"
+        ],
+        "answer": "Prophet Yunus (AS)",
+        "answer_hi": "पैगंबर यूनुस (AS)"
+    },
+    {
+        "question": "What is the first month of the Islamic (Hijri) calendar?",
+        "question_hi": "इस्लामिक (हिजरी) कैलेंडर का पहला महीना कौन सा है?",
+        "options": [
+            "Muharram",
+            "Ramadan",
+            "Shawwal",
+            "Safar"
+        ],
+        "options_hi": [
+            "मुहर्रम",
+            "रमजान",
+            "शव्वाल",
+            "सफर"
+        ],
+        "answer": "Muharram",
+        "answer_hi": "मुहर्रम"
+    },
+    {
+        "question": "Which wife of the Prophet (PBUH) was known for narrating the most Hadiths?",
+        "question_hi": "पैगंबर (PBUH) की कौन सी पत्नी सबसे अधिक हदीसें सुनाने के लिए जानी जाती हैं?",
+        "options": [
+            "Aisha (RA)",
+            "Khadijah (RA)",
+            "Hafsa (RA)",
+            "Umm Salama (RA)"
+        ],
+        "options_hi": [
+            "आइशा (RA)",
+            "खदीजा (RA)",
+            "हफसा (RA)",
+            "उम्म सलामा (RA)"
+        ],
+        "answer": "Aisha (RA)",
+        "answer_hi": "आइशा (RA)"
+    },
+    {
+        "question": "What is the name of the angel who questions the dead in the grave?",
+        "question_hi": "कब्र में मुर्दों से सवाल करने वाले फरिश्तों का नाम क्या है?",
+        "options": [
+            "Munkar and Nakir",
+            "Raqib and Atid",
+            "Jibreel and Mikail",
+            "Malik and Ridwan"
+        ],
+        "options_hi": [
+            "मुनकर और नकीर",
+            "रक़ीब और अतीद",
+            "जिब्रील और मीकाइल",
+            "मालिक और रिदवान"
+        ],
+        "answer": "Munkar and Nakir",
+        "answer_hi": "मुनकर और नकीर"
+    },
+    {
+        "question": "What is the meaning of the word 'Sajdah'?",
+        "question_hi": "'सजदा' शब्द का अर्थ क्या है?",
+        "options": [
+            "Prostration",
+            "Bowing",
+            "Standing",
+            "Sitting"
+        ],
+        "options_hi": [
+            "साष्टांग दंडवत / सिर झुकाना",
+            "रुकू",
+            "कयाम",
+            "जलसा"
+        ],
+        "answer": "Prostration",
+        "answer_hi": "साष्टांग दंडवत / सिर झुकाना"
+    },
+    {
+        "question": "How many Surahs in the Quran are named after Prophets?",
+        "question_hi": "कुरान की कितनी सूरह पैगंबरों के नाम पर हैं?",
+        "options": [
+            "6",
+            "10",
+            "25",
+            "114"
+        ],
+        "options_hi": [
+            "6",
+            "10",
+            "25",
+            "114"
+        ],
+        "answer": "6",
+        "answer_hi": "6"
+    },
+    {
+        "question": "What is the reward for an accepted (Mabrur) Hajj?",
+        "question_hi": "एक स्वीकृत (मब्रूर) हज का इनाम क्या है?",
+        "options": [
+            "Paradise (Jannah)",
+            "Wealth",
+            "Long life",
+            "Health"
+        ],
+        "options_hi": [
+            "जन्नत (स्वर्ग)",
+            "दौलत",
+            "लंबी उम्र",
+            "स्वास्थ्य"
+        ],
+        "answer": "Paradise (Jannah)",
+        "answer_hi": "जन्नत (स्वर्ग)"
+    },
+    {
+        "question": "Which companion was nicknamed 'Ameen-ul-Ummah'?",
+        "question_hi": "किस सहाबी को 'अमीन-उल-उम्मत' (उम्मत का विश्वसनीय) कहा जाता था?",
+        "options": [
+            "Abu Ubaidah ibn al-Jarrah (RA)",
+            "Abu Bakr (RA)",
+            "Umar (RA)",
+            "Ali (RA)"
+        ],
+        "options_hi": [
+            "अबू उबैदा इब्न अल-जार्राह (RA)",
+            "अबू बक्र (RA)",
+            "उमर (RA)",
+            "अली (RA)"
+        ],
+        "answer": "Abu Ubaidah ibn al-Jarrah (RA)",
+        "answer_hi": "अबू उबैदा इब्न अल-जार्राह (RA)"
+    },
+    {
+        "question": "Which Prophet was known for his extreme patience through illness?",
+        "question_hi": "कौन से पैगंबर बीमारी के दौरान अपने अत्यधिक धैर्य के लिए जाने जाते थे?",
+        "options": [
+            "Prophet Ayub (AS)",
+            "Prophet Yusuf (AS)",
+            "Prophet Musa (AS)",
+            "Prophet Isa (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर अय्यूब (AS)",
+            "पैगंबर यूसुफ (AS)",
+            "पैगंबर मूसा (AS)",
+            "पैगंबर ईसा (AS)"
+        ],
+        "answer": "Prophet Ayub (AS)",
+        "answer_hi": "पैगंबर अय्यूब (AS)"
+    },
+    {
+        "question": "How many times is the name 'Muhammad' mentioned in the Quran?",
+        "question_hi": "कुरान में 'मुहम्मद' नाम कितनी बार आया है?",
+        "options": [
+            "4 times",
+            "1 time",
+            "10 times",
+            "25 times"
+        ],
+        "options_hi": [
+            "4 बार",
+            "1 बार",
+            "10 बार",
+            "25 बार"
+        ],
+        "answer": "4 times",
+        "answer_hi": "4 बार"
+    },
+    {
+        "question": "What is the name of the sacred gate of the Kaaba?",
+        "question_hi": "काबा के पवित्र द्वार का नाम क्या है?",
+        "options": [
+            "Bab-at-Tawbah",
+            "Bab as-Salam",
+            "Bab al-Fath",
+            "Bab ar-Rayyan"
+        ],
+        "options_hi": [
+            "बाब-अत-तौबा",
+            "बाब अस-सलाम",
+            "बाब अल-फतह",
+            "बाब अर-रय्यान"
+        ],
+        "answer": "Bab as-Salam",
+        "answer_hi": "बाब अस-सलाम"
+    },
+    {
+        "question": "What is the total number of Sajdahs in the Holy Quran?",
+        "question_hi": "पवित्र कुरान में कुल कितने सजदे हैं?",
+        "options": [
+            "14",
+            "12",
+            "15",
+            "10"
+        ],
+        "options_hi": [
+            "14",
+            "12",
+            "15",
+            "10"
+        ],
+        "answer": "14",
+        "answer_hi": "14"
+    },
+    {
+        "question": "Who was the companion that suggested digging a trench at the Battle of Khandaq?",
+        "question_hi": "खंदक की लड़ाई में खाई खोदने का सुझाव किस सहाबी ने दिया था?",
+        "options": [
+            "Salman al-Farsi (RA)",
+            "Abu Bakr",
+            "Umar",
+            "Ali"
+        ],
+        "options_hi": [
+            "सलमान अल-फारसी (RA)",
+            "अबू बक्र",
+            "उमर",
+            "अली"
+        ],
+        "answer": "Salman al-Farsi (RA)",
+        "answer_hi": "सलमान अल-फारसी (RA)"
+    },
+    {
+        "question": "What were the names of the two sons of Prophet Adam (AS) mentioned in Islamic tradition?",
+        "question_hi": "इस्लामी परंपरा में वर्णित पैगंबर आदम (AS) के दो पुत्रों के नाम क्या थे?",
+        "options": [
+            "Habil and Qabil",
+            "Hassan and Hussain",
+            "Ismail and Ishaq",
+            "Zaid and Usama"
+        ],
+        "options_hi": [
+            "हाबिल और क़ाबिल",
+            "हसन और हुसैन",
+            "इस्माइल और इसहाक",
+            "ज़ैद और उसामा"
+        ],
+        "answer": "Habil and Qabil",
+        "answer_hi": "हाबिल और क़ाबिल"
+    },
+    {
+        "question": "What was the name of the son of Prophet Nuh (AS) who refused to board the Ark and drowned?",
+        "question_hi": "पैगंबर नूह (AS) के उस पुत्र का नाम क्या था जिसने कश्ती में बैठने से इनकार कर दिया और डूब गया?",
+        "options": [
+            "Kan'an",
+            "Benjamin",
+            "Yahuda",
+            "Ham"
+        ],
+        "options_hi": [
+            "कनान (Kan'an)",
+            "बिनयामीन",
+            "यहूदा",
+            "हाम"
+        ],
+        "answer": "Kan'an",
+        "answer_hi": "कनान (Kan'an)"
+    },
+    {
+        "question": "What is the name of the ancient city where Prophet Ibrahim (AS) was born?",
+        "question_hi": "उस प्राचीन शहर का नाम क्या है जहाँ पैगंबर इब्राहिम (AS) का जन्म हुआ था?",
+        "options": [
+            "Ur / Babylon",
+            "Sodom",
+            "Madyan",
+            "Mecca"
+        ],
+        "options_hi": [
+            "उर / बेबीलोन",
+            "सदोम",
+            "मदयन",
+            "मक्का"
+        ],
+        "answer": "Ur / Babylon",
+        "answer_hi": "उर / बेबीलोन"
+    },
+    {
+        "question": "Who was the wife of Prophet Ibrahim (AS) and the mother of Prophet Ishaq (AS)?",
+        "question_hi": "पैगंबर इब्राहिम (AS) की पत्नी और पैगंबर इसहाक (AS) की माता कौन थीं?",
+        "options": [
+            "Sarah (AS)",
+            "Hajar (AS)",
+            "Asiya",
+            "Zulaikha"
+        ],
+        "options_hi": [
+            "सारा (AS)",
+            "हाजरा (AS)",
+            "आसिया",
+            "ज़ुलैखा"
+        ],
+        "answer": "Sarah (AS)",
+        "answer_hi": "सारा (AS)"
+    },
+    {
+        "question": "In the story of Prophet Yusuf (AS), what was the name of the minister's wife who tested him?",
+        "question_hi": "पैगंबर यूसुफ (AS) की कहानी में, उस मंत्री की पत्नी का नाम क्या था जिसने उनकी परीक्षा ली थी?",
+        "options": [
+            "Zulaikha",
+            "Asiya",
+            "Sarah",
+            "Bilqis"
+        ],
+        "options_hi": [
+            "ज़ुलैखा",
+            "आसिया",
+            "सारा",
+            "बिल्किस"
+        ],
+        "answer": "Zulaikha",
+        "answer_hi": "ज़ुलैखा"
+    },
+    {
+        "question": "How many stars did Prophet Yusuf (AS) see in his dream bowing down to him?",
+        "question_hi": "पैगंबर यूसुफ (AS) ने अपने सपने में कितने तारों को अपने आगे झुकते हुए देखा था?",
+        "options": [
+            "7 stars",
+            "11 stars",
+            "12 stars",
+            "40 stars"
+        ],
+        "options_hi": [
+            "7 तारे",
+            "11 तारे",
+            "12 तारे",
+            "40 तारे"
+        ],
+        "answer": "11 stars",
+        "answer_hi": "11 तारे"
+    },
+    {
+        "question": "Who was the mysterious wise man that Prophet Musa (AS) met at the junction of the two seas?",
+        "question_hi": "पैगंबर मूसा (AS) ने दो समुद्रों के संगम पर किस रहस्यमय बुद्धिमान व्यक्ति से मुलाकात की थी?",
+        "options": [
+            "Al-Khidr (AS)",
+            "Prophet Harun (AS)",
+            "Prophet Yusha",
+            "Prophet Idris"
+        ],
+        "options_hi": [
+            "अल-खिज्र (AS)",
+            "पैगंबर हारून (AS)",
+            "पैगंबर योशा",
+            "पैगंबर इदरीस"
+        ],
+        "answer": "Al-Khidr (AS)",
+        "answer_hi": "अल-खिज्र (AS)"
+    },
+    {
+        "question": "What are the disciples of Prophet Isa (AS) called in the Quran?",
+        "question_hi": "कुरान में पैगंबर ईसा (AS) के शिष्यों को क्या कहा गया है?",
+        "options": [
+            "Hawariyun",
+            "Sahaba",
+            "Ansar",
+            "Muhajirun"
+        ],
+        "options_hi": [
+            "हवारियुन (Hawariyun)",
+            "सहाबा",
+            "अंसार",
+            "मुहाजिरून"
+        ],
+        "answer": "Hawariyun",
+        "answer_hi": "हवारियुन (Hawariyun)"
+    },
+    {
+        "question": "Which Prophet was given the miracle of a table spread with food descending from heaven?",
+        "question_hi": "किस पैगंबर को आसमान से उतरते हुए भोजन से सजे दस्तरखान (Table Spread) का चमत्कार दिया गया था?",
+        "options": [
+            "Prophet Isa (AS)",
+            "Prophet Musa (AS)",
+            "Prophet Ibrahim (AS)",
+            "Prophet Yusuf (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर ईसा (AS)",
+            "पैगंबर मूसा (AS)",
+            "पैगंबर इब्राहिम (AS)",
+            "पैगंबर यूसुफ (AS)"
+        ],
+        "answer": "Prophet Isa (AS)",
+        "answer_hi": "पैगंबर ईसा (AS)"
+    },
+    {
+        "question": "What was the name of the husband of the Prophet's daughter Zainab (RA)?",
+        "question_hi": "पैगंबर की बेटी ज़ैनब (RA) के पति का नाम क्या था?",
+        "options": [
+            "Abu al-Aas ibn al-Rabi'",
+            "Uthman ibn Affan",
+            "Ali ibn Abi Talib",
+            "Zaid bin Harithah"
+        ],
+        "options_hi": [
+            "अबू अल-आस इब्न अल-रबी",
+            "उस्मान इब्न अफ्फान",
+            "अली इब्न अबी तालिब",
+            "ज़ैद इब्न हारिसा"
+        ],
+        "answer": "Abu al-Aas ibn al-Rabi'",
+        "answer_hi": "अबू अल-आस इब्न अल-रबी"
+    },
+    {
+        "question": "How many idols were found inside the Kaaba during the Conquest of Mecca?",
+        "question_hi": "मक्का की विजय के दौरान काबा के अंदर कितनी मूर्तियां पाई गई थीं?",
+        "options": [
+            "100",
+            "313",
+            "360",
+            "1000"
+        ],
+        "options_hi": [
+            "100",
+            "313",
+            "360",
+            "1000"
+        ],
+        "answer": "360",
+        "answer_hi": "360"
+    },
+    {
+        "question": "Which companion bought the well of 'Rumah' and donated it to the Muslims in Medina?",
+        "question_hi": "किस सहाबी ने 'रूमा' (Rumah) का कुआँ खरीदा और उसे मदीना के मुसलमानों के लिए दान कर दिया था?",
+        "options": [
+            "Abu Bakr (RA)",
+            "Umar (RA)",
+            "Uthman ibn Affan (RA)",
+            "Ali (RA)"
+        ],
+        "options_hi": [
+            "अबू बक्र (RA)",
+            "उमर (RA)",
+            "उस्मान इब्न अफ्फान (RA)",
+            "अली (RA)"
+        ],
+        "answer": "Uthman ibn Affan (RA)",
+        "answer_hi": "उस्मान इब्न अफ्फान (RA)"
+    },
+    {
+        "question": "What was the name of one of the Prophet's (PBUH) famous swords?",
+        "question_hi": "पैगंबर (PBUH) की प्रसिद्ध तलवारों में से एक का नाम क्या था?",
+        "options": [
+            "Al-Adhab",
+            "Zulfiqar",
+            "Al-Battar",
+            "Both A and B"
+        ],
+        "options_hi": [
+            "अल-अज़ब",
+            "ज़ुल्फिकार",
+            "अल-बत्तार",
+            "A और B दोनों"
+        ],
+        "answer": "Both A and B",
+        "answer_hi": "A और B दोनों"
+    },
+    {
+        "question": "Which year of the Hijri calendar is known as the 'Year of Embassies' (Sanah al-Wufud)?",
+        "question_hi": "हिजरी कैलेंडर के किस वर्ष को 'दूतों का वर्ष' (Sanah al-Wufud) कहा जाता है?",
+        "options": [
+            "8 AH",
+            "9 AH",
+            "10 AH",
+            "11 AH"
+        ],
+        "options_hi": [
+            "8 हिजरी",
+            "9 हिजरी",
+            "10 हिजरी",
+            "11 हिजरी"
+        ],
+        "answer": "9 AH",
+        "answer_hi": "9 हिजरी"
+    },
+    {
+        "question": "What was the name of the social justice agreement the Prophet (PBUH) joined as a young man?",
+        "question_hi": "पैगंबर (PBUH) ने अपनी युवावस्था में जिस सामाजिक न्याय समझौते में भाग लिया था, उसका नाम क्या था?",
+        "options": [
+            "Hilf al-Fudul",
+            "Mithaq-e-Madina",
+            "Treaty of Hudaybiyyah",
+            "Pledge of Aqabah"
+        ],
+        "options_hi": [
+            "हिलफ़ अल-फ़ुज़ूल",
+            "मीसाक़-ए-मदीना",
+            "हुदैबिया की संधि",
+            "अक़बा का वचन"
+        ],
+        "answer": "Hilf al-Fudul",
+        "answer_hi": "हिलफ़ अल-फ़ुज़ूल"
+    },
+    {
+        "question": "How many years did the Prophet (PBUH) spend preaching in Mecca?",
+        "question_hi": "पैगंबर (PBUH) ने मक्का में कितने वर्षों तक इस्लाम का प्रचार किया था?",
+        "options": [
+            "10 years",
+            "13 years",
+            "23 years",
+            "40 years"
+        ],
+        "options_hi": [
+            "10 साल",
+            "13 साल",
+            "23 साल",
+            "40 साल"
+        ],
+        "answer": "13 years",
+        "answer_hi": "13 साल"
+    },
+    {
+        "question": "How many years did the Prophet (PBUH) spend preaching in Medina?",
+        "question_hi": "पैगंबर (PBUH) ने मदीना में कितने वर्षों तक प्रचार किया था?",
+        "options": [
+            "5 years",
+            "10 years",
+            "13 years",
+            "23 years"
+        ],
+        "options_hi": [
+            "5 साल",
+            "10 साल",
+            "13 साल",
+            "23 साल"
+        ],
+        "answer": "10 years",
+        "answer_hi": "10 साल"
+    },
+    {
+        "question": "For how many years was Prophet Ayub (AS) tested with severe illness according to tradition?",
+        "question_hi": "परंपरा के अनुसार पैगंबर अय्यूब (AS) की परीक्षा कितने वर्षों तक गंभीर बीमारी के साथ ली गई थी?",
+        "options": [
+            "7 years",
+            "10 years",
+            "18 years",
+            "40 years"
+        ],
+        "options_hi": [
+            "7 साल",
+            "10 साल",
+            "18 साल",
+            "40 साल"
+        ],
+        "answer": "18 years",
+        "answer_hi": "18 साल"
+    },
+    {
+        "question": "What was the name of the gourd plant that grew to provide shade for Prophet Yunus (AS)?",
+        "question_hi": "उस बेल/पौधे (Gourd plant) का नाम क्या था जो पैगंबर यूनुस (AS) को छाया देने के लिए उगा था?",
+        "options": [
+            "Yaqtin",
+            "Olive",
+            "Fig",
+            "Date"
+        ],
+        "options_hi": [
+            "यक़तीन (Yaqtin)",
+            "ज़ैतून",
+            "अंजीर",
+            "खजूर"
+        ],
+        "answer": "Yaqtin",
+        "answer_hi": "यक़तीन (Yaqtin)"
+    },
+    {
+        "question": "How many Muslims fought in the Battle of Badr?",
+        "question_hi": "बद्र की लड़ाई में कितने मुसलमानों ने भाग लिया था?",
+        "options": [
+            "313",
+            "700",
+            "1000",
+            "10,000"
+        ],
+        "options_hi": [
+            "313",
+            "700",
+            "1000",
+            "10,000"
+        ],
+        "answer": "313",
+        "answer_hi": "313"
+    },
+    {
+        "question": "How many pagans of Mecca fought in the Battle of Badr?",
+        "question_hi": "बद्र की लड़ाई में मक्का के कितने मुशरिकों ने युद्ध लड़ा था?",
+        "options": [
+            "500",
+            "1000",
+            "3000",
+            "5000"
+        ],
+        "options_hi": [
+            "500",
+            "1000",
+            "3000",
+            "5000"
+        ],
+        "answer": "1000",
+        "answer_hi": "1000"
+    },
+    {
+        "question": "How many Muslims were martyred in the Battle of Uhud?",
+        "question_hi": "उहुद की लड़ाई में कितने मुसलमान शहीद हुए थे?",
+        "options": [
+            "14",
+            "40",
+            "70",
+            "313"
+        ],
+        "options_hi": [
+            "14",
+            "40",
+            "70",
+            "313"
+        ],
+        "answer": "70",
+        "answer_hi": "70"
+    },
+    {
+        "question": "What is the name of the hill where the archers were stationed during the Battle of Uhud?",
+        "question_hi": "उहुद की लड़ाई के दौरान तीरंदाजों को किस पहाड़ी पर तैनात किया गया था?",
+        "options": [
+            "Jabal al-Rumat",
+            "Mount Safa",
+            "Mount Marwa",
+            "Jabal al-Nour"
+        ],
+        "options_hi": [
+            "जबल अल-रुमात",
+            "सफा पहाड़",
+            "मरवा पहाड़",
+            "जबल अल-नूर"
+        ],
+        "answer": "Jabal al-Rumat",
+        "answer_hi": "जबल अल-रुमात"
+    },
+    {
+        "question": "How many obligatory (Fard) Rakat are there in the Fajr prayer?",
+        "question_hi": "फज्र की नमाज में कुल कितनी फर्ज रकअत होती हैं?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "1"
+        ],
+        "options_hi": [
+            "2",
+            "3",
+            "4",
+            "1"
+        ],
+        "answer": "2",
+        "answer_hi": "2"
+    },
+    {
+        "question": "How many obligatory (Fard) Rakat are there in the Maghrib prayer?",
+        "question_hi": "मगरिब की नमाज में कुल कितनी फर्ज रकअत होती हैं?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "options_hi": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "answer": "3",
+        "answer_hi": "3"
+    },
+    {
+        "question": "How many obligatory (Fard) Rakat are there in the Zuhr prayer?",
+        "question_hi": "ज़ुहर की नमाज में कुल कितनी फर्ज रकअत होती हैं?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "8"
+        ],
+        "options_hi": [
+            "2",
+            "3",
+            "4",
+            "8"
+        ],
+        "answer": "4",
+        "answer_hi": "4"
+    },
+    {
+        "question": "How many mandatory (Fard) acts are there in Wudu?",
+        "question_hi": "वज़ू (Wudu) में कुल कितने फर्ज (अनिवार्य) काम हैं?",
+        "options": [
+            "4",
+            "6",
+            "10",
+            "13"
+        ],
+        "options_hi": [
+            "4",
+            "6",
+            "10",
+            "13"
+        ],
+        "answer": "4",
+        "answer_hi": "4"
+    },
+    {
+        "question": "What is the term for wiping over leather socks instead of washing the feet in Wudu?",
+        "question_hi": "वज़ू में पैर धोने के बजाय चमड़े के मोजों पर हाथ फेरने को क्या कहा जाता है?",
+        "options": [
+            "Masah",
+            "Ghusl",
+            "Tayammum",
+            "Istinja"
+        ],
+        "options_hi": [
+            "मसह (Masah)",
+            "गुस्ल",
+            "तयम्मुम",
+            "इस्तिन्जा"
+        ],
+        "answer": "Masah",
+        "answer_hi": "मसह (Masah)"
+    },
+    {
+        "question": "What is the term for dry ablution using clean earth or sand?",
+        "question_hi": "साफ मिट्टी या रेत का उपयोग करके किए जाने वाले सूखे वज़ू को क्या कहते हैं?",
+        "options": [
+            "Tayammum",
+            "Masah",
+            "Salah",
+            "Wudu"
+        ],
+        "options_hi": [
+            "तयम्मुम (Tayammum)",
+            "मसह",
+            "सलाह",
+            "वज़ू"
+        ],
+        "answer": "Tayammum",
+        "answer_hi": "तयम्मुम (Tayammum)"
+    },
+    {
+        "question": "Which fruit is mentioned in the Quran as one of the blessings of Paradise?",
+        "question_hi": "कुरान में किस फल का उल्लेख जन्नत की नेमतों के रूप में किया गया है?",
+        "options": [
+            "Date",
+            "Pomegranate",
+            "Fig",
+            "All of the above"
+        ],
+        "options_hi": [
+            "खजूर",
+            "अनार",
+            "अंजीर",
+            "उपरोक्त सभी"
+        ],
+        "answer": "All of the above",
+        "answer_hi": "उपरोक्त सभी"
+    },
+    {
+        "question": "What was the Prophet's (PBUH) favorite color according to many traditions?",
+        "question_hi": "कई परंपराओं के अनुसार पैगंबर (PBUH) का पसंदीदा रंग कौन सा था?",
+        "options": [
+            "Green",
+            "White",
+            "Black",
+            "Blue"
+        ],
+        "options_hi": [
+            "हरा",
+            "सफेद",
+            "काला",
+            "नीला"
+        ],
+        "answer": "Green",
+        "answer_hi": "हरा"
+    },
+    {
+        "question": "How many companions participated in the first pledge of Aqabah?",
+        "question_hi": "अक़बा के पहले वचन (Pledge of Aqabah) में कितने सहाबी शामिल थे?",
+        "options": [
+            "12",
+            "70",
+            "75",
+            "313"
+        ],
+        "options_hi": [
+            "12",
+            "70",
+            "75",
+            "313"
+        ],
+        "answer": "12",
+        "answer_hi": "12"
+    },
+    {
+        "question": "How many people participated in the second pledge of Aqabah?",
+        "question_hi": "अक़बा के दूसरे वचन (Second Pledge of Aqabah) में कितने लोग शामिल थे?",
+        "options": [
+            "12",
+            "40",
+            "75",
+            "100"
+        ],
+        "options_hi": [
+            "12",
+            "40",
+            "75",
+            "100"
+        ],
+        "answer": "75",
+        "answer_hi": "75"
+    },
+    {
+        "question": "What is the term for shortening the prayers during travel?",
+        "question_hi": "यात्रा के दौरान नमाज को छोटा (कम) करने की क्रिया को क्या कहते हैं?",
+        "options": [
+            "Qasr",
+            "Jamu'",
+            "Sunnah",
+            "Nafil"
+        ],
+        "options_hi": [
+            "क़स्र (Qasr)",
+            "जमअ",
+            "सुन्नत",
+            "नफिल"
+        ],
+        "answer": "Qasr",
+        "answer_hi": "क़स्र (Qasr)"
+    },
+    {
+        "question": "What is the special charity given at the end of Ramadan before Eid prayer called?",
+        "question_hi": "रमजान के अंत में और ईद की नमाज से पहले दिए जाने वाले विशेष दान को क्या कहते हैं?",
+        "options": [
+            "Sadaqah al-Fitr",
+            "Zakat al-Maal",
+            "Jizyah",
+            "Ushr"
+        ],
+        "options_hi": [
+            "सदका-ए-फितर",
+            "ज़कात अल-माल",
+            "जज़िया",
+            "उश्र"
+        ],
+        "answer": "Sadaqah al-Fitr",
+        "answer_hi": "सदका-ए-फितर"
+    },
+    {
+        "question": "What is the term for the one lunar year requirement for Zakat to become obligatory?",
+        "question_hi": "ज़कात अनिवार्य होने के लिए एक चंद्र वर्ष की शर्त को क्या कहा जाता है?",
+        "options": [
+            "Hawl",
+            "Nisab",
+            "Ushr",
+            "Kharaj"
+        ],
+        "options_hi": [
+            "हौल (Hawl)",
+            "नसाब",
+            "उश्र",
+            "खराज"
+        ],
+        "answer": "Hawl",
+        "answer_hi": "हौल (Hawl)"
+    },
+    {
+        "question": "What is the primary ritual of Hajj performed on the 9th of Dhu al-Hijjah?",
+        "question_hi": "हज का मुख्य अनुष्ठान जो 9 ज़ुल-हिज्जा को किया जाता है, क्या है?",
+        "options": [
+            "Standing at Arafat (Wuquf)",
+            "Tawaf",
+            "Sa'i",
+            "Rami"
+        ],
+        "options_hi": [
+            "अराफ़ात में ठहरना (वक़ूफ़)",
+            "तवाफ",
+            "सई",
+            "रमी"
+        ],
+        "answer": "Standing at Arafat (Wuquf)",
+        "answer_hi": "अराफ़ात में ठहरना (वक़ूफ़)"
+    },
+    {
+        "question": "What is the name of the place where pilgrims stone the pillars (Jamarat)?",
+        "question_hi": "उस स्थान का नाम क्या है जहाँ तीर्थयात्री शैतान के स्तंभों (जमारत) को पत्थर मारते हैं?",
+        "options": [
+            "Mina",
+            "Arafat",
+            "Muzdalifah",
+            "Safa"
+        ],
+        "options_hi": [
+            "मीना",
+            "अराफ़ात",
+            "मुज़दलिफ़ा",
+            "सफ़ा"
+        ],
+        "answer": "Mina",
+        "answer_hi": "मीना"
+    },
+    {
+        "question": "What is the walking seven times between Safa and Marwa called?",
+        "question_hi": "सफा और मरवा के बीच सात बार चलने की क्रिया को क्या कहते हैं?",
+        "options": [
+            "Sa'i",
+            "Tawaf",
+            "Rami",
+            "Ihram"
+        ],
+        "options_hi": [
+            "सई (Sa'i)",
+            "तवाफ",
+            "रमी",
+            "इहराम"
+        ],
+        "answer": "Sa'i",
+        "answer_hi": "सई (Sa'i)"
+    },
+    {
+        "question": "What is the name of the area where pilgrims walk between Safa and Marwa?",
+        "question_hi": "सफा और मरवा के बीच जिस क्षेत्र में तीर्थयात्री चलते हैं, उसे क्या कहते हैं?",
+        "options": [
+            "Masa'a",
+            "Multazam",
+            "Mina",
+            "Muzdalifah"
+        ],
+        "options_hi": [
+            "मस'आ (Masa'a)",
+            "मुल्तज़म",
+            "मीना",
+            "मुज़दलिफ़ा"
+        ],
+        "answer": "Masa'a",
+        "answer_hi": "मस'आ (Masa'a)"
+    },
+    {
+        "question": "What is the station of Prophet Ibrahim (AS) near the Kaaba called?",
+        "question_hi": "काबा के पास स्थित पैगंबर इब्राहिम (AS) के खड़े होने के स्थान को क्या कहते हैं?",
+        "options": [
+            "Maqam Ibrahim",
+            "Hajar al-Aswad",
+            "Mizab al-Rahma",
+            "Hateem"
+        ],
+        "options_hi": [
+            "मकाम इब्राहिम",
+            "हजर अल-अस्वद",
+            "मीज़ाब अल-रहिमा",
+            "हतीम"
+        ],
+        "answer": "Maqam Ibrahim",
+        "answer_hi": "मकाम इब्राहिम"
+    },
+    {
+        "question": "How many levels are there in Jannah (Paradise) according to Hadith?",
+        "question_hi": "हदीस के अनुसार जन्नत (स्वर्ग) में कितने स्तर (दर्जे) हैं?",
+        "options": [
+            "7",
+            "100",
+            "70",
+            "50"
+        ],
+        "options_hi": [
+            "7",
+            "100",
+            "70",
+            "50"
+        ],
+        "answer": "100",
+        "answer_hi": "100"
+    },
+    {
+        "question": "What is the name of the tree in Hell (Jahannam) mentioned in the Quran?",
+        "question_hi": "कुरान में वर्णित जहन्नुम (नरक) के पेड़ का नाम क्या है?",
+        "options": [
+            "Zaqqum",
+            "Tuba",
+            "Sidra",
+            "Olive"
+        ],
+        "options_hi": [
+            "ज़क्कूम (Zaqqum)",
+            "तूबा",
+            "सिदरा",
+            "ज़ैतून"
+        ],
+        "answer": "Zaqqum",
+        "answer_hi": "ज़क्कूम (Zaqqum)"
+    },
+    {
+        "question": "Who was the father of Prophet Yahya (AS)?",
+        "question_hi": "पैगंबर याह्या (AS) के पिता कौन थे?",
+        "options": [
+            "Prophet Zakariya (AS)",
+            "Prophet Musa (AS)",
+            "Prophet Isa (AS)",
+            "Prophet Ibrahim (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर ज़कारिया (AS)",
+            "पैगंबर मूसा (AS)",
+            "पैगंबर ईसा (AS)",
+            "पैगंबर इब्राहिम (AS)"
+        ],
+        "answer": "Prophet Zakariya (AS)",
+        "answer_hi": "पैगंबर ज़कारिया (AS)"
+    },
+    {
+        "question": "What was the name of Prophet Maryam's (AS) father?",
+        "question_hi": "पैगंबर मरियम (AS) के पिता का नाम क्या था?",
+        "options": [
+            "Imran",
+            "Zakariya",
+            "Hanna",
+            "Yahya"
+        ],
+        "options_hi": [
+            "इमरान",
+            "ज़कारिया",
+            "हन्ना",
+            "याह्या"
+        ],
+        "answer": "Imran",
+        "answer_hi": "इमरान"
+    },
+    {
+        "question": "Which companion is the only one mentioned by name in the Quran?",
+        "question_hi": "कुरान में नाम से उल्लेखित एकमात्र सहाबी कौन हैं?",
+        "options": [
+            "Zaid bin Harithah (RA)",
+            "Abu Bakr (RA)",
+            "Umar (RA)",
+            "Ali (RA)"
+        ],
+        "options_hi": [
+            "ज़ैद इब्न हारिसा (RA)",
+            "अबू बक्र (RA)",
+            "उमर (RA)",
+            "अली (RA)"
+        ],
+        "answer": "Zaid bin Harithah (RA)",
+        "answer_hi": "ज़ैद इब्न हारिसा (RA)"
+    },
+    {
+        "question": "What are the scales used to weigh deeds on the Day of Judgment called?",
+        "question_hi": "कयामत के दिन कर्मों को तौलने के लिए इस्तेमाल किए जाने वाले तराजू को क्या कहते हैं?",
+        "options": [
+            "Mizan",
+            "Sirat",
+            "Sidra",
+            "Arafat"
+        ],
+        "options_hi": [
+            "मीज़ान (Mizan)",
+            "सिरात",
+            "सिदरा",
+            "अराफ़ात"
+        ],
+        "answer": "Mizan",
+        "answer_hi": "मीज़ान (Mizan)"
+    },
+    {
+        "question": "Which Prophet is mentioned in the Quran as 'the one with the fish' (Dhu-n-Nun)?",
+        "question_hi": "कुरान में किस पैगंबर को 'मछली वाला' (ज़ुन-नुन) कहा गया है?",
+        "options": [
+            "Prophet Yunus (AS)",
+            "Prophet Musa (AS)",
+            "Prophet Nuh (AS)",
+            "Prophet Yusuf (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर यूनुस (AS)",
+            "पैगंबर मूसा (AS)",
+            "पैगंबर नूह (AS)",
+            "पैगंबर यूसुफ (AS)"
+        ],
+        "answer": "Prophet Yunus (AS)",
+        "answer_hi": "पैगंबर यूनुस (AS)"
+    },
+    {
+        "question": "What was the name of the foster mother of Prophet Muhammad (PBUH) before Halima Sa'diyah?",
+        "question_hi": "हलीमा सादिया से पहले पैगंबर मुहम्मद (PBUH) की दूध पिलाने वाली माँ कौन थीं?",
+        "options": [
+            "Thuwaybah",
+            "Aminah",
+            "Barakah",
+            "Fatima"
+        ],
+        "options_hi": [
+            "सुवैबा (Thuwaybah)",
+            "आमिना",
+            "बरका",
+            "फातिमा"
+        ],
+        "answer": "Thuwaybah",
+        "answer_hi": "सुवैबा (Thuwaybah)"
+    },
+    {
+        "question": "What is the name of the valley where the sacrifice is performed during Hajj?",
+        "question_hi": "हज के दौरान उस घाटी का नाम क्या है जहाँ कुर्बानी दी जाती है?",
+        "options": [
+            "Mina",
+            "Arafat",
+            "Muzdalifah",
+            "Safa"
+        ],
+        "options_hi": [
+            "मीना",
+            "अराफ़ात",
+            "मुज़दलिफ़ा",
+            "सफ़ा"
+        ],
+        "answer": "Mina",
+        "answer_hi": "मीना"
+    },
+    {
+        "question": "Which companion was the leader of the archers in the Battle of Uhud?",
+        "question_hi": "उहुद की लड़ाई में तीरंदाजों के प्रमुख कौन से सहाबी थे?",
+        "options": [
+            "Abdullah bin Jubayr (RA)",
+            "Khalid bin Walid",
+            "Ali (RA)",
+            "Hamza (RA)"
+        ],
+        "options_hi": [
+            "अब्दुल्लाह इब्न जुबैर (RA)",
+            "खालिद बिन वालिद",
+            "अली (RA)",
+            "हामज़ा (RA)"
+        ],
+        "answer": "Abdullah bin Jubayr (RA)",
+        "answer_hi": "अब्दुल्लाह इब्न जुबैर (RA)"
+    },
+    {
+        "question": "What is the meaning of the word 'Barzakh' in Islamic theology?",
+        "question_hi": "इस्लामी धर्मशास्त्र में 'बरज़ख' (Barzakh) शब्द का क्या अर्थ है?",
+        "options": [
+            "Paradise",
+            "Barrier between this life and the next",
+            "Hell",
+            "The Grave"
+        ],
+        "options_hi": [
+            "जन्नत",
+            "इस जीवन और अगले जीवन के बीच का पर्दा / अंतराल",
+            "जहन्नुम",
+            "कब्र"
+        ],
+        "answer": "Barrier between this life and the next",
+        "answer_hi": "इस जीवन और अगले जीवन के बीच का पर्दा / अंतराल"
+    },
+    {
+        "question": "Which Prophet build the Al-Aqsa Mosque after the Kaaba was built?",
+        "question_hi": "काबा के निर्माण के बाद किस पैगंबर ने मस्जिद अल-अक्सा का निर्माण (पुनर्निर्माण) किया था?",
+        "options": [
+            "Prophet Adam (AS)",
+            "Prophet Ibrahim (AS)",
+            "Prophet Sulaiman (AS)",
+            "Prophet Musa (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर आदम (AS)",
+            "पैगंबर इब्राहिम (AS)",
+            "पैगंबर सुलेमान (AS)",
+            "पैगंबर मूसा (AS)"
+        ],
+        "answer": "Prophet Sulaiman (AS)",
+        "answer_hi": "पैगंबर सुलेमान (AS)"
+    },
+    {
+        "question": "Who was the companion nicknamed 'The Keeper of the Secret'?",
+        "question_hi": "किस सहाबी का उपनाम 'राज़दार' (Keeper of the Secret) था?",
+        "options": [
+            "Hudhayfah ibn al-Yaman (RA)",
+            "Abu Bakr (RA)",
+            "Umar (RA)",
+            "Ali (RA)"
+        ],
+        "options_hi": [
+            "हुदैफा इब्न अल-यमन (RA)",
+            "अबू बक्र (RA)",
+            "उमर (RA)",
+            "अली (RA)"
+        ],
+        "answer": "Hudhayfah ibn al-Yaman (RA)",
+        "answer_hi": "हुदैफा इब्न अल-यमन (RA)"
+    },
+    {
+        "question": "What is the name of the place where pilgrims collect pebbles for stoning?",
+        "question_hi": "तीर्थयात्री शैतान को मारने के लिए कंकड़ किस स्थान से इकट्ठे करते हैं?",
+        "options": [
+            "Muzdalifah",
+            "Arafat",
+            "Mina",
+            "Mecca"
+        ],
+        "options_hi": [
+            "मुज़दलिफ़ा",
+            "अराफ़ात",
+            "मीना",
+            "मक्का"
+        ],
+        "answer": "Muzdalifah",
+        "answer_hi": "मुज़दलिफ़ा"
+    },
+    {
+        "question": "What is the term for the shortening of prayers during a journey?",
+        "question_hi": "सफर के दौरान नमाज को कम करने (छोटा करने) की प्रक्रिया को क्या कहते हैं?",
+        "options": [
+            "Qasr",
+            "Jamu'",
+            "Sunnah",
+            "Nafil"
+        ],
+        "options_hi": [
+            "क़स्र (Qasr)",
+            "जमअ",
+            "सुन्नत",
+            "नफिल"
+        ],
+        "answer": "Qasr",
+        "answer_hi": "क़स्र (Qasr)"
+    },
+    {
+        "question": "Which Prophet was given the title 'Najiyullah' (One who was saved)?",
+        "question_hi": "'नजीउल्लाह' (बचाया हुआ) की उपाधि किस पैगंबर को दी गई थी?",
+        "options": [
+            "Prophet Musa (AS)",
+            "Prophet Nuh (AS)",
+            "Prophet Ibrahim (AS)",
+            "Prophet Yusuf (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर मूसा (AS)",
+            "पैगंबर नूह (AS)",
+            "पैगंबर इब्राहिम (AS)",
+            "पैगंबर यूसुफ (AS)"
+        ],
+        "answer": "Prophet Nuh (AS)",
+        "answer_hi": "पैगंबर नूह (AS)"
+    },
+    {
+        "question": "What is the name of the sacred gate of the Kaaba through which the Prophet entered Mecca?",
+        "question_hi": "काबा के उस पवित्र द्वार का नाम क्या है जिससे पैगंबर ने मक्का में प्रवेश किया था?",
+        "options": [
+            "Bab as-Salam",
+            "Bab-at-Tawbah",
+            "Bab al-Fath",
+            "Bab ar-Rayyan"
+        ],
+        "options_hi": [
+            "बाब अस-सलाम",
+            "बाब-अत-तौबा",
+            "बाब अल-फतह",
+            "बाब अर-रय्यान"
+        ],
+        "answer": "Bab as-Salam",
+        "answer_hi": "बाब अस-सलाम"
+    },
+    {
+        "question": "Which companion was known as 'Dhul-Shahadatayn' (His testimony equal to two)?",
+        "question_hi": "किस सहाबी को 'धुल-शहादतैन' (जिसकी गवाही दो के बराबर हो) कहा जाता था?",
+        "options": [
+            "Khuzaymah ibn Thabit (RA)",
+            "Abu Hurairah",
+            "Zaid bin Thabit",
+            "Ali (RA)"
+        ],
+        "options_hi": [
+            "खुज़ैमा इब्न साबित (RA)",
+            "अबू हुरैरा",
+            "ज़ैद इब्न साबित",
+            "अली (RA)"
+        ],
+        "answer": "Khuzaymah ibn Thabit (RA)",
+        "answer_hi": "खुज़ैमा इब्न साबित (RA)"
+    },
+    {
+        "question": "What is the meaning of the name of Surah 'Al-Anbiya'?",
+        "question_hi": "सूरह 'अल-अंबिया' के नाम का क्या अर्थ है?",
+        "options": [
+            "The Prophets",
+            "The People",
+            "The Stories",
+            "The Signs"
+        ],
+        "options_hi": [
+            "नबी / पैगंबर (The Prophets)",
+            "लोग",
+            "कहानियां",
+            "संकेत"
+        ],
+        "answer": "The Prophets",
+        "answer_hi": "नबी / पैगंबर (The Prophets)"
+    },
+    {
+        "question": "What is the name of the social justice agreement the Prophet (PBUH) joined as a young man?",
+        "question_hi": "पैगंबर (PBUH) ने अपनी युवावस्था में जिस सामाजिक न्याय समझौते में भाग लिया था, उसका नाम क्या था?",
+        "options": [
+            "Hilf al-Fudul",
+            "Mithaq-e-Madina",
+            "Pledge of Aqabah",
+            "Medina Agreement"
+        ],
+        "options_hi": [
+            "हिलफ़ अल-फ़ुज़ूल",
+            "मीसाक़-ए-मदीना",
+            "अक़बा का वचन",
+            "मदीना समझौता"
+        ],
+        "answer": "Hilf al-Fudul",
+        "answer_hi": "हिलफ़ अल-फ़ुज़ूल"
+    },
+    {
+        "question": "Which companion narate the footprints of the Prophet in Paradise during the Night Journey?",
+        "question_hi": "मिराज के दौरान पैगंबर ने जन्नत में किसके चलने की आहट सुनी थी?",
+        "options": [
+            "Bilal bin Rabah (RA)",
+            "Abu Bakr (RA)",
+            "Umar (RA)",
+            "Ali (RA)"
+        ],
+        "options_hi": [
+            "बिलाल इब्न रबाह (RA)",
+            "अबू बक्र (RA)",
+            "उमर (RA)",
+            "अली (RA)"
+        ],
+        "answer": "Bilal bin Rabah (RA)",
+        "answer_hi": "बिलाल इब्न रबाह (RA)"
+    },
+    {
+        "question": "What is the name of the sacred black stone located in the corner of the Kaaba?",
+        "question_hi": "काबा के कोने में स्थित पवित्र काले पत्थर का नाम क्या है?",
+        "options": [
+            "Hajar al-Aswad",
+            "Maqam Ibrahim",
+            "Multazam",
+            "Hateem"
+        ],
+        "options_hi": [
+            "हजर अल-अस्वद",
+            "मकाम इब्राहिम",
+            "मुल्तज़म",
+            "हतीम"
+        ],
+        "answer": "Hajar al-Aswad",
+        "answer_hi": "हजर अल-अस्वद"
+    },
+    {
+        "question": "Which Prophet was swallowed by a large whale and remained in its belly?",
+        "question_hi": "किस पैगंबर को एक विशाल मछली ने निगल लिया था?",
+        "options": [
+            "Prophet Yunus (AS)",
+            "Prophet Musa (AS)",
+            "Prophet Nuh (AS)",
+            "Prophet Yusuf (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर यूनुस (AS)",
+            "पैगंबर मूसा (AS)",
+            "पैगंबर नूह (AS)",
+            "पैगंबर यूसुफ (AS)"
+        ],
+        "answer": "Prophet Yunus (AS)",
+        "answer_hi": "पैगंबर यूनुस (AS)"
+    },
+    {
+        "question": "Who was the maternal grandfather of the Prophet Muhammad (PBUH)?",
+        "question_hi": "पैगंबर मुहम्मद (PBUH) के नाना (माता के पिता) कौन थे?",
+        "options": [
+            "Wahb ibn Abd Manaf",
+            "Abd Manaf",
+            "Hashim",
+            "Kilab"
+        ],
+        "options_hi": [
+            "वहब इब्न अब्द मनाफ",
+            "अब्द मनाफ",
+            "हाशिम",
+            "किलाब"
+        ],
+        "answer": "Wahb ibn Abd Manaf",
+        "answer_hi": "वहब इब्न अब्द मनाफ"
+    },
+    {
+        "question": "What is the name of the place between Safa and Marwa where pilgrims walk?",
+        "question_hi": "सफा और मरवा के बीच उस क्षेत्र का नाम क्या है जहाँ तीर्थयात्री चलते हैं?",
+        "options": [
+            "Masa'a",
+            "Multazam",
+            "Mina",
+            "Muzdalifah"
+        ],
+        "options_hi": [
+            "मस'आ (Masa'a)",
+            "मुल्तज़म",
+            "मीना",
+            "मुज़दलिफ़ा"
+        ],
+        "answer": "Masa'a",
+        "answer_hi": "मस'आ (Masa'a)"
+    },
+    {
+        "question": "Which Prophet had a miracle where a gourd plant grew to provide him shade?",
+        "question_hi": "किस पैगंबर के लिए कद्दू (Yaqtin) का पौधा छाया देने के लिए उगा था?",
+        "options": [
+            "Prophet Yunus (AS)",
+            "Prophet Musa (AS)",
+            "Prophet Ayub (AS)",
+            "Prophet Nuh (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर यूनुस (AS)",
+            "पैगंबर मूसा (AS)",
+            "पैगंबर अय्यूब (AS)",
+            "पैगंबर नूह (AS)"
+        ],
+        "answer": "Prophet Yunus (AS)",
+        "answer_hi": "पैगंबर यूनुस (AS)"
+    },
+    {
+        "question": "Which Sahabi was known as 'Ghusil al-Mala'ikah'?",
+        "question_hi": "किस सहाबी को 'गुसील अल-मलाइका' कहा जाता है?",
+        "options": [
+            "Hanzala ibn Abi Amir (RA)",
+            "Hamza (RA)",
+            "Mus'ab bin Umayr (RA)",
+            "Ali (RA)"
+        ],
+        "options_hi": [
+            "हनज़ला इब्न अबू आमिर (RA)",
+            "हामज़ा (RA)",
+            "मुसाब इब्न उमैर (RA)",
+            "अली (RA)"
+        ],
+        "answer": "Hanzala ibn Abi Amir (RA)",
+        "answer_hi": "हनज़ला इब्न अबू आमिर (RA)"
+    },
+    {
+        "question": "What is the meaning of the word 'Ayatul Dayn'?",
+        "question_hi": "'आयत अल-दैन' (Ayatul Dayn) का क्या अर्थ है?",
+        "options": [
+            "The Verse of Debt",
+            "The Verse of Light",
+            "The Verse of Victory",
+            "The Verse of Throne"
+        ],
+        "options_hi": [
+            "कर्ज़ की आयत",
+            "नूर की आयत",
+            "जीत की आयत",
+            "कुर्सी की आयत"
+        ],
+        "answer": "The Verse of Debt",
+        "answer_hi": "कर्ज़ की आयत"
+    },
+    {
+        "question": "Which Prophet was given the miracle of the sun staying still for him?",
+        "question_hi": "किस पैगंबर के लिए सूरज के ठहर जाने का चमत्कार हुआ था?",
+        "options": [
+            "Prophet Yusha bin Nun (AS)",
+            "Prophet Musa (AS)",
+            "Prophet Isa (AS)",
+            "Prophet Muhammad (PBUH)"
+        ],
+        "options_hi": [
+            "पैगंबर योशा बिन नून (AS)",
+            "पैगंबर मूसा (AS)",
+            "पैगंबर ईसा (AS)",
+            "पैगंबर मुहम्मद (PBUH)"
+        ],
+        "answer": "Prophet Yusha bin Nun (AS)",
+        "answer_hi": "पैगंबर योशा बिन नून (AS)"
+    },
+    {
+        "question": "Who was the companion known as 'The Beloved of the Prophet' (Hibbu Rasulillah)?",
+        "question_hi": "किस सहाबी को 'अल्लाह के रसूल का प्यारा' कहा जाता था?",
+        "options": [
+            "Usama bin Zaid (RA)",
+            "Abu Bakr (RA)",
+            "Ali (RA)",
+            "Zaid bin Harithah"
+        ],
+        "options_hi": [
+            "उसामा बिन ज़ैद (RA)",
+            "अबू बक्र (RA)",
+            "अली (RA)",
+            "ज़ैद इब्न हारिसा"
+        ],
+        "answer": "Usama bin Zaid (RA)",
+        "answer_hi": "उसामा बिन ज़ैद (RA)"
+    },
+    {
+        "question": "What is the name of the Fortress Ali (RA) conquered at Khaybar?",
+        "question_hi": "खैबर में अली (RA) द्वारा जीते गए किले का नाम क्या था?",
+        "options": [
+            "Al-Qamus",
+            "Na'im",
+            "Sa'b",
+            "Watih"
+        ],
+        "options_hi": [
+            "अल-क़ामूस",
+            "नईम",
+            "साब",
+            "वतीह"
+        ],
+        "answer": "Al-Qamus",
+        "answer_hi": "अल-क़ामूस"
+    },
+    {
+        "question": "Which companion was the first male child born to the Muhajirun in Medina?",
+        "question_hi": "हिजरत के बाद मदीना में मुहाजिरून के यहाँ पैदा होने वाला पहला बच्चा कौन था?",
+        "options": [
+            "Abdullah ibn al-Zubayr (RA)",
+            "Anas ibn Malik",
+            "Zaid bin Thabit",
+            "Umar (RA)"
+        ],
+        "options_hi": [
+            "अब्दुल्लाह इब्न अल-जुबैर (RA)",
+            "अनस इब्न मालिक",
+            "ज़ैद इब्न साबित",
+            "उमर (RA)"
+        ],
+        "answer": "Abdullah ibn al-Zubayr (RA)",
+        "answer_hi": "अब्दुल्लाह इब्न अल-जुबैर (RA)"
+    },
+    {
+        "question": "What is the meaning of the word 'Nisab' in Zakat?",
+        "question_hi": "ज़कात में 'नसाब' (Nisab) का क्या अर्थ है?",
+        "options": [
+            "Minimum threshold of wealth",
+            "Total wealth",
+            "Total charity",
+            "Tax rate"
+        ],
+        "options_hi": [
+            "धन की न्यूनतम सीमा",
+            "कुल संपत्ति",
+            "कुल दान",
+            "टैक्स की दर"
+        ],
+        "answer": "Minimum threshold of wealth",
+        "answer_hi": "धन की न्यूनतम सीमा"
+    },
+    {
+        "question": "Which Prophet lived in the belly of a fish/whale for 3 nights?",
+        "question_hi": "कौन से पैगंबर 3 रातों तक मछली के पेट में रहे थे?",
+        "options": [
+            "Prophet Yunus (AS)",
+            "Prophet Musa (AS)",
+            "Prophet Nuh (AS)",
+            "Prophet Yusuf (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर यूनुस (AS)",
+            "पैगंबर मूसा (AS)",
+            "पैगंबर नूह (AS)",
+            "पैगंबर यूसुफ (AS)"
+        ],
+        "answer": "Prophet Yunus (AS)",
+        "answer_hi": "पैगंबर यूनुस (AS)"
+    },
+    {
+        "question": "Who was the companion known as 'The Orator of the Prophet'?",
+        "question_hi": "'खतीब-उर-रसूल' के रूप में किस सहाबी को जाना जाता था?",
+        "options": [
+            "Thabit ibn Qays (RA)",
+            "Abu Bakr (RA)",
+            "Umar (RA)",
+            "Ali (RA)"
+        ],
+        "options_hi": [
+            "साबित इब्न क़ैस (RA)",
+            "अबू बक्र (RA)",
+            "उमर (RA)",
+            "अली (RA)"
+        ],
+        "answer": "Thabit ibn Qays (RA)",
+        "answer_hi": "साबित इब्न क़ैस (RA)"
+    },
+    {
+        "question": "Which Prophet survived the attempt to throw him into the fire by Namrud?",
+        "question_hi": "किस पैगंबर को नमरूद ने आग में फेंकने की कोशिश की थी?",
+        "options": [
+            "Prophet Ibrahim (AS)",
+            "Prophet Musa (AS)",
+            "Prophet Isa (AS)",
+            "Prophet Nuh (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर इब्राहिम (AS)",
+            "पैगंबर मूसा (AS)",
+            "पैगंबर ईसा (AS)",
+            "पैगंबर नूह (AS)"
+        ],
+        "answer": "Prophet Ibrahim (AS)",
+        "answer_hi": "पैगंबर इब्राहिम (AS)"
+    },
+    {
+        "question": "Who was the companion nicknamed 'Dhu al-Nura'?",
+        "question_hi": "किस सहाबी का उपनाम 'धुल-नूरा' था?",
+        "options": [
+            "Tufail ibn Amr ad-Dawsi (RA)",
+            "Abu Bakr (RA)",
+            "Uthman (RA)",
+            "Ali (RA)"
+        ],
+        "options_hi": [
+            "तुफैल इब्न अम्र अद-दौसी (RA)",
+            "अबू बक्र (RA)",
+            "उस्मान (RA)",
+            "अली (RA)"
+        ],
+        "answer": "Tufail ibn Amr ad-Dawsi (RA)",
+        "answer_hi": "तुफैल इब्न अम्र अद-दौसी (RA)"
+    },
+    {
+        "question": "Which Sahabi was known as 'The Scholar of the Ummah'?",
+        "question_hi": "किस सहाबी को 'उम्मत का विद्वान' (Al-Habr) कहा जाता है?",
+        "options": [
+            "Abdullah ibn Abbas (RA)",
+            "Abu Hurairah (RA)",
+            "Anas ibn Malik",
+            "Zaid bin Thabit"
+        ],
+        "options_hi": [
+            "अब्दुल्लाह इब्न अब्बास (RA)",
+            "अबू हुरैरा (RA)",
+            "अनस इब्न मालिक",
+            "ज़ैद इब्न साबित"
+        ],
+        "answer": "Abdullah ibn Abbas (RA)",
+        "answer_hi": "अब्दुल्लाह इब्न अब्बास (RA)"
+    },
+    {
+        "question": "Which Prophet is known as 'Dhu-l-Kifl' in the Holy Quran?",
+        "question_hi": "पवित्र कुरान में किस पैगंबर को 'ज़ुल-किफ़्ल' (Dhu-l-Kifl) के नाम से पुकारा गया है?",
+        "options": [
+            "Prophet Idris (AS)",
+            "Prophet Ilyas (AS)",
+            "Prophet Al-Yasa (AS)",
+            "Prophet Bishr (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर इदरीस (AS)",
+            "पैगंबर इल्यास (AS)",
+            "पैगंबर अल-यसा (AS)",
+            "पैगंबर बिश्र (AS)"
+        ],
+        "answer": "Prophet Bishr (AS)",
+        "answer_hi": "पैगंबर बिश्र (AS)"
+    },
+    {
+        "question": "What was the name of the Prophet's (PBUH) messenger sent to the Governor of Egypt?",
+        "question_hi": "मिस्र के गवर्नर (मुकावकिस) के पास भेजे गए पैगंबर (PBUH) के दूत का नाम क्या था?",
+        "options": [
+            "Hatib ibn Abi Balta'ah (RA)",
+            "Dihyah al-Kalbi",
+            "Amr ibn al-Aas",
+            "Zaid bin Harithah"
+        ],
+        "options_hi": [
+            "हातिब इब्न अबी बाल्ताह (RA)",
+            "दिह्या अल-कल्बी",
+            "अम्र इब्न अल-आस",
+            "ज़ैद इब्न हारिसा"
+        ],
+        "answer": "Hatib ibn Abi Balta'ah (RA)",
+        "answer_hi": "हातिब इब्न अबी बाल्ताह (RA)"
+    },
+    {
+        "question": "Which Sahabi was known as the 'Sword of Allah' (Saifullah)?",
+        "question_hi": "किस सहाबी को 'अल्लाह की तलवार' (सैफुल्लाह) की उपाधि दी गई थी?",
+        "options": [
+            "Ali ibn Abi Talib (RA)",
+            "Khalid bin Walid (RA)",
+            "Hamza ibn Abdul Muttalib (RA)",
+            "Sa'd ibn Abi Waqqas (RA)"
+        ],
+        "options_hi": [
+            "अली इब्न अबी तालिब (RA)",
+            "खालिद बिन वालिद (RA)",
+            "हामज़ा इब्न अब्दुल मुत्तलिब (RA)",
+            "साद इब्न अबी वक़्क़ास (RA)"
+        ],
+        "answer": "Khalid bin Walid (RA)",
+        "answer_hi": "खालिद बिन वालिद (RA)"
+    },
+    {
+        "question": "Which Prophet was given the miracle of understanding the 'Logic of Birds' (Mantiq al-Tayr)?",
+        "question_hi": "पक्षियों की बोली (मंतिक़ अल-तैर) समझने का चमत्कार किस पैगंबर को दिया गया था?",
+        "options": [
+            "Prophet Dawud (AS)",
+            "Prophet Sulaiman (AS)",
+            "Prophet Musa (AS)",
+            "Prophet Isa (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर दावूद (AS)",
+            "पैगंबर सुलेमान (AS)",
+            "पैगंबर मूसा (AS)",
+            "पैगंबर ईसा (AS)"
+        ],
+        "answer": "Prophet Sulaiman (AS)",
+        "answer_hi": "पैगंबर सुलेमान (AS)"
+    },
+    {
+        "question": "What is the name of the special sunnah prayer performed during the nights of Ramadan?",
+        "question_hi": "रमजान की रातों में पढ़ी जाने वाली विशेष सुन्नत नमाज का नाम क्या है?",
+        "options": [
+            "Tahajjud",
+            "Taraweeh",
+            "Ishraq",
+            "Chasht"
+        ],
+        "options_hi": [
+            "तहज्जुद",
+            "तरावीह",
+            "इशराक",
+            "चाश्त"
+        ],
+        "answer": "Taraweeh",
+        "answer_hi": "तरावीह"
+    },
+    {
+        "question": "Which city is mentioned in the Quran as 'Iram of the Pillars'?",
+        "question_hi": "कुरान में किस शहर का उल्लेख 'इरम ज़ातुल इमाद' (स्तंभों वाला इरम) के रूप में किया गया है?",
+        "options": [
+            "Mecca",
+            "Medina",
+            "Iram",
+            "Petra"
+        ],
+        "options_hi": [
+            "मक्का",
+            "मदीना",
+            "इरम",
+            "पेट्रा"
+        ],
+        "answer": "Iram",
+        "answer_hi": "इरम"
+    },
+    {
+        "question": "Who was the companion who compiled the Quran into a single standardized volume during his Caliphate?",
+        "question_hi": "किस खलीफा के शासनकाल में कुरान को एक मानक ग्रंथ के रूप में संकलित किया गया था?",
+        "options": [
+            "Abu Bakr (RA)",
+            "Umar (RA)",
+            "Uthman ibn Affan (RA)",
+            "Ali (RA)"
+        ],
+        "options_hi": [
+            "अबू बक्र (RA)",
+            "उमर (RA)",
+            "उस्मान इब्न अफ्फान (RA)",
+            "अली (RA)"
+        ],
+        "answer": "Uthman ibn Affan (RA)",
+        "answer_hi": "उस्मान इब्न अफ्फान (RA)"
+    },
+    {
+        "question": "What is the term for the words and actions of the Prophet's companions?",
+        "question_hi": "पैगंबर के साथियों (सहाबा) के कथनों और कार्यों को क्या कहा जाता है?",
+        "options": [
+            "Hadith",
+            "Sunnah",
+            "Athar",
+            "Fiqh"
+        ],
+        "options_hi": [
+            "हदीस",
+            "सुन्नत",
+            "आसार (Athar)",
+            "फिक्ह"
+        ],
+        "answer": "Athar",
+        "answer_hi": "आसार (Athar)"
+    },
+    {
+        "question": "Which Prophet remained in prison for several years due to a false accusation?",
+        "question_hi": "झूठे आरोप के कारण कौन से पैगंबर कई वर्षों तक जेल में रहे थे?",
+        "options": [
+            "Prophet Musa (AS)",
+            "Prophet Yusuf (AS)",
+            "Prophet Ayub (AS)",
+            "Prophet Yunus (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर मूसा (AS)",
+            "पैगंबर यूसुफ (AS)",
+            "पैगंबर अय्यूब (AS)",
+            "पैगंबर यूनुस (AS)"
+        ],
+        "answer": "Prophet Yusuf (AS)",
+        "answer_hi": "पैगंबर यूसुफ (AS)"
+    },
+    {
+        "question": "What is the name of the valley where Muslims fought the Battle of Hunayn?",
+        "question_hi": "उस घाटी का नाम क्या है जहाँ मुसलमानों ने हुनैन की लड़ाई लड़ी थी?",
+        "options": [
+            "Valley of Hunayn",
+            "Valley of Badr",
+            "Valley of Uhud",
+            "Valley of Mina"
+        ],
+        "options_hi": [
+            "हुनैन की घाटी",
+            "बद्र की घाटी",
+            "उहुद की घाटी",
+            "मीना की घाटी"
+        ],
+        "answer": "Valley of Hunayn",
+        "answer_hi": "हुनैन की घाटी"
+    },
+    {
+        "question": "Which companion was nicknamed 'The Lion of the Desert' (Asad al-Ghaba)?",
+        "question_hi": "किस सहाबी को 'जंगल का शेर' (Asad al-Ghaba) की उपाधि से जाना जाता है?",
+        "options": [
+            "Hamza bin Abdul Muttalib (RA)",
+            "Ali (RA)",
+            "Khalid bin Walid",
+            "Umar (RA)"
+        ],
+        "options_hi": [
+            "हामज़ा बिन अब्दुल मुत्तलिब (RA)",
+            "अली (RA)",
+            "खालिद बिन वालिद",
+            "उमर (RA)"
+        ],
+        "answer": "Hamza bin Abdul Muttalib (RA)",
+        "answer_hi": "हामज़ा बिन अब्दुल मुत्तलिब (RA)"
+    },
+    {
+        "question": "What is the meaning of Surah 'Al-Zalzalah'?",
+        "question_hi": "सूरह 'अज़-ज़लज़लाह' का क्या अर्थ है?",
+        "options": [
+            "The Earthquake",
+            "The Wind",
+            "The Flood",
+            "The Fire"
+        ],
+        "options_hi": [
+            "भूकंप",
+            "हवा",
+            "बाढ़",
+            "आग"
+        ],
+        "answer": "The Earthquake",
+        "answer_hi": "भूकंप"
+    },
+    {
+        "question": "Which Prophet was given the miracle of a massive cloud providing shade during his journey?",
+        "question_hi": "किस पैगंबर को उनकी यात्रा के दौरान एक विशाल बादल द्वारा छाया दिए जाने का चमत्कार प्राप्त था?",
+        "options": [
+            "Prophet Musa (AS)",
+            "Prophet Muhammad (PBUH)",
+            "Prophet Isa (AS)",
+            "Prophet Nuh (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर मूसा (AS)",
+            "पैगंबर मुहम्मद (PBUH)",
+            "पैगंबर ईसा (AS)",
+            "पैगंबर नूह (AS)"
+        ],
+        "answer": "Prophet Muhammad (PBUH)",
+        "answer_hi": "पैगंबर मुहम्मद (PBUH)"
+    },
+    {
+        "question": "Who was the companion who suggested the place for the Muslim camp at Badr?",
+        "question_hi": "किस सहाबी ने बद्र के मैदान में मुस्लिम सेना के पड़ाव का स्थान चुनने का सुझाव दिया था?",
+        "options": [
+            "Abu Bakr (RA)",
+            "Al-Hubab ibn al-Mundhir (RA)",
+            "Umar (RA)",
+            "Ali (RA)"
+        ],
+        "options_hi": [
+            "अबू बक्र (RA)",
+            "अल-हुबाब इब्न अल-मुन्ज़िर (RA)",
+            "उमर (RA)",
+            "अली (RA)"
+        ],
+        "answer": "Al-Hubab ibn al-Mundhir (RA)",
+        "answer_hi": "अल-हुबाब इब्न अल-मुन्ज़िर (RA)"
+    },
+    {
+        "question": "What is the name of the gate in Paradise through which the patient will enter?",
+        "question_hi": "जन्नत के उस द्वार का नाम क्या है जिससे सब्र करने वाले (धैर्यवान) प्रवेश करेंगे?",
+        "options": [
+            "Bab as-Sabr",
+            "Bab ar-Rayyan",
+            "Bab as-Salat",
+            "Bab al-Jihad"
+        ],
+        "options_hi": [
+            "बाब अस-सब्र",
+            "बाब अर-रय्यान",
+            "बाब अस-सलात",
+            "बाब अल-जिहाद"
+        ],
+        "answer": "Bab as-Sabr",
+        "answer_hi": "बाब अस-सब्र"
+    },
+    {
+        "question": "Which Prophet's story mentions the Queen of Sheba (Bilqis)?",
+        "question_hi": "किस पैगंबर की कहानी में सबा की रानी (बिल्किस) का उल्लेख है?",
+        "options": [
+            "Prophet Dawud (AS)",
+            "Prophet Sulaiman (AS)",
+            "Prophet Yusuf (AS)",
+            "Prophet Musa (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर दावूद (AS)",
+            "पैगंबर सुलेमान (AS)",
+            "पैगंबर यूसुफ (AS)",
+            "पैगंबर मूसा (AS)"
+        ],
+        "answer": "Prophet Sulaiman (AS)",
+        "answer_hi": "पैगंबर सुलेमान (AS)"
+    },
+    {
+        "question": "What is the term for the money or property given by the groom to the bride at the time of marriage?",
+        "question_hi": "निकाह के समय दूल्हे द्वारा दुल्हन को दिए जाने वाले धन या संपत्ति को क्या कहते हैं?",
+        "options": [
+            "Mahr",
+            "Zakat",
+            "Sadaqah",
+            "Ushr"
+        ],
+        "options_hi": [
+            "महर (Mahr)",
+            "ज़कात",
+            "सदका",
+            "उश्र"
+        ],
+        "answer": "Mahr",
+        "answer_hi": "महर (Mahr)"
+    },
+    {
+        "question": "Which companion was known as 'Dhul-Janahayn' (The one with two wings)?",
+        "question_hi": "किस सहाबी को 'धुल-जनाहैन' (दो पंखों वाला) कहा जाता है?",
+        "options": [
+            "Ali (RA)",
+            "Ja'far ibn Abi Talib (RA)",
+            "Hamza (RA)",
+            "Zaid (RA)"
+        ],
+        "options_hi": [
+            "अली (RA)",
+            "जाफ़र इब्न अबी तालिब (RA)",
+            "हामज़ा (RA)",
+            "ज़ैद (RA)"
+        ],
+        "answer": "Ja'far ibn Abi Talib (RA)",
+        "answer_hi": "जाफ़र इब्न अबी तालिब (RA)"
+    },
+    {
+        "question": "Which Prophet was sent to the people of the 'Aykah' (The Dwellers of the Forest)?",
+        "question_hi": "'ऐका' (वनवासी) के लोगों के पास किस पैगंबर को भेजा गया था?",
+        "options": [
+            "Prophet Shu'ayb (AS)",
+            "Prophet Hud (AS)",
+            "Prophet Salih (AS)",
+            "Prophet Ibrahim (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर शुऐब (AS)",
+            "पैगंबर हूद (AS)",
+            "पैगंबर सालेह (AS)",
+            "पैगंबर इब्राहिम (AS)"
+        ],
+        "answer": "Prophet Shu'ayb (AS)",
+        "answer_hi": "पैगंबर शुऐब (AS)"
+    },
+    {
+        "question": "What is the name of the place where pilgrims spend the night after leaving Arafat?",
+        "question_hi": "अराफ़ात छोड़ने के बाद तीर्थयात्री जिस स्थान पर रात बिताते हैं, उसका नाम क्या है?",
+        "options": [
+            "Muzdalifah",
+            "Mina",
+            "Mecca",
+            "Safa"
+        ],
+        "options_hi": [
+            "मुज़दलिफ़ा",
+            "मीना",
+            "मक्का",
+            "सफ़ा"
+        ],
+        "answer": "Muzdalifah",
+        "answer_hi": "मुज़दलिफ़ा"
+    },
+    {
+        "question": "Which companion was the first male child born in Medina to the Muhajirun?",
+        "question_hi": "हिजरत के बाद मदीना में मुहाजिरून के यहाँ पैदा होने वाले पहले बच्चे कौन थे?",
+        "options": [
+            "Abdullah ibn al-Zubayr (RA)",
+            "Anas ibn Malik",
+            "Hassan bin Ali",
+            "Usama bin Zaid"
+        ],
+        "options_hi": [
+            "अब्दुल्लाह इब्न अल-जुबैर (RA)",
+            "अनस इब्न मालिक",
+            "हसन बिन अली",
+            "उसामा बिन ज़ैद"
+        ],
+        "answer": "Abdullah ibn al-Zubayr (RA)",
+        "answer_hi": "अब्दुल्लाह इब्न अल-जुबैर (RA)"
+    },
+    {
+        "question": "What is the name of the Angel who is in charge of blowing the trumpet (Sur)?",
+        "question_hi": "सूर (शंख/तुरही) फूंकने की जिम्मेदारी किस फरिश्ते की है?",
+        "options": [
+            "Jibreel",
+            "Mikail",
+            "Israfil",
+            "Izrail"
+        ],
+        "options_hi": [
+            "जिब्रील",
+            "मीकाइल",
+            "इसराफिल",
+            "इजराइल"
+        ],
+        "answer": "Israfil",
+        "answer_hi": "इसराफिल"
+    },
+    {
+        "question": "Which Surah is equivalent to one-fourth of the Quran in rewards?",
+        "question_hi": "सवाब में कौन सी सूरह कुरान के एक-चौथाई (1/4) के बराबर है?",
+        "options": [
+            "Surah Al-Ikhlas",
+            "Surah Al-Kafirun",
+            "Surah Al-Fatiha",
+            "Surah Al-Nasr"
+        ],
+        "options_hi": [
+            "सूरह अल-इखलास",
+            "सूरह अल-काफिरून",
+            "सूरह अल-फातिहा",
+            "सूरह अल-नस्र"
+        ],
+        "answer": "Surah Al-Kafirun",
+        "answer_hi": "सूरह अल-काफिरून"
+    },
+    {
+        "question": "What was the name of the female Sahabi who fought bravely in the Battle of Uhud protecting the Prophet?",
+        "question_hi": "उस महिला सहाबी का नाम क्या था जिन्होंने उहुद की लड़ाई में पैगंबर की रक्षा करते हुए बहादुरी से युद्ध लड़ा था?",
+        "options": [
+            "Aisha (RA)",
+            "Nusaybah bint Ka'b (RA)",
+            "Fatima (RA)",
+            "Sumayyah (RA)"
+        ],
+        "options_hi": [
+            "आइशा (RA)",
+            "नुसैबाह बिन्त काब (RA)",
+            "फातिमा (RA)",
+            "सुमैय्या (RA)"
+        ],
+        "answer": "Nusaybah bint Ka'b (RA)",
+        "answer_hi": "नुसैबाह बिन्त काब (RA)"
+    },
+    {
+        "question": "Who was the companion known as 'The Interpreter of the Quran' (Tarjuman al-Quran)?",
+        "question_hi": "किस सहाबी को 'कुरान के अनुवादक/व्याख्याकार' (Tarjuman al-Quran) के रूप में जाना जाता है?",
+        "options": [
+            "Abdullah ibn Abbas (RA)",
+            "Abu Bakr (RA)",
+            "Ali (RA)",
+            "Umar (RA)"
+        ],
+        "options_hi": [
+            "अब्दुल्लाह इब्न अब्बास (RA)",
+            "अबू बक्र (RA)",
+            "अली (RA)",
+            "उमर (RA)"
+        ],
+        "answer": "Abdullah ibn Abbas (RA)",
+        "answer_hi": "अब्दुल्लाह इब्न अब्बास (RA)"
+    },
+    {
+        "question": "What is the name of the well that started from the feet of Prophet Ismail (AS)?",
+        "question_hi": "उस कुएं का नाम क्या है जो पैगंबर इस्माइल (AS) के पैरों के पास से शुरू हुआ था?",
+        "options": [
+            "Zamzam",
+            "Badr",
+            "Rumah",
+            "Arafat"
+        ],
+        "options_hi": [
+            "ज़मज़म",
+            "बद्र",
+            "रूमा",
+            "अराफ़ात"
+        ],
+        "answer": "Zamzam",
+        "answer_hi": "ज़मज़म"
+    },
+    {
+        "question": "What is the name of the bridge over Hell that leading to Paradise?",
+        "question_hi": "जहन्नुम के ऊपर बने उस पुल का नाम क्या है जो जन्नत की ओर ले जाता है?",
+        "options": [
+            "Mizan",
+            "As-Sirat",
+            "Sidra",
+            "Arafat"
+        ],
+        "options_hi": [
+            "मीज़ान",
+            "अस-सिरात (As-Sirat)",
+            "सिदरा",
+            "अराफ़ात"
+        ],
+        "answer": "As-Sirat",
+        "answer_hi": "अस-सिरात (As-Sirat)"
+    },
+    {
+        "question": "What is the name of the angel who questions people in the grave?",
+        "question_hi": "कब्र में मुर्दों से सवाल करने वाले फरिश्तों का नाम क्या है?",
+        "options": [
+            "Munkar and Nakir",
+            "Raqib and Atid",
+            "Jibreel and Mikail",
+            "Malik and Ridwan"
+        ],
+        "options_hi": [
+            "मुनकर और नकीर",
+            "रक़ीब और अतीद",
+            "जिब्रील और मीकाइल",
+            "मालिक और रिदवान"
+        ],
+        "answer": "Munkar and Nakir",
+        "answer_hi": "मुनकर और नकीर"
+    },
+    {
+        "question": "Which companion was nicknamed 'Abu Turab' by the Prophet (PBUH)?",
+        "question_hi": "पैगंबर (PBUH) ने किस सहाबी को 'अबू तुराब' (मिट्टी का बाप) उपनाम दिया था?",
+        "options": [
+            "Abu Bakr (RA)",
+            "Ali bin Abi Talib (RA)",
+            "Umar (RA)",
+            "Uthman (RA)"
+        ],
+        "options_hi": [
+            "अबू बक्र (RA)",
+            "अली बिन अबी तालिब (RA)",
+            "उमर (RA)",
+            "उस्मान (RA)"
+        ],
+        "answer": "Ali bin Abi Talib (RA)",
+        "answer_hi": "अली बिन अबी तालिब (RA)"
+    },
+    {
+        "question": "What is the name of the sacred structure in the center of the Grand Mosque in Mecca?",
+        "question_hi": "मक्का की ग्रैंड मस्जिद के केंद्र में स्थित पवित्र ढांचे का नाम क्या है?",
+        "options": [
+            "Kaaba",
+            "Maqam Ibrahim",
+            "Safir",
+            "Multazam"
+        ],
+        "options_hi": [
+            "काबा",
+            "मकाम इब्राहिम",
+            "सफीर",
+            "मुल्तज़म"
+        ],
+        "answer": "Kaaba",
+        "answer_hi": "काबा"
+    },
+    {
+        "question": "What is the meaning of the word 'Ayat' in the Quran?",
+        "question_hi": "कुरान में 'आयत' (Ayat) शब्द का क्या अर्थ है?",
+        "options": [
+            "Sign / Miracle",
+            "Verse",
+            "Sentence",
+            "Message"
+        ],
+        "options_hi": [
+            "संकेत / चमत्कार",
+            "पद्य",
+            "वाक्य",
+            "संदेश"
+        ],
+        "answer": "Sign / Miracle",
+        "answer_hi": "संकेत / चमत्कार"
+    },
+    {
+        "question": "How many levels are there in Paradise (Jannah)?",
+        "question_hi": "जन्नत (Jannah) में कुल कितने स्तर या दर्जे हैं?",
+        "options": [
+            "7",
+            "10",
+            "100",
+            "50"
+        ],
+        "options_hi": [
+            "7",
+            "10",
+            "100",
+            "50"
+        ],
+        "answer": "100",
+        "answer_hi": "100"
+    },
+    {
+        "question": "Which Prophet is mentioned in the Quran as being gifted to Prophet Ibrahim (AS) as a grandson?",
+        "question_hi": "कुरान में किस पैगंबर का उल्लेख पैगंबर इब्राहिम (AS) को एक पोते के रूप में उपहार में दिए जाने के रूप में किया गया है?",
+        "options": [
+            "Prophet Ishaq (AS)",
+            "Prophet Yaqub (AS)",
+            "Prophet Yusuf (AS)",
+            "Prophet Ismail (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर इसहाक (AS)",
+            "पैगंबर याकूब (AS)",
+            "पैगंबर यूसुफ (AS)",
+            "पैगंबर इस्माइल (AS)"
+        ],
+        "answer": "Prophet Yaqub (AS)",
+        "answer_hi": "पैगंबर याकूब (AS)"
+    },
+    {
+        "question": "What was the name of the mountain range where the people of 'Ad lived?",
+        "question_hi": "'आद' की कौम जिस पहाड़ी क्षेत्र में रहती थी उसका नाम क्या था?",
+        "options": [
+            "Al-Ahqaf",
+            "Mount Sinai",
+            "Mount Safa",
+            "Jabal al-Nour"
+        ],
+        "options_hi": [
+            "अल-अहकाफ़",
+            "सिनाई पर्वत",
+            "सफा पहाड़",
+            "जबल अल-नूर"
+        ],
+        "answer": "Al-Ahqaf",
+        "answer_hi": "अल-अहकाफ़"
+    },
+    {
+        "question": "Which companion was the first person to draw blood in the cause of Islam?",
+        "question_hi": "इस्लाम के लिए सबसे पहले खून बहाने वाले सहाबी कौन थे?",
+        "options": [
+            "Hamza (RA)",
+            "Sa'd ibn Abi Waqqas (RA)",
+            "Khalid bin Walid (RA)",
+            "Ali (RA)"
+        ],
+        "options_hi": [
+            "हामज़ा (RA)",
+            "साद इब्न अबी वक़्क़ास (RA)",
+            "खालिद बिन वालिद (RA)",
+            "अली (RA)"
+        ],
+        "answer": "Sa'd ibn Abi Waqqas (RA)",
+        "answer_hi": "साद इब्न अबी वक़्क़ास (RA)"
+    },
+    {
+        "question": "How many years did the Prophet (PBUH) live in Medina after the Hijrah until his passing?",
+        "question_hi": "हिजरत के बाद पैगंबर (PBUH) अपने निधन तक मदीना में कितने वर्षों तक रहे?",
+        "options": [
+            "10 years",
+            "13 years",
+            "8 years",
+            "5 years"
+        ],
+        "options_hi": [
+            "10 साल",
+            "13 साल",
+            "8 साल",
+            "5 साल"
+        ],
+        "answer": "10 years",
+        "answer_hi": "10 साल"
+    },
+    {
+        "question": "Which Prophet was known as 'Dhu-l-Kifl' and mentioned among the patient ones?",
+        "question_hi": "किस पैगंबर को 'ज़ुल-किफ़्ल' के नाम से जाना जाता है और उनका उल्लेख सब्र करने वालों में किया गया है?",
+        "options": [
+            "Prophet Idris (AS)",
+            "Prophet Ilyas (AS)",
+            "Prophet Al-Yasa (AS)",
+            "Prophet Bishr (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर इदरीस (AS)",
+            "पैगंबर इल्यास (AS)",
+            "पैगंबर अल-यसा (AS)",
+            "पैगंबर बिश्र (AS)"
+        ],
+        "answer": "Prophet Bishr (AS)",
+        "answer_hi": "पैगंबर बिश्र (AS)"
+    },
+    {
+        "question": "What is the name of the special place in the Prophet's Mosque between his grave and the pulpit (Minbar)?",
+        "question_hi": "मस्जिद-ए-नबवी में पैगंबर की कब्र और मिम्बर के बीच के विशेष स्थान को क्या कहा जाता है?",
+        "options": [
+            "Rawdah ash-Sharifah",
+            "Suffah",
+            "Mihrab",
+            "Minaret"
+        ],
+        "options_hi": [
+            "रौज़ाह अश-शरीफ़ा",
+            "सुफ़्फ़ा",
+            "मिहराब",
+            "मीनार"
+        ],
+        "answer": "Rawdah ash-Sharifah",
+        "answer_hi": "रौज़ाह अश-शरीफ़ा"
+    },
+    {
+        "question": "Which Prophet was sent to the people of Nineveh (Ninawa)?",
+        "question_hi": "पैगंबर यूनुस (AS) को किस शहर के लोगों के पास भेजा गया था?",
+        "options": [
+            "Nineveh",
+            "Sodom",
+            "Madyan",
+            "Jericho"
+        ],
+        "options_hi": [
+            "नीनवे (Nineveh)",
+            "सदोम",
+            "मदयन",
+            "जेरिको"
+        ],
+        "answer": "Nineveh",
+        "answer_hi": "नीनवे (Nineveh)"
+    },
+    {
+        "question": "Who was the companion nicknamed 'Dhu al-Nura' (Possessor of the Light)?",
+        "question_hi": "किस सहाबी का उपनाम 'धुल-नूरा' (नूर वाला) था?",
+        "options": [
+            "Abu Bakr (RA)",
+            "Tufail ibn Amr ad-Dawsi (RA)",
+            "Uthman (RA)",
+            "Ali (RA)"
+        ],
+        "options_hi": [
+            "अबू बक्र (RA)",
+            "तुफैल इब्न अम्र अद-दौसी (RA)",
+            "उस्मान (RA)",
+            "अली (RA)"
+        ],
+        "answer": "Tufail ibn Amr ad-Dawsi (RA)",
+        "answer_hi": "तुफैल इब्न अम्र अद-दौसी (RA)"
+    },
+    {
+        "question": "Which Prophet's story is described as 'The Best of Stories' (Ahsan al-Qasas) in the Quran?",
+        "question_hi": "कुरान में किस पैगंबर की कहानी को 'सबसे अच्छी कहानी' (अहसन अल-क़सस) कहा गया है?",
+        "options": [
+            "Prophet Yusuf (AS)",
+            "Prophet Musa (AS)",
+            "Prophet Isa (AS)",
+            "Prophet Ibrahim (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर यूसुफ (AS)",
+            "पैगंबर मूसा (AS)",
+            "पैगंबर ईसा (AS)",
+            "पैगंबर इब्राहिम (AS)"
+        ],
+        "answer": "Prophet Yusuf (AS)",
+        "answer_hi": "पैगंबर यूसुफ (AS)"
+    },
+    {
+        "question": "Who was the first person to offer Salah with the Prophet Muhammad (PBUH)?",
+        "question_hi": "पैगंबर मुहम्मद (PBUH) के साथ पहली बार नमाज पढ़ने वाले व्यक्ति कौन थे?",
+        "options": [
+            "Abu Bakr (RA)",
+            "Khadija (RA)",
+            "Ali (RA)",
+            "Zaid (RA)"
+        ],
+        "options_hi": [
+            "अबू बक्र (RA)",
+            "खदीजा (RA)",
+            "अली (RA)",
+            "ज़ैद (RA)"
+        ],
+        "answer": "Khadija (RA)",
+        "answer_hi": "खदीजा (RA)"
+    },
+    {
+        "question": "In which city did Prophet Adam (AS) and Hawa (Eve) meet on Earth after their descent?",
+        "question_hi": "जमीन पर उतरने के बाद पैगंबर आदम (AS) और हव्वा कहाँ मिले थे?",
+        "options": [
+            "Jeddah",
+            "Plain of Arafat",
+            "Jerusalem",
+            "Mecca"
+        ],
+        "options_hi": [
+            "जेद्दा",
+            "अराफ़ात का मैदान",
+            "यरूशलेम",
+            "मक्का"
+        ],
+        "answer": "Plain of Arafat",
+        "answer_hi": "अराफ़ात का मैदान"
+    },
+    {
+        "question": "Which companion was known as 'Al-Habr' (The Great Scholar of the Ummah)?",
+        "question_hi": "किस सहाबी को 'अल-हब्र' (उम्मत का महान विद्वान) कहा जाता था?",
+        "options": [
+            "Abdullah ibn Abbas (RA)",
+            "Abu Hurairah (RA)",
+            "Anas ibn Malik",
+            "Abdullah ibn Umar"
+        ],
+        "options_hi": [
+            "अब्दुल्लाह इब्न अब्बास (RA)",
+            "अबू हुरैरा (RA)",
+            "अनस इब्न मालिक",
+            "अब्दुल्लाह इब्न उमर"
+        ],
+        "answer": "Abdullah ibn Abbas (RA)",
+        "answer_hi": "अब्दुल्लाह इब्न अब्बास (RA)"
+    },
+    {
+        "question": "What is the name of the gourd plant that grew to provide shade for Prophet Yunus (AS)?",
+        "question_hi": "उस बेल या पौधे का नाम क्या था जो पैगंबर यूनुस (AS) को छाया देने के लिए उगा था?",
+        "options": [
+            "Yaqtin",
+            "Olive",
+            "Fig",
+            "Date"
+        ],
+        "options_hi": [
+            "यक़तीन (Yaqtin)",
+            "ज़ैतून",
+            "अंजीर",
+            "खजूर"
+        ],
+        "answer": "Yaqtin",
+        "answer_hi": "यक़तीन (Yaqtin)"
+    },
+    {
+        "question": "Which companion carried the flag of the Muslims in the Battle of Mu'tah first?",
+        "question_hi": "मुताह की लड़ाई में मुसलमानों का झंडा सबसे पहले किस सहाबी ने संभाला था?",
+        "options": [
+            "Zaid bin Harithah (RA)",
+            "Ja'far bin Abi Talib (RA)",
+            "Abdullah bin Rawaha (RA)",
+            "Khalid bin Walid (RA)"
+        ],
+        "options_hi": [
+            "ज़ैद इब्न हारिसा (RA)",
+            "जाफ़र इब्न अबी तालिब (RA)",
+            "अब्दुल्लाह इब्न रवाहा (RA)",
+            "खालिद बिन वालिद (RA)"
+        ],
+        "answer": "Zaid bin Harithah (RA)",
+        "answer_hi": "ज़ैद इब्न हारिसा (RA)"
+    },
+    {
+        "question": "What is the name of the special treaty that Prophet Muhammad (PBUH) joined as a youth to protect the oppressed?",
+        "question_hi": "उस विशेष समझौते का नाम क्या है जिसमें पैगंबर (PBUH) ने मजलूमों की रक्षा के लिए अपनी युवावस्था में भाग लिया था?",
+        "options": [
+            "Hilf al-Fudul",
+            "Mithaq-e-Madina",
+            "Treaty of Hudaybiyyah",
+            "Pledge of Aqabah"
+        ],
+        "options_hi": [
+            "हिलफ़ अल-फ़ुज़ूल",
+            "मीसाक़-ए-मदीना",
+            "हुदैबिया की संधि",
+            "अक़बा का वचन"
+        ],
+        "answer": "Hilf al-Fudul",
+        "answer_hi": "हिलफ़ अल-फ़ुज़ूल"
+    },
+    {
+        "question": "Which Prophet's miracle was a white hand that shone like a lamp?",
+        "question_hi": "किस पैगंबर का चमत्कार एक सफेद हाथ था जो दीपक की तरह चमकता था?",
+        "options": [
+            "Prophet Isa (AS)",
+            "Prophet Musa (AS)",
+            "Prophet Ibrahim (AS)",
+            "Prophet Yusuf (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर ईसा (AS)",
+            "पैगंबर मूसा (AS)",
+            "पैगंबर इब्राहिम (AS)",
+            "पैगंबर यूसुफ (AS)"
+        ],
+        "answer": "Prophet Musa (AS)",
+        "answer_hi": "पैगंबर मूसा (AS)"
+    },
+    {
+        "question": "Who was the companion known as 'The Orator of the Prophet' (Khateeb al-Rasul)?",
+        "question_hi": "'खतीब-उर-रसूल' के रूप में किस सहाबी को जाना जाता था?",
+        "options": [
+            "Abu Bakr (RA)",
+            "Thabit ibn Qays (RA)",
+            "Umar (RA)",
+            "Ali (RA)"
+        ],
+        "options_hi": [
+            "अबू बक्र (RA)",
+            "साबित इब्न क़ैस (RA)",
+            "उमर (RA)",
+            "अली (RA)"
+        ],
+        "answer": "Thabit ibn Qays (RA)",
+        "answer_hi": "साबित इब्न क़ैस (RA)"
+    },
+    {
+        "question": "Which Prophet was sent to the people of 'Aykah' (The Forest)?",
+        "question_hi": "'ऐका' (वनवासी) के लोगों के पास किस पैगंबर को भेजा गया था?",
+        "options": [
+            "Prophet Shu'ayb (AS)",
+            "Prophet Hud (AS)",
+            "Prophet Salih (AS)",
+            "Prophet Nuh (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर शुऐब (AS)",
+            "पैगंबर हूद (AS)",
+            "पैगंबर सालेह (AS)",
+            "पैगंबर नूह (AS)"
+        ],
+        "answer": "Prophet Shu'ayb (AS)",
+        "answer_hi": "पैगंबर शुऐब (AS)"
+    },
+    {
+        "question": "What is the name of the place where pilgrims spend the night on the 9th of Dhu al-Hijjah after leaving Arafat?",
+        "question_hi": "अराफ़ात छोड़ने के बाद 9 ज़ुल-हिज्जा की रात तीर्थयात्री कहाँ बिताते हैं?",
+        "options": [
+            "Mina",
+            "Muzdalifah",
+            "Safa",
+            "Mecca"
+        ],
+        "options_hi": [
+            "मीना",
+            "मुज़दलिफ़ा",
+            "सफ़ा",
+            "मक्का"
+        ],
+        "answer": "Muzdalifah",
+        "answer_hi": "मुज़दलिफ़ा"
+    },
+    {
+        "question": "Which Prophet's miracle was the stick that turned into a giant snake?",
+        "question_hi": "लाठी का विशाल सांप बन जाना किस पैगंबर का चमत्कार था?",
+        "options": [
+            "Prophet Isa (AS)",
+            "Prophet Musa (AS)",
+            "Prophet Ibrahim (AS)",
+            "Prophet Nuh (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर ईसा (AS)",
+            "पैगंबर मूसा (AS)",
+            "पैगंबर इब्राहिम (AS)",
+            "पैगंबर नूह (AS)"
+        ],
+        "answer": "Prophet Musa (AS)",
+        "answer_hi": "पैगंबर मूसा (AS)"
+    },
+    {
+        "question": "Who was the companion nicknamed 'Dhu-Nura' (Possessor of Light)?",
+        "question_hi": "किस सहाबी को 'धुल-नूरा' (नूर वाला) की उपाधि मिली थी?",
+        "options": [
+            "Abu Bakr (RA)",
+            "Tufail ibn Amr ad-Dawsi (RA)",
+            "Uthman (RA)",
+            "Ali (RA)"
+        ],
+        "options_hi": [
+            "अबू बक्र (RA)",
+            "तुफैल इब्न अम्र अद-दौसी (RA)",
+            "उस्मान (RA)",
+            "अली (RA)"
+        ],
+        "answer": "Tufail ibn Amr ad-Dawsi (RA)",
+        "answer_hi": "तुफैल इब्न अम्र अद-दौसी (RA)"
+    },
+    {
+        "question": "Who was the companion that suggested digging the trench during the Battle of Ahzab?",
+        "question_hi": "अहज़ाब की लड़ाई के दौरान खाई खोदने का सुझाव किस सहाबी ने दिया था?",
+        "options": [
+            "Salman al-Farsi (RA)",
+            "Abu Hurairah",
+            "Abu Bakr",
+            "Hamza"
+        ],
+        "options_hi": [
+            "सलमान अल-फारसी (RA)",
+            "अबू हुरैरा",
+            "अबू बक्र",
+            "हामज़ा"
+        ],
+        "answer": "Salman al-Farsi (RA)",
+        "answer_hi": "सलमान अल-फारसी (RA)"
+    },
+    {
+        "question": "What was the name of the king of Persia (Sassanid Empire) to whom the Prophet (PBUH) sent a letter?",
+        "question_hi": "फारस (ससानिद साम्राज्य) के उस राजा का नाम क्या था जिसे पैगंबर (PBUH) ने पत्र भेजा था?",
+        "options": [
+            "Khosrow Parvez",
+            "Heraclius",
+            "Najashi",
+            "Muqawqis"
+        ],
+        "options_hi": [
+            "खुसरो परवेज़ (Khosrow Parvez)",
+            "हेराक्लियस",
+            "नजाशी",
+            "मुकावकिस"
+        ],
+        "answer": "Khosrow Parvez",
+        "answer_hi": "खुसरो परवेज़ (Khosrow Parvez)"
+    },
+    {
+        "question": "Which Prophet is known as 'Safiyullah' (The Chosen of Allah)?",
+        "question_hi": "'सफियुल्लाह' (अल्लाह का चुना हुआ) किस पैगंबर की उपाधि है?",
+        "options": [
+            "Prophet Adam (AS)",
+            "Prophet Musa (AS)",
+            "Prophet Ibrahim (AS)",
+            "Prophet Isa (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर आदम (AS)",
+            "पैगंबर मूसा (AS)",
+            "पैगंबर इब्राहिम (AS)",
+            "पैगंबर ईसा (AS)"
+        ],
+        "answer": "Prophet Adam (AS)",
+        "answer_hi": "पैगंबर आदम (AS)"
+    },
+    {
+        "question": "Which Surah is named after 'The Smoke'?",
+        "question_hi": "कुरान की कौन सी सूरह 'धुआं' के नाम पर है?",
+        "options": [
+            "Surah Ad-Dukhan",
+            "Surah At-Tur",
+            "Surah Al-Qamar",
+            "Surah An-Najm"
+        ],
+        "options_hi": [
+            "सूरह अद-दुखान",
+            "सूरह अत-तूर",
+            "सूरह अल-क़मर",
+            "सूरह अन-नज्म"
+        ],
+        "answer": "Surah Ad-Dukhan",
+        "answer_hi": "सूरह अद-दुखान"
+    },
+    {
+        "question": "Who was the companion known as 'The Lion of the Desert' and the conqueror of many lands?",
+        "question_hi": "'रेगिस्तान का शेर' के रूप में जाने जाने वाले और कई क्षेत्रों के विजेता कौन से सहाबी थे?",
+        "options": [
+            "Khalid bin Walid (RA)",
+            "Amr ibn al-Aas (RA)",
+            "Sa'd ibn Abi Waqqas (RA)",
+            "Umar (RA)"
+        ],
+        "options_hi": [
+            "खालिद बिन वालिद (RA)",
+            "अम्र इब्न अल-आस (RA)",
+            "साद इब्न अबी वक़्क़ास (RA)",
+            "उमर (RA)"
+        ],
+        "answer": "Khalid bin Walid (RA)",
+        "answer_hi": "खालिद बिन वालिद (RA)"
+    },
+    {
+        "question": "Which Prophet was given the miracle of a bird that informed him about the Queen of Sheba?",
+        "question_hi": "किस पैगंबर को एक ऐसे पक्षी का चमत्कार दिया गया था जिसने उन्हें सबा की रानी के बारे में जानकारी दी थी?",
+        "options": [
+            "Prophet Sulaiman (AS)",
+            "Prophet Dawud (AS)",
+            "Prophet Musa (AS)",
+            "Prophet Isa (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर सुलेमान (AS)",
+            "पैगंबर दावूद (AS)",
+            "पैगंबर मूसा (AS)",
+            "पैगंबर ईसा (AS)"
+        ],
+        "answer": "Prophet Sulaiman (AS)",
+        "answer_hi": "पैगंबर सुलेमान (AS)"
+    },
+    {
+        "question": "What is the name of the special night prayer performed during the last third of any night?",
+        "question_hi": "रात के अंतिम तिहाई हिस्से में पढ़ी जाने वाली विशेष नमाज का नाम क्या है?",
+        "options": [
+            "Tahajjud",
+            "Taraweeh",
+            "Ishraq",
+            "Chasht"
+        ],
+        "options_hi": [
+            "तहज्जुद",
+            "तरावीह",
+            "इशराक",
+            "चाश्त"
+        ],
+        "answer": "Tahajjud",
+        "answer_hi": "तहज्जुद"
+    },
+    {
+        "question": "Who was the first woman to be martyred in Islam?",
+        "question_hi": "इस्लाम की पहली महिला शहीद कौन थीं?",
+        "options": [
+            "Sumayyah bint Khayyat (RA)",
+            "Khadija (RA)",
+            "Fatima (RA)",
+            "Aisha (RA)"
+        ],
+        "options_hi": [
+            "सुमैय्या बिन्त खय्यात (RA)",
+            "खदीजा (RA)",
+            "फातिमा (RA)",
+            "आइशा (RA)"
+        ],
+        "answer": "Sumayyah bint Khayyat (RA)",
+        "answer_hi": "सुमैय्या बिन्त खय्यात (RA)"
+    },
+    {
+        "question": "Which Prophet was known for building the first major Temple (Bayt al-Maqdis) in Jerusalem?",
+        "question_hi": "यरूशलेम में पहले प्रमुख मंदिर (बैत अल-मक़दिस) के निर्माण के लिए कौन से पैगंबर जाने जाते हैं?",
+        "options": [
+            "Prophet Dawud (AS)",
+            "Prophet Sulaiman (AS)",
+            "Prophet Musa (AS)",
+            "Prophet Ibrahim (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर दावूद (AS)",
+            "पैगंबर सुलेमान (AS)",
+            "पैगंबर मूसा (AS)",
+            "पैगंबर इब्राहिम (AS)"
+        ],
+        "answer": "Prophet Sulaiman (AS)",
+        "answer_hi": "पैगंबर सुलेमान (AS)"
+    },
+    {
+        "question": "Who was the companion known as 'The Trustworthy' (Al-Amin) before Islam?",
+        "question_hi": "इस्लाम से पहले किस व्यक्ति को 'अल-अमीन' (विश्वसनीय) के रूप में जाना जाता था?",
+        "options": [
+            "Prophet Muhammad (PBUH)",
+            "Abu Bakr (RA)",
+            "Umar (RA)",
+            "Uthman (RA)"
+        ],
+        "options_hi": [
+            "पैगंबर मुहम्मद (PBUH)",
+            "अबू बक्र (RA)",
+            "उमर (RA)",
+            "उस्मान (RA)"
+        ],
+        "answer": "Prophet Muhammad (PBUH)",
+        "answer_hi": "पैगंबर मुहम्मद (PBUH)"
+    },
+    {
+        "question": "What is the name of the place where Prophet Muhammad (PBUH) stayed during the first few days of Hijra?",
+        "question_hi": "हिजरत के शुरुआती कुछ दिनों में पैगंबर मुहम्मद (PBUH) जिस स्थान पर रुके थे उसका नाम क्या था?",
+        "options": [
+            "Quba",
+            "Badr",
+            "Uhud",
+            "Taif"
+        ],
+        "options_hi": [
+            "कुबा (Quba)",
+            "बद्र",
+            "उहुद",
+            "ताइफ"
+        ],
+        "answer": "Quba",
+        "answer_hi": "कुबा (Quba)"
+    },
+    {
+        "question": "Which Prophet was gifted to Prophet Ibrahim (AS) as a son after Ismail (AS)?",
+        "question_hi": "पैगंबर इस्माइल (AS) के बाद पैगंबर इब्राहिम (AS) को बेटे के रूप में कौन से पैगंबर मिले थे?",
+        "options": [
+            "Prophet Ishaq (AS)",
+            "Prophet Yusuf (AS)",
+            "Prophet Musa (AS)",
+            "Prophet Yahya (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर इसहाक (AS)",
+            "पैगंबर यूसुफ (AS)",
+            "पैगंबर मूसा (AS)",
+            "पैगंबर याह्या (AS)"
+        ],
+        "answer": "Prophet Ishaq (AS)",
+        "answer_hi": "पैगंबर इसहाक (AS)"
+    },
+    {
+        "question": "Who was the first person to call the Adhan (Call to Prayer) in Islam?",
+        "question_hi": "इस्लाम में अजान देने वाले पहले व्यक्ति कौन थे?",
+        "options": [
+            "Bilal ibn Rabah (RA)",
+            "Abu Bakr (RA)",
+            "Zaid bin Harithah",
+            "Ali (RA)"
+        ],
+        "options_hi": [
+            "बिलाल इब्न रबाह (RA)",
+            "अबू बक्र (RA)",
+            "ज़ैद इब्न हारिसा",
+            "अली (RA)"
+        ],
+        "answer": "Bilal ibn Rabah (RA)",
+        "answer_hi": "बिलाल इब्न रबाह (RA)"
+    },
+    {
+        "question": "Which Prophet was known for his extreme beauty and was the son of Prophet Yaqub (AS)?",
+        "question_hi": "कौन से पैगंबर अपनी अत्यधिक सुंदरता के लिए जाने जाते थे और पैगंबर याकूब (AS) के पुत्र थे?",
+        "options": [
+            "Prophet Yusuf (AS)",
+            "Prophet Musa (AS)",
+            "Prophet Isa (AS)",
+            "Prophet Ismail (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर यूसुफ (AS)",
+            "पैगंबर मूसा (AS)",
+            "पैगंबर ईसा (AS)",
+            "पैगंबर इस्माइल (AS)"
+        ],
+        "answer": "Prophet Yusuf (AS)",
+        "answer_hi": "पैगंबर यूसुफ (AS)"
+    },
+    {
+        "question": "What is the name of the valley where Prophet Musa (AS) was commanded to take off his shoes?",
+        "question_hi": "उस घाटी का नाम क्या है जहाँ पैगंबर मूसा (AS) को अपने जूते उतारने का आदेश दिया गया था?",
+        "options": [
+            "Tuwa",
+            "Arafat",
+            "Mina",
+            "Muzdalifah"
+        ],
+        "options_hi": [
+            "तुवा (Tuwa)",
+            "अराफ़ात",
+            "मीना",
+            "मुज़दलिफ़ा"
+        ],
+        "answer": "Tuwa",
+        "answer_hi": "तुवा (Tuwa)"
+    },
+    {
+        "question": "Which companion was nicknamed 'The Sword of Allah'?",
+        "question_hi": "किस सहाबी को 'अल्लाह की तलवार' (सैफुल्लाह) कहा जाता है?",
+        "options": [
+            "Khalid bin Walid (RA)",
+            "Ali (RA)",
+            "Hamza (RA)",
+            "Umar (RA)"
+        ],
+        "options_hi": [
+            "खालिद बिन वालिद (RA)",
+            "अली (RA)",
+            "हामज़ा (RA)",
+            "उमर (RA)"
+        ],
+        "answer": "Khalid bin Walid (RA)",
+        "answer_hi": "खालिद बिन वालिद (RA)"
+    },
+    {
+        "question": "Which Prophet was given the miracle of the 'Great Ark' to save the believers from the flood?",
+        "question_hi": "विश्वासियों को बाढ़ से बचाने के लिए किस पैगंबर ने 'महान कश्ती' (Ark) बनाई थी?",
+        "options": [
+            "Prophet Musa (AS)",
+            "Prophet Nuh (AS)",
+            "Prophet Ibrahim (AS)",
+            "Prophet Hud (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर मूसा (AS)",
+            "पैगंबर नूह (AS)",
+            "पैगंबर इब्राहिम (AS)",
+            "पैगंबर हूद (AS)"
+        ],
+        "answer": "Prophet Nuh (AS)",
+        "answer_hi": "पैगंबर नूह (AS)"
+    },
+    {
+        "question": "What is the meaning of the name 'Al-Ikhlas'?",
+        "question_hi": "सूरह 'अल-इखलास' का क्या अर्थ है?",
+        "options": [
+            "Purity / Sincerity",
+            "The Dawn",
+            "The Help",
+            "The Unity"
+        ],
+        "options_hi": [
+            "पवित्रता / निष्ठा",
+            "भोर",
+            "मदद",
+            "एकता"
+        ],
+        "answer": "Purity / Sincerity",
+        "answer_hi": "पवित्रता / निष्ठा"
+    },
+    {
+        "question": "Which Prophet had a miracle where iron became soft like wax in his hands?",
+        "question_hi": "किस पैगंबर के हाथों में लोहा मोम की तरह नरम हो जाता था?",
+        "options": [
+            "Prophet Musa (AS)",
+            "Prophet Dawud (AS)",
+            "Prophet Sulaiman (AS)",
+            "Prophet Yusuf (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर मूसा (AS)",
+            "पैगंबर दावूद (AS)",
+            "पैगंबर सुलेमान (AS)",
+            "पैगंबर यूसुफ (AS)"
+        ],
+        "answer": "Prophet Dawud (AS)",
+        "answer_hi": "पैगंबर दावूद (AS)"
+    },
+    {
+        "question": "What is the name of the angel who is the gatekeeper of Paradise (Jannah)?",
+        "question_hi": "जन्नत (स्वर्ग) के द्वारपाल फरिश्ते का नाम क्या है?",
+        "options": [
+            "Ridwan",
+            "Malik",
+            "Mikail",
+            "Israfil"
+        ],
+        "options_hi": [
+            "रिदवान",
+            "मालिक",
+            "मीकाइल",
+            "इसराफिल"
+        ],
+        "answer": "Ridwan",
+        "answer_hi": "रिदवान"
+    },
+    {
+        "question": "What is the name of the angel who is the gatekeeper of Hell (Jahannam)?",
+        "question_hi": "जहन्नुम (नरक) के द्वारपाल फरिश्ते का नाम क्या है?",
+        "options": [
+            "Malik",
+            "Ridwan",
+            "Mikail",
+            "Israfil"
+        ],
+        "options_hi": [
+            "मालिक",
+            "रिदवान",
+            "मीकाइल",
+            "इसराफिल"
+        ],
+        "answer": "Malik",
+        "answer_hi": "मालिक"
+    },
+    {
+        "question": "Which Prophet survived in the belly of a large whale/fish?",
+        "question_hi": "कौन से पैगंबर मछली के पेट में जीवित रहे थे?",
+        "options": [
+            "Prophet Musa (AS)",
+            "Prophet Yunus (AS)",
+            "Prophet Nuh (AS)",
+            "Prophet Yusuf (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर मूसा (AS)",
+            "पैगंबर यूनुस (AS)",
+            "पैगंबर नूह (AS)",
+            "पैगंबर यूसुफ (AS)"
+        ],
+        "answer": "Prophet Yunus (AS)",
+        "answer_hi": "पैगंबर यूनुस (AS)"
+    },
+    {
+        "question": "What is the name of the Prophet's (PBUH) favorite camel during the Hijra?",
+        "question_hi": "हिजरत के दौरान पैगंबर (PBUH) के पसंदीदा ऊंट का नाम क्या था?",
+        "options": [
+            "Al-Qaswa",
+            "Al-Adha",
+            "Duldul",
+            "Burak"
+        ],
+        "options_hi": [
+            "अल-कस्वा",
+            "अल-अदहा",
+            "दुलदुल",
+            "बुराक"
+        ],
+        "answer": "Al-Qaswa",
+        "answer_hi": "अल-कस्वा"
+    },
+    {
+        "question": "Which companion was known as 'Dhul-Nurayn' (The Possessor of Two Lights)?",
+        "question_hi": "किस सहाबी को 'धुल-नूरैन' के नाम से जाना जाता था?",
+        "options": [
+            "Abu Bakr (RA)",
+            "Uthman bin Affan (RA)",
+            "Umar (RA)",
+            "Ali (RA)"
+        ],
+        "options_hi": [
+            "अबू बक्र (RA)",
+            "उस्मान बिन अफ्फान (RA)",
+            "उमर (RA)",
+            "अली (RA)"
+        ],
+        "answer": "Uthman bin Affan (RA)",
+        "answer_hi": "उस्मान बिन अफ्फान (RA)"
+    },
+    {
+        "question": "Which Prophet was given the miracle of the moon splitting into two parts?",
+        "question_hi": "किस पैगंबर के लिए चंद्रमा के दो टुकड़े होने का चमत्कार हुआ था?",
+        "options": [
+            "Prophet Isa (AS)",
+            "Prophet Muhammad (PBUH)",
+            "Prophet Musa (AS)",
+            "Prophet Ibrahim (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर ईसा (AS)",
+            "पैगंबर मुहम्मद (PBUH)",
+            "पैगंबर मूसा (AS)",
+            "पैगंबर इब्राहिम (AS)"
+        ],
+        "answer": "Prophet Muhammad (PBUH)",
+        "answer_hi": "पैगंबर मुहम्मद (PBUH)"
+    },
+    {
+        "question": "What is the meaning of Surah 'Al-Baqarah'?",
+        "question_hi": "सूरह 'अल-बक़रा' का क्या अर्थ है?",
+        "options": [
+            "The Cow",
+            "The Camel",
+            "The Elephant",
+            "The Horse"
+        ],
+        "options_hi": [
+            "गाय (The Cow)",
+            "ऊंट",
+            "हाथी",
+            "घोड़ा"
+        ],
+        "answer": "The Cow",
+        "answer_hi": "गाय (The Cow)"
+    },
+    {
+        "question": "Which companion was the first male child to accept Islam?",
+        "question_hi": "बच्चों में सबसे पहले इस्लाम स्वीकार करने वाले सहाबी कौन थे?",
+        "options": [
+            "Ali ibn Abi Talib (RA)",
+            "Zaid bin Harithah",
+            "Usama bin Zaid",
+            "Abdullah bin Umar"
+        ],
+        "options_hi": [
+            "अली इब्न अबी तालिब (RA)",
+            "ज़ैद इब्न हारिसा",
+            "उसामा इब्न ज़ैद",
+            "अब्दुल्लाह इब्न उमर"
+        ],
+        "answer": "Ali ibn Abi Talib (RA)",
+        "answer_hi": "अली इब्न अबी तालिब (RA)"
+    },
+    {
+        "question": "What is the name of the structure that Prophet Ibrahim (AS) and Ismail (AS) built together?",
+        "question_hi": "पैगंबर इब्राहिम (AS) और इस्माइल (AS) ने मिलकर किस ढांचे का निर्माण किया था?",
+        "options": [
+            "Kaaba",
+            "Masjid al-Aqsa",
+            "Dome of the Rock",
+            "Masjid Quba"
+        ],
+        "options_hi": [
+            "काबा",
+            "मस्जिद अल-अक्सा",
+            "डोम ऑफ द रॉक",
+            "मस्जिद कुबा"
+        ],
+        "answer": "Kaaba",
+        "answer_hi": "काबा"
+    },
+    {
+        "question": "What is the meaning of the word 'Islam'?",
+        "question_hi": "'इस्लाम' शब्द का क्या अर्थ है?",
+        "options": [
+            "Submission to Allah",
+            "Peace",
+            "Both A and B",
+            "Purity"
+        ],
+        "options_hi": [
+            "अल्लाह के प्रति समर्पण",
+            "शांति",
+            "A और B दोनों",
+            "पवित्रता"
+        ],
+        "answer": "Both A and B",
+        "answer_hi": "A और B दोनों"
+    },
+    {
+        "question": "Which Prophet was gifted a kingdom where even the Jinn worked for him?",
+        "question_hi": "किस पैगंबर को ऐसा साम्राज्य दिया गया था जहाँ जिन्न भी उनके लिए काम करते थे?",
+        "options": [
+            "Prophet Dawud (AS)",
+            "Prophet Sulaiman (AS)",
+            "Prophet Musa (AS)",
+            "Prophet Yusuf (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर दावूद (AS)",
+            "पैगंबर सुलेमान (AS)",
+            "पैगंबर मूसा (AS)",
+            "पैगंबर यूसुफ (AS)"
+        ],
+        "answer": "Prophet Sulaiman (AS)",
+        "answer_hi": "पैगंबर सुलेमान (AS)"
+    },
+    {
+        "question": "Which Prophet built an Ark during a great flood?",
+        "question_hi": "किस पैगंबर ने महान बाढ़ के दौरान कश्ती (Ark) बनाई थी?",
+        "options": [
+            "Prophet Nuh (AS)",
+            "Prophet Musa (AS)",
+            "Prophet Ibrahim (AS)",
+            "Prophet Yusuf (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर नूह (AS)",
+            "पैगंबर मूसा (AS)",
+            "पैगंबर इब्राहिम (AS)",
+            "पैगंबर यूसुफ (AS)"
+        ],
+        "answer": "Prophet Nuh (AS)",
+        "answer_hi": "पैगंबर नूह (AS)"
+    },
+    {
+        "question": "What was the name of the Prophet's (PBUH) companion who was known as 'The Scholar of this Ummah'?",
+        "question_hi": "पैगंबर (PBUH) के उस साथी का नाम क्या था जिन्हें 'इस उम्मत का विद्वान' (Habr al-Ummah) कहा जाता था?",
+        "options": [
+            "Abdullah ibn Abbas (RA)",
+            "Abdullah ibn Masud (RA)",
+            "Ali ibn Abi Talib (RA)",
+            "Muadh ibn Jabal (RA)"
+        ],
+        "options_hi": [
+            "अब्दुल्लाह इब्न अब्बास (RA)",
+            "अब्दुल्लाह इब्न मसूद (RA)",
+            "अली इब्न अबी तालिब (RA)",
+            "मुआज़ इब्न जबल (RA)"
+        ],
+        "answer": "Abdullah ibn Abbas (RA)",
+        "answer_hi": "अब्दुल्लाह इब्न अब्बास (RA)"
+    },
+    {
+        "question": "Which Prophet is mentioned in the Quran as being sent to the people of Nineveh?",
+        "question_hi": "कुरान में किस पैगंबर का उल्लेख नीनवे (Nineveh) के लोगों की ओर भेजे जाने के रूप में किया गया है?",
+        "options": [
+            "Prophet Yunus (AS)",
+            "Prophet Musa (AS)",
+            "Prophet Salih (AS)",
+            "Prophet Hud (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर यूनुस (AS)",
+            "पैगंबर मूसा (AS)",
+            "पैगंबर सालेह (AS)",
+            "पैगंबर हूद (AS)"
+        ],
+        "answer": "Prophet Yunus (AS)",
+        "answer_hi": "पैगंबर यूनुस (AS)"
+    },
+    {
+        "question": "What was the name of the foster sister of Prophet Muhammad (PBUH)?",
+        "question_hi": "पैगंबर मुहम्मद (PBUH) की दूध-बहन (Foster sister) का नाम क्या था?",
+        "options": [
+            "Shayma (RA)",
+            "Fatima",
+            "Zainab",
+            "Umamah"
+        ],
+        "options_hi": [
+            "शायमा (RA)",
+            "फातिमा",
+            "जैनब",
+            "उमामा"
+        ],
+        "answer": "Shayma (RA)",
+        "answer_hi": "शायमा (RA)"
+    },
+    {
+        "question": "Which companion was known as 'Ghusil al-Mala'ikah' (The one washed by Angels)?",
+        "question_hi": "किस सहाबी को 'गुसील अल-मलाइका' (फरिश्तों द्वारा नहलाया गया) कहा जाता है?",
+        "options": [
+            "Hanzala ibn Abi Amir (RA)",
+            "Hamza (RA)",
+            "Mus'ab bin Umayr (RA)",
+            "Ali (RA)"
+        ],
+        "options_hi": [
+            "हनज़ला इब्न अबू आमिर (RA)",
+            "हामज़ा (RA)",
+            "मुसाब इब्न उमैर (RA)",
+            "अली (RA)"
+        ],
+        "answer": "Hanzala ibn Abi Amir (RA)",
+        "answer_hi": "हनज़ला इब्न अबू आमिर (RA)"
+    },
+    {
+        "question": "Which Prophet was known for his ability to weave chainmail armor from iron?",
+        "question_hi": "लोहे से जिरह (chainmail armor) बुनने की क्षमता के लिए कौन से पैगंबर जाने जाते हैं?",
+        "options": [
+            "Prophet Musa (AS)",
+            "Prophet Dawood (AS)",
+            "Prophet Sulaiman (AS)",
+            "Prophet Idris (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर मूसा (AS)",
+            "पैगंबर दावूद (AS)",
+            "पैगंबर सुलेमान (AS)",
+            "पैगंबर इदरीस (AS)"
+        ],
+        "answer": "Prophet Dawood (AS)",
+        "answer_hi": "पैगंबर दावूद (AS)"
+    },
+    {
+        "question": "What was the name of the Prophet's (PBUH) messenger sent to the Governor of Egypt (Muqawqis)?",
+        "question_hi": "मिस्र के गवर्नर (मुकावकिस) के पास भेजे गए पैगंबर (PBUH) के दूत का नाम क्या था?",
+        "options": [
+            "Hatib ibn Abi Balta'ah (RA)",
+            "Dihyah al-Kalbi (RA)",
+            "Amr ibn al-Aas",
+            "Abdullah ibn Hudhafah"
+        ],
+        "options_hi": [
+            "हातिब इब्न अबी बाल्ताह (RA)",
+            "दिह्या अल-कल्बी (RA)",
+            "अम्र इब्न अल-आस",
+            "अब्दुल्लाह इब्न हुदाफाह"
+        ],
+        "answer": "Hatib ibn Abi Balta'ah (RA)",
+        "answer_hi": "हातिब इब्न अबी बाल्ताह (RA)"
+    },
+    {
+        "question": "How many years did the People of the Cave (Ashab al-Kahf) sleep according to the Quran?",
+        "question_hi": "कुरान के अनुसार अशाब-ए-कहफ़ (गुफा वाले) कितने वर्षों तक सोए थे?",
+        "options": [
+            "100 years",
+            "300 years plus 9",
+            "500 years",
+            "40 years"
+        ],
+        "options_hi": [
+            "100 साल",
+            "300 साल और 9 साल",
+            "500 साल",
+            "40 साल"
+        ],
+        "answer": "300 years plus 9",
+        "answer_hi": "300 साल और 9 साल"
+    },
+    {
+        "question": "Which companion was the first person to lead a public prayer in Medina before the Hijra?",
+        "question_hi": "हिजरत से पहले मदीना में सार्वजनिक नमाज का नेतृत्व करने वाले पहले सहाबी कौन थे?",
+        "options": [
+            "Abu Bakr (RA)",
+            "Mus'ab bin Umayr (RA)",
+            "Umar (RA)",
+            "Sa'd bin Abi Waqqas"
+        ],
+        "options_hi": [
+            "अबू बक्र (RA)",
+            "मुसाब बिन उमैर (RA)",
+            "उमर (RA)",
+            "साद बिन अबी वक़्क़ास"
+        ],
+        "answer": "Mus'ab bin Umayr (RA)",
+        "answer_hi": "मुसाब बिन उमैर (RA)"
+    },
+    {
+        "question": "What is the name of the Fortress that Ali (RA) conquered at the Battle of Khaybar?",
+        "question_hi": "खैबर की लड़ाई में अली (RA) द्वारा जीते गए किले का नाम क्या था?",
+        "options": [
+            "Al-Qamus",
+            "Na'im",
+            "Sa'b",
+            "Watih"
+        ],
+        "options_hi": [
+            "अल-क़ामूस",
+            "नईम",
+            "साब",
+            "वतीह"
+        ],
+        "answer": "Al-Qamus",
+        "answer_hi": "अल-क़ामूस"
+    },
+    {
+        "question": "Which Prophet build the Al-Aqsa Mosque according to Islamic tradition?",
+        "question_hi": "इस्लामी परंपरा के अनुसार मस्जिद अल-अक्सा का निर्माण किसने किया था?",
+        "options": [
+            "Prophet Adam (AS)",
+            "Prophet Ibrahim (AS)",
+            "Prophet Sulaiman (AS)",
+            "Prophet Musa (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर आदम (AS)",
+            "पैगंबर इब्राहिम (AS)",
+            "पैगंबर सुलेमान (AS)",
+            "पैगंबर मूसा (AS)"
+        ],
+        "answer": "Prophet Sulaiman (AS)",
+        "answer_hi": "पैगंबर सुलेमान (AS)"
+    },
+    {
+        "question": "Who was the maternal grandfather of Prophet Muhammad (PBUH)?",
+        "question_hi": "पैगंबर मुहम्मद (PBUH) के नाना (माता के पिता) कौन थे?",
+        "options": [
+            "Wahb ibn Abd Manaf",
+            "Abd Manaf",
+            "Hashim",
+            "Kilab"
+        ],
+        "options_hi": [
+            "वहब इब्न अब्द मनाफ",
+            "अब्द मनाफ",
+            "हाशिम",
+            "किलाब"
+        ],
+        "answer": "Wahb ibn Abd Manaf",
+        "answer_hi": "वहब इब्न अब्द मनाफ"
+    },
+    {
+        "question": "Which companion was known as 'Dhul-Shahadatayn' (Testimony equal to two men)?",
+        "question_hi": "किस सहाबी को 'धुल-शहादतैन' (जिसकी गवाही दो पुरुषों के बराबर हो) कहा जाता था?",
+        "options": [
+            "Abu Hurairah",
+            "Khuzaymah ibn Thabit (RA)",
+            "Zaid bin Thabit",
+            "Umar (RA)"
+        ],
+        "options_hi": [
+            "अबू हुरैरा",
+            "खुज़ैमा इब्न साबित (RA)",
+            "ज़ैद इब्न साबित",
+            "उमर (RA)"
+        ],
+        "answer": "Khuzaymah ibn Thabit (RA)",
+        "answer_hi": "खुज़ैमा इब्न साबित (RA)"
+    },
+    {
+        "question": "What is the name of the special treaty (Hilf) that the Prophet (PBUH) joined as a young man to protect the weak?",
+        "question_hi": "उस विशेष समझौते (Hilf) का नाम क्या है जिसमें पैगंबर (PBUH) ने कमजोरों की रक्षा के लिए अपनी युवावस्था में भाग लिया था?",
+        "options": [
+            "Hilf al-Fudul",
+            "Mithaq-e-Madina",
+            "Treaty of Hudaybiyyah",
+            "Pledge of Aqabah"
+        ],
+        "options_hi": [
+            "हिलफ़ अल-फ़ुज़ूल",
+            "मीसाक़-ए-मदीना",
+            "हुदैबिया की संधि",
+            "अक़बा का वचन"
+        ],
+        "answer": "Hilf al-Fudul",
+        "answer_hi": "हिलफ़ अल-फ़ुज़ूल"
+    },
+    {
+        "question": "Which Prophet's mother's name was Jochebed (Yukabad)?",
+        "question_hi": "किस पैगंबर की माता का नाम युकाबद (Jochebed) था?",
+        "options": [
+            "Prophet Isa (AS)",
+            "Prophet Musa (AS)",
+            "Prophet Yusuf (AS)",
+            "Prophet Ibrahim (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर ईसा (AS)",
+            "पैगंबर मूसा (AS)",
+            "पैगंबर यूसुफ (AS)",
+            "पैगंबर इब्राहिम (AS)"
+        ],
+        "answer": "Prophet Musa (AS)",
+        "answer_hi": "पैगंबर मूसा (AS)"
+    },
+    {
+        "question": "Which Prophet was given the miracle of fire becoming cold for him?",
+        "question_hi": "किस पैगंबर के लिए आग ठंडी हो जाने का चमत्कार हुआ था?",
+        "options": [
+            "Prophet Musa (AS)",
+            "Prophet Ibrahim (AS)",
+            "Prophet Isa (AS)",
+            "Prophet Nuh (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर मूसा (AS)",
+            "पैगंबर इब्राहिम (AS)",
+            "पैगंबर ईसा (AS)",
+            "पैगंबर नूह (AS)"
+        ],
+        "answer": "Prophet Ibrahim (AS)",
+        "answer_hi": "पैगंबर इब्राहिम (AS)"
+    },
+    {
+        "question": "Which companion was known as 'Dhul-Shahadatayn' (His testimony equal to two men)?",
+        "question_hi": "किस सहाबी को 'धुल-शहादतैन' (जिसकी गवाही दो के बराबर हो) कहा जाता था?",
+        "options": [
+            "Abu Hurairah",
+            "Khuzaymah ibn Thabit (RA)",
+            "Zaid bin Thabit",
+            "Umar (RA)"
+        ],
+        "options_hi": [
+            "अबू हुरैरा",
+            "खुज़ैमा इब्न साबित (RA)",
+            "ज़ैद इब्न साबित",
+            "उमर (RA)"
+        ],
+        "answer": "Khuzaymah ibn Thabit (RA)",
+        "answer_hi": "खुज़ैमा इब्न साबित (RA)"
+    },
+    {
+        "question": "Which Prophet is mentioned in the Quran as being able to soften iron with his hands?",
+        "question_hi": "कुरान में किस पैगंबर का उल्लेख है जो अपने हाथों से लोहे को नरम कर सकते थे?",
+        "options": [
+            "Prophet Musa (AS)",
+            "Prophet Dawud (AS)",
+            "Prophet Sulaiman (AS)",
+            "Prophet Yusuf (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर मूसा (AS)",
+            "पैगंबर दावूद (AS)",
+            "पैगंबर सुलेमान (AS)",
+            "पैगंबर यूसुफ (AS)"
+        ],
+        "answer": "Prophet Dawud (AS)",
+        "answer_hi": "पैगंबर दावूद (AS)"
+    },
+    {
+        "question": "What was the name of the first child born to the Muhajirun in Medina?",
+        "question_hi": "मदीना में मुहाजिरून (प्रवासियों) के यहाँ पैदा होने वाले पहले बच्चे का नाम क्या था?",
+        "options": [
+            "Abdullah ibn al-Zubayr (RA)",
+            "Hassan ibn Ali (RA)",
+            "Usama ibn Zaid (RA)",
+            "Anas ibn Malik (RA)"
+        ],
+        "options_hi": [
+            "अब्दुल्लाह इब्न अल-ज़ुबैर (RA)",
+            "हसन इब्न अली (RA)",
+            "उसामा इब्न ज़ैद (RA)",
+            "अनस इब्न मालिक (RA)"
+        ],
+        "answer": "Abdullah ibn al-Zubayr (RA)",
+        "answer_hi": "अब्दुल्लाह इब्न अल-ज़ुबैर (RA)"
+    },
+    {
+        "question": "Which companion was known as 'Ameen-ul-Ummah' (Trustee of the Ummah)?",
+        "question_hi": "किस सहाबी को 'अमीन-उल-उम्मत' (उम्मत का अमानतदार) कहा जाता था?",
+        "options": [
+            "Abu Bakr (RA)",
+            "Abu Ubaidah ibn al-Jarrah (RA)",
+            "Umar (RA)",
+            "Ali (RA)"
+        ],
+        "options_hi": [
+            "अबू बक्र (RA)",
+            "अबू उबैदा इब्न अल-जार्राह (RA)",
+            "उमर (RA)",
+            "अली (RA)"
+        ],
+        "answer": "Abu Ubaidah ibn al-Jarrah (RA)",
+        "answer_hi": "अबू उबैदा इब्न अल-जार्राह (RA)"
+    },
+    {
+        "question": "Which Prophet is known by the title 'Najiyullah' (Saved by Allah)?",
+        "question_hi": "'नजीउल्लाह' (अल्लाह द्वारा बचाया गया) किस पैगंबर की उपाधि है?",
+        "options": [
+            "Prophet Musa (AS)",
+            "Prophet Nuh (AS)",
+            "Prophet Ibrahim (AS)",
+            "Prophet Yusuf (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर मूसा (AS)",
+            "पैगंबर नूह (AS)",
+            "पैगंबर इब्राहिम (AS)",
+            "पैगंबर यूसुफ (AS)"
+        ],
+        "answer": "Prophet Nuh (AS)",
+        "answer_hi": "पैगंबर नूह (AS)"
+    },
+    {
+        "question": "What is the name of the place where pilgrims spend the night after leaving Arafat during Hajj?",
+        "question_hi": "हज के दौरान अराफ़ात छोड़ने के बाद तीर्थयात्री जिस स्थान पर रात बिताते हैं उसका नाम क्या है?",
+        "options": [
+            "Muzdalifah",
+            "Mina",
+            "Safa",
+            "Mecca"
+        ],
+        "options_hi": [
+            "मुज़दलिफ़ा",
+            "मीना",
+            "सफ़ा",
+            "मक्का"
+        ],
+        "answer": "Muzdalifah",
+        "answer_hi": "मुज़दलिफ़ा"
+    },
+    {
+        "question": "Which companion was nicknamed 'Dhu-Nura' (Possessor of Light)?",
+        "question_hi": "किस सहाबी को 'धुल-नूरा' (नूर वाला) उपनाम दिया गया था?",
+        "options": [
+            "Abu Bakr (RA)",
+            "Tufail ibn Amr ad-Dawsi (RA)",
+            "Uthman (RA)",
+            "Ali (RA)"
+        ],
+        "options_hi": [
+            "अबू बक्र (RA)",
+            "तुफैल इब्न अम्र अद-दौसी (RA)",
+            "उस्मान (RA)",
+            "अली (RA)"
+        ],
+        "answer": "Tufail ibn Amr ad-Dawsi (RA)",
+        "answer_hi": "तुफैल इब्न अम्र अद-दौसी (RA)"
+    },
+    {
+        "question": "What is the name of the Fortress Ali (RA) conquered at the Battle of Khaybar?",
+        "question_hi": "खैबर की लड़ाई में अली (RA) द्वारा जीते गए किले का नाम क्या था?",
+        "options": [
+            "Al-Qamus",
+            "Na'im",
+            "Sa'b",
+            "Watih"
+        ],
+        "options_hi": [
+            "अल-क़ामूस",
+            "नईम",
+            "साब",
+            "वतीह"
+        ],
+        "answer": "Al-Qamus",
+        "answer_hi": "अल-क़ामूस"
+    },
+    {
+        "question": "Which Prophet build the Kaaba together with his son Ismail (AS)?",
+        "question_hi": "किस पैगंबर ने अपने बेटे इस्माइल (AS) के साथ मिलकर काबा बनाया था?",
+        "options": [
+            "Prophet Adam (AS)",
+            "Prophet Ibrahim (AS)",
+            "Prophet Nuh (AS)",
+            "Prophet Musa (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर आदम (AS)",
+            "पैगंबर इब्राहिम (AS)",
+            "पैगंबर नूह (AS)",
+            "पैगंबर मूसा (AS)"
+        ],
+        "answer": "Prophet Ibrahim (AS)",
+        "answer_hi": "पैगंबर इब्राहिम (AS)"
+    },
+    {
+        "question": "Which Prophet was taken up to Heaven alive and will return before the end of time?",
+        "question_hi": "किस पैगंबर को जीवित स्वर्ग ले जाया गया था और वे कयामत से पहले वापस आएंगे?",
+        "options": [
+            "Prophet Musa (AS)",
+            "Prophet Isa (AS)",
+            "Prophet Idris (AS)",
+            "Prophet Yusuf (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर मूसा (AS)",
+            "पैगंबर ईसा (AS)",
+            "पैगंबर इदरीस (AS)",
+            "पैगंबर यूसुफ (AS)"
+        ],
+        "answer": "Prophet Isa (AS)",
+        "answer_hi": "पैगंबर ईसा (AS)"
+    },
+    {
+        "question": "Which Prophet's name is mentioned exactly 25 times in the Quran?",
+        "question_hi": "कुरान में किस पैगंबर का नाम ठीक 25 बार आया है?",
+        "options": [
+            "Prophet Isa (AS)",
+            "Prophet Ibrahim (AS)",
+            "Prophet Adam (AS)",
+            "Prophet Muhammad (PBUH)"
+        ],
+        "options_hi": [
+            "पैगंबर ईसा (AS)",
+            "पैगंबर इब्राहिम (AS)",
+            "पैगंबर आदम (AS)",
+            "पैगंबर मुहम्मद (PBUH)"
+        ],
+        "answer": "Prophet Isa (AS)",
+        "answer_hi": "पैगंबर ईसा (AS)"
+    },
+    {
+        "question": "Which companion was the first person to lead a public prayer in Medina?",
+        "question_hi": "मदीना में सार्वजनिक नमाज का नेतृत्व करने वाले पहले सहाबी कौन थे?",
+        "options": [
+            "Abu Bakr (RA)",
+            "Mus'ab bin Umayr (RA)",
+            "Umar (RA)",
+            "Ali (RA)"
+        ],
+        "options_hi": [
+            "अबू बक्र (RA)",
+            "मुसाब बिन उमैर (RA)",
+            "उमर (RA)",
+            "अली (RA)"
+        ],
+        "answer": "Mus'ab bin Umayr (RA)",
+        "answer_hi": "मुसाब बिन उमैर (RA)"
+    },
+    {
+        "question": "Who was the companion that accompanied the Prophet (PBUH) to Taif?",
+        "question_hi": "ताइफ की यात्रा के दौरान पैगंबर (PBUH) के साथ कौन से सहाबी थे?",
+        "options": [
+            "Zaid bin Harithah (RA)",
+            "Abu Bakr (RA)",
+            "Ali (RA)",
+            "Umar (RA)"
+        ],
+        "options_hi": [
+            "ज़ैद इब्न हारिसा (RA)",
+            "अबू बक्र (RA)",
+            "अली (RA)",
+            "उमर (RA)"
+        ],
+        "answer": "Zaid bin Harithah (RA)",
+        "answer_hi": "ज़ैद इब्न हारिसा (RA)"
+    },
+    {
+        "question": "Which Prophet was born in the year of the King's extreme drought?",
+        "question_hi": "किस पैगंबर का जन्म राजा के भीषण सूखे के वर्ष में हुआ था?",
+        "options": [
+            "Prophet Yusuf (AS)",
+            "Prophet Yahya (AS)",
+            "Prophet Musa (AS)",
+            "Prophet Isa (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर यूसुफ (AS)",
+            "पैगंबर याह्या (AS)",
+            "पैगंबर मूसा (AS)",
+            "पैगंबर ईसा (AS)"
+        ],
+        "answer": "Prophet Yahya (AS)",
+        "answer_hi": "पैगंबर याह्या (AS)"
+    },
+    {
+        "question": "What is the name of the special treaty that the Prophet (PBUH) joined as a youth to protect the weak?",
+        "question_hi": "उस विशेष समझौते का नाम क्या है जिसमें पैगंबर (PBUH) ने कमजोरों की रक्षा के लिए अपनी युवावस्था में भाग लिया था?",
+        "options": [
+            "Hilf al-Fudul",
+            "Mithaq-e-Madina",
+            "Treaty of Hudaybiyyah",
+            "Pledge of Aqabah"
+        ],
+        "options_hi": [
+            "हिलफ़ अल-फ़ुज़ूल",
+            "मीसाक़-ए-मदीना",
+            "हुदैबिया की संधि",
+            "अक़बा का वचन"
+        ],
+        "answer": "Hilf al-Fudul",
+        "answer_hi": "हिलफ़ अल-फ़ुज़ूल"
+    },
+    {
+        "question": "Who was the companion that carried the flag of the Muslims in the Battle of Mu'tah first?",
+        "question_hi": "मुताह की लड़ाई में मुसलमानों का झंडा सबसे पहले किस सहाबी ने संभाला था?",
+        "options": [
+            "Zaid bin Harithah (RA)",
+            "Ja'far bin Abi Talib (RA)",
+            "Abdullah bin Rawaha (RA)",
+            "Khalid bin Walid (RA)"
+        ],
+        "options_hi": [
+            "ज़ैद इब्न हारिसा (RA)",
+            "जाफ़र इब्न अबी तालिब (RA)",
+            "अब्दुल्लाह इब्न रवाहा (RA)",
+            "खालिद बिन वालिद (RA)"
+        ],
+        "answer": "Zaid bin Harithah (RA)",
+        "answer_hi": "ज़ैद इब्न हारिसा (RA)"
+    },
+    {
+        "question": "Who was the companion that hosted the Prophet (PBUH) at Quba?",
+        "question_hi": "कुबा में पैगंबर (PBUH) की मेज़बानी किस सहाबी ने की थी?",
+        "options": [
+            "Kulthum ibn al-Hidm (RA)",
+            "Abu Bakr (RA)",
+            "Abu Ayyub al-Ansari (RA)",
+            "Umar (RA)"
+        ],
+        "options_hi": [
+            "कुलसुम इब्न अल-हिद्म (RA)",
+            "अबू बक्र (RA)",
+            "अबू अय्यूब अल-अंसारी (RA)",
+            "उमर (RA)"
+        ],
+        "answer": "Kulthum ibn al-Hidm (RA)",
+        "answer_hi": "कुलसुम इब्न अल-हिद्म (RA)"
+    },
+    {
+        "question": "Which Prophet was gifted a son named Ishaq (AS) in his old age?",
+        "question_hi": "किस पैगंबर को वृद्धावस्था में इसहाक (AS) नाम का पुत्र उपहार में मिला था?",
+        "options": [
+            "Prophet Ibrahim (AS)",
+            "Prophet Musa (AS)",
+            "Prophet Yusuf (AS)",
+            "Prophet Nuh (AS)"
+        ],
+        "options_hi": [
+            "पैगंबर इब्राहिम (AS)",
+            "पैगंबर मूसा (AS)",
+            "पैगंबर यूसुफ (AS)",
+            "पैगंबर नूह (AS)"
+        ],
+        "answer": "Prophet Ibrahim (AS)",
+        "answer_hi": "पैगंबर इब्राहिम (AS)"
     }
 ]

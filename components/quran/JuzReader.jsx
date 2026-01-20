@@ -5,10 +5,37 @@ import { ArrowLeft } from "lucide-react";
 import Link from "next/link";
 import AyahDisplay from "@/components/quran/AyahDisplay";
 import TranslationToggle from "@/components/quran/TranslationToggle";
+import { getJuzById } from "@/lib/quran-api";
 
-export default function JuzReader({ juzData }) {
+export default function JuzReader({ juzData: initialJuzData }) {
+    const [juzData, setJuzData] = useState(initialJuzData);
     const [showTranslation, setShowTranslation] = useState(true);
+    const [showTransliteration, setShowTransliteration] = useState(true);
+    const [selectedLanguage, setSelectedLanguage] = useState("en");
     const [currentlyPlaying, setCurrentlyPlaying] = useState(null);
+
+    const handleAyahPlayStateChange = (verseKey) => {
+        setCurrentlyPlaying(verseKey);
+    };
+
+    const handleLanguageChange = async (language) => {
+        setSelectedLanguage(language);
+
+        // Translation ID mapping
+        const translationIds = {
+            en: 20,  // English - Saheeh International
+            hi: 122, // Hindi
+            ur: 97   // Urdu - Maududi
+        };
+
+        const translationId = translationIds[language];
+
+        // Refetch Juz data with new translation
+        const newJuzData = await getJuzById(juzData.juzNumber, translationId);
+        if (newJuzData) {
+            setJuzData(newJuzData);
+        }
+    };
 
     if (!juzData) {
         return (
@@ -42,7 +69,11 @@ export default function JuzReader({ juzData }) {
                 </div>
 
                 {/* Translation Toggle */}
-                <TranslationToggle onToggle={setShowTranslation} />
+                <TranslationToggle
+                    onToggle={setShowTranslation}
+                    selectedLanguage={selectedLanguage}
+                    onLanguageChange={handleLanguageChange}
+                />
 
                 {/* Surahs in Juz */}
                 <div className="space-y-8">
@@ -70,8 +101,9 @@ export default function JuzReader({ juzData }) {
                                         key={ayah.id}
                                         ayah={ayah}
                                         showTranslation={showTranslation}
+                                        showTransliteration={showTransliteration}
                                         currentlyPlaying={currentlyPlaying}
-                                        onPlayStateChange={setCurrentlyPlaying}
+                                        onPlayStateChange={handleAyahPlayStateChange}
                                     />
                                 ))}
                             </div>
