@@ -34,7 +34,8 @@ export default function TranslationToggle({ onToggle, selectedLanguage = "en", o
                     }`}
             >
                 {showTranslation ? <Eye size={20} /> : <EyeOff size={20} />}
-                {showTranslation ? "Hide Translation" : "Show Translation"}
+                <span className="hidden sm:inline">{showTranslation ? "Hide Translation" : "Show Translation"}</span>
+                <span className="sm:hidden">{showTranslation ? "Hide" : "Show"}</span>
             </button>
 
             {/* Language Dropdown */}

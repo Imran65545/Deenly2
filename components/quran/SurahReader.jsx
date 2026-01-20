@@ -232,7 +232,7 @@ export default function SurahReader({ surahData: initialSurahData }) {
 
                 {/* Attribution */}
                 <div className="text-center mt-8 text-sm text-gray-500">
-                    <p>Powered by Quran.com</p>
+                    <p>Source: Quran.com</p>
                 </div>
             </div>
         </div>

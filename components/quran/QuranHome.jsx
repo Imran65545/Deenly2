@@ -15,7 +15,7 @@ export default function QuranHome({ surahs, juzs }) {
                     <h1 className="text-4xl font-bold text-emerald-800 mb-2">القرآن الكريم</h1>
                     <h2 className="text-2xl font-semibold text-gray-700">The Holy Quran</h2>
                     <p className="text-emerald-100 text-sm">
-                        Powered by Quran.com
+                        Source: Quran.com
                     </p>
                 </div>
 

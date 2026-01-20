@@ -37,6 +37,14 @@ export default function Home() {
                 >
                     View Leaderboard
                 </Link>
+                {session && (
+                    <Link
+                        href="/dashboard"
+                        className="bg-white text-slate-700 border border-slate-300 px-8 py-3 rounded-full font-semibold hover:bg-slate-50 transition"
+                    >
+                        Dashboard
+                    </Link>
+                )}
             </div>
 
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-16 text-left max-w-5xl">
