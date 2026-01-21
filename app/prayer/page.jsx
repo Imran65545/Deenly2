@@ -573,19 +573,19 @@ export default function PrayerTimes() {
                                     }`}
                             >
                                 <div className="flex items-center gap-3">
-                                    <span className="text-2xl">{PRAYER_ICONS[prayer]}</span>
-                                    <span className={`font-semibold text-lg ${isNext ? "text-slate-900" : "text-slate-700"
+                                    <span className="text-xl md:text-2xl">{PRAYER_ICONS[prayer]}</span>
+                                    <span className={`font-semibold text-base md:text-lg ${isNext ? "text-slate-900" : "text-slate-700"
                                         }`}>
                                         {prayer}
                                     </span>
                                 </div>
-                                <div className="flex items-center gap-3">
-                                    <span className={`font-bold text-lg ${isNext ? "text-slate-900" : "text-slate-600"
+                                <div className="flex items-center gap-2 md:gap-3">
+                                    <span className={`font-bold text-base md:text-lg ${isNext ? "text-slate-900" : "text-slate-600"
                                         }`}>
                                         {formatTime(prayerTimes[prayer])}
                                     </span>
                                     {isNext && (
-                                        <span className="bg-slate-900 text-white text-xs px-3 py-1 rounded-full font-medium">
+                                        <span className="bg-slate-900 text-white text-[10px] md:text-xs px-2 py-0.5 md:px-3 md:py-1 rounded-full font-medium shadow-sm whitespace-nowrap">
                                             Upcoming
                                         </span>
                                     )}
