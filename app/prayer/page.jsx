@@ -419,7 +419,8 @@ export default function PrayerTimes() {
 
             if (currentToken) {
                 // Send token to server
-                await fetch('/api/push/subscribe', {
+                // Send token to server
+                const response = await fetch('/api/push/subscribe', {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json'
@@ -430,7 +431,11 @@ export default function PrayerTimes() {
                         notificationsEnabled,
                         adhanAudioEnabled
                     })
-                }).catch(err => console.log('Subscription save failed:', err));
+                });
+
+                if (!response.ok) {
+                    throw new Error(`Server error: ${response.status}`);
+                }
 
                 setPushEndpoint(currentToken);
                 console.log('FCM Token registered:', currentToken);
