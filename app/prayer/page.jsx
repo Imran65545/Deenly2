@@ -373,6 +373,7 @@ export default function PrayerTimes() {
                     subscription = await registration.pushManager.subscribe({
                         userVisibleOnly: true,
                         applicationServerKey: uint8Array
+
                     });
                     console.log('Push subscription created successfully');
                 } catch (subError) {
@@ -380,6 +381,7 @@ export default function PrayerTimes() {
                     return; // Gracefully fail - local notifications will still work
                 }
             }
+
 
             // Send subscription to server
             await fetch('/api/push/subscribe', {
