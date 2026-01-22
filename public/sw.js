@@ -64,35 +64,7 @@ self.addEventListener('message', (event) => {
     }
 });
 
-// Handle push events from server
-self.addEventListener('push', (event) => {
-    if (!event.data) return;
-
-    try {
-        const data = event.data.json();
-
-        const options = {
-            body: data.body,
-            icon: data.icon || '/icon.png',
-            badge: data.badge || '/icon.png',
-            tag: `prayer-${data.prayer}`,
-            requireInteraction: true,
-            vibrate: [200, 100, 200],
-            data: {
-                url: '/prayer',
-                playAudio: data.playAudio,
-                prayer: data.prayer,
-                time: data.time
-            }
-        };
-
-        event.waitUntil(
-            self.registration.showNotification(data.title, options)
-        );
-    } catch (error) {
-        console.error('Error handling push event:', error);
-    }
-});
+// Legacy 'push' listener removed to prevent conflict with FCM onBackgroundMessage
 
 // Schedule prayer notifications
 function schedulePrayerNotifications(prayerTimes, notificationsEnabled, adhanAudioEnabled) {
