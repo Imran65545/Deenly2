@@ -8,7 +8,8 @@ const PRAYER_NAMES = ["Fajr", "Sunrise", "Dhuhr", "Asr", "Maghrib", "Isha"];
 const NOTIFICATION_PRAYERS = ["Fajr", "Dhuhr", "Asr", "Maghrib", "Isha"];
 
 // VAPID Public Key for Web Push
-const VAPID_PUBLIC_KEY = 'BILcZlIa3VJs73eGghMA5nLR7SdxkEZlKopE3h11ISwW5AGk7DrySWmqiP4wz7uVhHsu0WZ';
+// You must generate this using: npm run generate-vapid-keys
+const VAPID_PUBLIC_KEY = process.env.NEXT_PUBLIC_VAPID_PUBLIC_KEY || '';
 
 const PRAYER_ICONS = {
     Fajr: "🌙",

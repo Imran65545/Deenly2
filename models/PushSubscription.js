@@ -45,8 +45,7 @@ const PushSubscriptionSchema = new mongoose.Schema({
     }
 });
 
-// Index for faster queries
-PushSubscriptionSchema.index({ endpoint: 1 });
+// Index for faster queries (endpoint already has unique: true)
 PushSubscriptionSchema.index({ notificationsEnabled: 1 });
 
 export default mongoose.models.PushSubscription || mongoose.model('PushSubscription', PushSubscriptionSchema);
