@@ -7,6 +7,9 @@ import Link from "next/link";
 const PRAYER_NAMES = ["Fajr", "Sunrise", "Dhuhr", "Asr", "Maghrib", "Isha"];
 const NOTIFICATION_PRAYERS = ["Fajr", "Dhuhr", "Asr", "Maghrib", "Isha"];
 
+// VAPID Public Key for Web Push
+const VAPID_PUBLIC_KEY = 'BILcZlIa3VJs73eGghMA5nLR7SdxkEZlKopE3h11ISwW5AGk7DrySWmqiP4wz7uVhHsu0WZ';
+
 const PRAYER_ICONS = {
     Fajr: "🌙",
     Sunrise: "🌅",
@@ -67,10 +70,11 @@ export default function PrayerTimes() {
             if (notificationsEnabled) {
                 schedulePrayerNotifications();
                 sendNotificationsToServiceWorker(); // Send to Service Worker for background
+                subscribeToPushNotifications(); // Subscribe to server push
             }
             return () => clearInterval(interval);
         }
-    }, [prayerTimes, notificationsEnabled, adhanAudioEnabled]);
+    }, [prayerTimes, notificationsEnabled, adhanAudioEnabled, location]);
 
     useEffect(() => {
         if (testDemoCountdown > 0) {
@@ -334,6 +338,63 @@ export default function PrayerTimes() {
             });
         }
     };
+
+    // Subscribe to push notifications
+    const subscribeToPushNotifications = async () => {
+        try {
+            if (!('serviceWorker' in navigator) || !('PushManager' in window)) {
+                console.log('Push notifications not supported');
+                return;
+            }
+
+            const registration = await navigator.serviceWorker.ready;
+
+            // Check if already subscribed
+            let subscription = await registration.pushManager.getSubscription();
+
+            if (!subscription) {
+                // Subscribe to push
+                subscription = await registration.pushManager.subscribe({
+                    userVisibleOnly: true,
+                    applicationServerKey: urlBase64ToUint8Array(VAPID_PUBLIC_KEY)
+                });
+            }
+
+            // Send subscription to server
+            await fetch('/api/push/subscribe', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                    subscription,
+                    location,
+                    notificationsEnabled,
+                    adhanAudioEnabled
+                })
+            });
+
+            console.log('Push subscription successful');
+        } catch (error) {
+            console.error('Error subscribing to push:', error);
+        }
+    };
+
+    // Helper function to convert VAPID key
+    function urlBase64ToUint8Array(base64String) {
+        const padding = '='.repeat((4 - base64String.length % 4) % 4);
+        const base64 = (base64String + padding)
+            .replace(/\-/g, '+')
+            .replace(/_/g, '/');
+
+        const rawData = window.atob(base64);
+        const outputArray = new Uint8Array(rawData.length);
+
+        for (let i = 0; i < rawData.length; ++i) {
+            outputArray[i] = rawData.charCodeAt(i);
+        }
+        return outputArray;
+    }
 
     const scheduleTestDemo = () => {
         // Request notification permission first if needed

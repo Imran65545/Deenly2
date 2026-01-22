@@ -32,6 +32,36 @@ self.addEventListener('message', (event) => {
     }
 });
 
+// Handle push events from server
+self.addEventListener('push', (event) => {
+    if (!event.data) return;
+
+    try {
+        const data = event.data.json();
+
+        const options = {
+            body: data.body,
+            icon: data.icon || '/icon.png',
+            badge: data.badge || '/icon.png',
+            tag: `prayer-${data.prayer}`,
+            requireInteraction: true,
+            vibrate: [200, 100, 200],
+            data: {
+                url: '/prayer',
+                playAudio: data.playAudio,
+                prayer: data.prayer,
+                time: data.time
+            }
+        };
+
+        event.waitUntil(
+            self.registration.showNotification(data.title, options)
+        );
+    } catch (error) {
+        console.error('Error handling push event:', error);
+    }
+});
+
 // Schedule prayer notifications
 function schedulePrayerNotifications(prayerTimes, notificationsEnabled, adhanAudioEnabled) {
     if (!notificationsEnabled) return;
@@ -97,16 +127,26 @@ async function showPrayerNotification(prayer, time, adhanAudioEnabled) {
 self.addEventListener('notificationclick', (event) => {
     event.notification.close();
 
+    const playAudio = event.notification.data?.playAudio;
+
     event.waitUntil(
         clients.matchAll({ type: 'window', includeUncontrolled: true }).then((clientList) => {
             // Check if app is already open
             for (let client of clientList) {
                 if ('focus' in client) {
-                    return client.focus();
+                    client.focus();
+                    // Send message to play audio
+                    if (playAudio) {
+                        client.postMessage({
+                            type: 'PLAY_ADHAN_AUDIO',
+                            prayer: event.notification.data.prayer
+                        });
+                    }
+                    return;
                 }
             }
             // If not open, open the prayer page
-            return clients.openWindow('/prayer');
+            return clients.openWindow('/prayer?playAudio=' + (playAudio ? '1' : '0'));
         })
     );
 });
