@@ -772,6 +772,7 @@ export default function PrayerTimes() {
                                     ? `${location.city}, ${location.country}`
                                     : location?.city || "Current Location"}
                             </span>
+                            <span className="text-[10px] bg-white/10 px-1 rounded ml-1">v1.1</span>
                         </div>
                         <div className="flex items-center gap-2">
                             <button
