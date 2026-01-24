@@ -12,6 +12,8 @@ const PRAYER_QUOTES = {
     Isha: "Wash away the world's stress. Find peace before you sleep."
 };
 
+const PRAYER_NAMES = ['Fajr', 'Dhuhr', 'Asr', 'Maghrib', 'Isha'];
+
 export async function GET(request) {
     try {
         await dbConnect();
@@ -33,37 +35,25 @@ export async function GET(request) {
         let sentCount = 0;
         const expiredSubscriptions = [];
 
-        // Deduplicate Logic: Group by Location (Lat/Lng)
-        // If a user re-subscribes (e.g. new FCM token) without the old one dying, 
-        // we might have 2 active docs for the same person.
+        // Deduplicate Logic: Group by TOKEN (not standardized location)
+        // This ensures multiple users at same location still get notifications
+        // but prevents 1 user/device with multiple docs getting spam.
         const uniqueSubs = new Map();
         const duplicatesToDelete = [];
 
         subscriptions.forEach(sub => {
-            // Create a unique key based on location (standardized)
-            // Using 4 decimal places for precision (~11 meters) to group same-house users
-            // but effectively distinct enough for "same user device"
-            if (!sub.location || !sub.location.lat || !sub.location.lng) return;
+            // Identifier is either fcmToken or endpoint
+            const tokenIdentifier = sub.fcmToken || sub.endpoint;
+            if (!tokenIdentifier) return;
 
-            const key = `${sub.location.lat.toFixed(4)}_${sub.location.lng.toFixed(4)}`;
+            const key = tokenIdentifier;
 
             if (uniqueSubs.has(key)) {
-                // Conflict! We have a duplicate location.
+                // Conflict! Duplicate token doc.
                 const existing = uniqueSubs.get(key);
 
-                // DATA CLEANUP STRATEGY:
-                // 1. Prefer FCM over VAPID
-                // 2. Prefer Newer over Older
-
-                let keepNew = false;
-
-                // Priority: FCM > VAPID
-                if (sub.tokenType === 'fcm' && existing.tokenType !== 'fcm') keepNew = true;
-                else if (sub.tokenType !== 'fcm' && existing.tokenType === 'fcm') keepNew = false;
-                // If both same type, keep newer
-                else if (new Date(sub.createdAt) > new Date(existing.createdAt)) keepNew = true;
-
-                if (keepNew) {
+                // Keep newer
+                if (new Date(sub.createdAt) > new Date(existing.createdAt)) {
                     duplicatesToDelete.push(existing._id);
                     uniqueSubs.set(key, sub);
                 } else {
