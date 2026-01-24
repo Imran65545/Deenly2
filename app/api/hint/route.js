@@ -1,24 +1,13 @@
 import { NextResponse } from "next/server";
-
 export const dynamic = 'force-dynamic';
-import Groq from "groq-sdk";
+import { generateText } from "@/lib/ai";
 
 export async function POST(req) {
     try {
         const { question, options, lang = "en" } = await req.json();
-        const apiKey = process.env.GROQ_API_KEY;
 
-        if (!apiKey) {
-            return NextResponse.json(
-                { hint: "This is a simulated hint. Add GROQ_API_KEY to get real AI hints!" },
-                { status: 200 }
-            );
-        }
-
-        const groq = new Groq({ apiKey });
-
-        const prompt = `
-            You are an Islamic scholar helper. 
+        const systemPrompt = `You are an Islamic scholar helper.`;
+        const userPrompt = `
             Question: "${question}"
             Options: ${JSON.stringify(options)}
             
@@ -31,22 +20,11 @@ export async function POST(req) {
             ${lang === "hi" ? "5. Return ONLY the Hindi text." : ""}
         `;
 
-        const completion = await groq.chat.completions.create({
-            messages: [
-                {
-                    role: "user",
-                    content: prompt,
-                },
-            ],
-            model: "llama-3.3-70b-versatile",
-        });
+        const hint = await generateText(systemPrompt, userPrompt);
 
-        const hint = completion.choices[0]?.message?.content || "No hint available.";
-
-        return NextResponse.json({ hint }, { status: 200 });
+        return NextResponse.json({ hint: hint || "No hint available." }, { status: 200 });
     } catch (error) {
         console.error("Hint API Error:", error);
-        console.error("API Key present:", !!process.env.GROQ_API_KEY);
         return NextResponse.json(
             { message: "Failed to generate hint", error: error.message },
             { status: 500 }
