@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
+    "@huggingface/inference": "^4.13.10",
     "bcryptjs": "^3.0.3",
     "dotenv": "^17.2.3",
     "firebase": "^12.8.0",
